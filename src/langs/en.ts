@@ -1,4 +1,4 @@
-import { ERROR_MESSAGES } from './messages';
+import { ERROR_MESSAGES } from '../messages';
 
 export default {
   translations: {
