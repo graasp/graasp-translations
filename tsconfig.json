@@ -5,8 +5,9 @@
     // "strict": true,
     "outDir": "dist",
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "declaration": true,
   },
   "include": ["src/**/*"],
-  "exclude": ["src/**/__mocks__", "test"]
+  "exclude": ["test", "src/**/*.test.ts"]
 }
