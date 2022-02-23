@@ -1,12 +1,11 @@
 {
   "extends": [
-    "airbnb",
     "prettier",
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended"
   ],
-  "plugins": ["import", "jsx-a11y", "react", "react-hooks"],
+  "plugins": ["import"],
   "ignorePatterns": ["dist"],
   "env": {
     "browser": true,
@@ -14,62 +13,8 @@
     "mocha": true,
     "jest": true
   },
-  "globals": {
-    "cy": true,
-    "Cypress": true
-  },
   "parser": "@typescript-eslint/parser",
   "rules": {
-    "no-underscore-dangle": [
-      "error",
-      {
-        "allow": ["_id", "__REDUX_DEVTOOLS_EXTENSION__"]
-      }
-    ],
-    "jsx-a11y/anchor-is-valid": [
-      "error",
-      {
-        "components": ["Link"],
-        "specialLink": ["to", "hrefLeft", "hrefRight"],
-        "aspects": ["noHref", "invalidHref", "preferButton"]
-      }
-    ],
-    "react/jsx-filename-extension": [
-      1,
-      {
-        "extensions": [".js", ".jsx", ".tsx", ".ts"]
-      }
-    ],
-    "import/no-named-as-default": 0,
-    "react/static-property-placement": [
-      "error",
-      "property assignment",
-      {
-        "childContextTypes": "static public field",
-        "contextTypes": "static public field",
-        "contextType": "static public field",
-        "defaultProps": "static public field",
-        "displayName": "static public field",
-        "propTypes": "static public field"
-      }
-    ],
-    "react/state-in-constructor": ["error", "never"],
-    "no-console": [1, { "allow": ["error", "debug"] }],
-    "no-restricted-syntax": "off",
-    "import/extensions": [
-      "error",
-      "ignorePackages",
-      {
-        "js": "never",
-        "jsx": "never",
-        "ts": "never",
-        "tsx": "never"
-      }
-    ],
-    "import/no-unresolved": [2, { "ignore": ["^react$"] }],
-    "no-shadow": "off",
-    "@typescript-eslint/no-shadow": "error",
-    "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": [
       "warn", 
       { 
