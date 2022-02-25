@@ -1,4 +1,4 @@
-import { FAILURE_MESSAGES } from '../messages';
+import { FAILURE_MESSAGES, SUCCESS_MESSAGES } from '../messages';
 
 export default {
   translations: {
@@ -32,5 +32,33 @@ export default {
     [FAILURE_MESSAGES.DATABASE_ERROR]:
       'An unexpected error occurred at the database level',
     [FAILURE_MESSAGES.UNEXPECTED_ERROR]: 'An unexpected error occurred',
+
+    [SUCCESS_MESSAGES.RESTORE_ITEMS]: 'You successfully restore the item(s).',
+    [SUCCESS_MESSAGES.CREATE_ITEM]: 'The item was successfully created.',
+    [SUCCESS_MESSAGES.DELETE_ITEMS]: 'The item(s) were successfully deleted.',
+    [SUCCESS_MESSAGES.MOVE_ITEM]: 'The item was successfully moved.',
+    [SUCCESS_MESSAGES.MOVE_ITEMS]: 'The items were successfully moved.',
+    [SUCCESS_MESSAGES.COPY_ITEM]: 'The item(s) were successfully copied.',
+    [SUCCESS_MESSAGES.COPY_ITEMS]: 'The item(s) were successfully copied.',
+    [SUCCESS_MESSAGES.EDIT_ITEM]: 'The item(s) were successfully edited.',
+    [SUCCESS_MESSAGES.SHARE_ITEM]: 'The item(s) were successfully shared.',
+    [SUCCESS_MESSAGES.UPLOAD_FILES]: 'The file(s) were successfully uploaded.',
+    [SUCCESS_MESSAGES.SIGN_OUT]: 'You successfully signed out.',
+    [SUCCESS_MESSAGES.EDIT_MEMBER]: 'The member was updated successfully',
+    [SUCCESS_MESSAGES.COPY_MEMBER_ID_TO_CLIPBOARD]:
+      'Member ID is successfully copied!',
+    [SUCCESS_MESSAGES.EDIT_ITEM_MEMBERSHIP]:
+      'The item membership was successfully edited.',
+    [SUCCESS_MESSAGES.DELETE_ITEM_MEMBERSHIP]:
+      'The item membership was successfully deleted.',
+    [SUCCESS_MESSAGES.POST_ITEM_FLAG]: 'The item was successfully flagged',
+    [SUCCESS_MESSAGES.COPY_ITEM_LINK_TO_CLIPBOARD]:
+      'Link is successfully copied!',
+    [SUCCESS_MESSAGES.RECYCLE_ITEMS]:
+      'The item(s) were successfully moved to the recycle bin.',
+    [SUCCESS_MESSAGES.UPLOAD_ITEM_THUMBNAIL]:
+      'The thumbnail was successfully uploaded.',
+    [SUCCESS_MESSAGES.UPLOAD_AVATAR]: 'The avatar was successfully uploaded.',
+    [SUCCESS_MESSAGES.IMPORT_ZIP]: 'The ZIP archive was successfully imported.',
   },
 };

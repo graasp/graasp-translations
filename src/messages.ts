@@ -1,4 +1,5 @@
-// Object containing messages for error messages
+// error messages, used in error classes
+// the content is human readible for server errors to make sense
 export const FAILURE_MESSAGES = {
   ITEM_NOT_FOUND: 'Item not found',
   TOO_MANY_DESCENDANTS: 'Too many descendants',
@@ -25,41 +26,33 @@ export const FAILURE_MESSAGES = {
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
 
+// sucess messages, used for front end feedback
+// the content is keys since they should always be translated
 export const SUCCESS_MESSAGES = {
-  RESTORE_ITEMS: 'You successfully restore the item(s).',
-  CREATE_ITEM: 'The item was successfully created.',
-  DELETE_ITEMS_SUCCESS_MESSAGE: 'The item(s) were successfully deleted.',
-  MOVE_ITEM_SUCCESS_MESSAGE: 'The item was successfully moved.',
-  MOVE_ITEMS_SUCCESS_MESSAGE: 'The items were successfully moved.',
-  COPY_ITEM_SUCCESS_MESSAGE: 'The item(s) were successfully copied.',
-  COPY_ITEMS_SUCCESS_MESSAGE: 'The item(s) were successfully copied.',
-  EDIT_ITEM_SUCCESS_MESSAGE: 'The item(s) were successfully edited.',
-  SHARE_ITEM_SUCCESS_MESSAGE: 'The item(s) were successfully shared.',
-  UPLOAD_FILES_SUCCESS_MESSAGE: 'The file(s) were successfully uploaded.',
-  UPLOAD_FILES_PROGRESS_MESSAGE:
-    'The file(s) are in queue for uploading. Please wait a moment.',
-  SIGN_OUT_SUCCESS_MESSAGE: 'You successfully signed out.',
-  EDIT_MEMBER_SUCCESS_MESSAGE: 'The member was updated successfully',
-  COPY_MEMBER_ID_TO_CLIPBOARD_SUCCESS_MESSAGE:
-    'Member ID is successfully copied!',
-  EDIT_ITEM_MEMBERSHIP_SUCCESS_MESSAGE:
-    'The item membership was successfully edited.',
-  DELETE_ITEM_MEMBERSHIP_SUCCESS_MESSAGE:
-    'The item membership was successfully deleted.',
-  POST_ITEM_FLAG_SUCCESS_MESSAGE: 'The item was successfully flagged',
-  COPY_ITEM_LINK_TO_CLIPBOARD_SUCCESS_MESSAGE: 'Link is successfully copied!',
-  RECYCLE_ITEMS_SUCCESS_MESSAGE:
-    'The item(s) were successfully moved to the recycle bin.',
-  UPLOAD_ITEM_THUMBNAIL_SUCCESS_MESSAGE:
-    'The thumbnail was successfully uploaded.',
-  UPLOAD_ITEM_THUMBNAIL_FAILURE_MESSAGE:
-    'An error occurred while uploading the thumbnail.',
-  UPLOAD_AVATAR_SUCCESS_MESSAGE: 'The avatar was successfully uploaded.',
-  UPLOAD_AVATAR_FAILURE_MESSAGE:
-    'An error occurred while uploading the avatar.',
-  IMPORT_ZIP_SUCCESS_MESSAGE: 'The ZIP archive was successfully imported.',
-  IMPORT_ZIP_FAILURE_MESSAGE:
-    'An error occurred while importing The ZIP archive.',
-  IMPORT_ZIP_PROGRESS_MESSAGE:
-    'The ZIP is being processed. Please wait a moment.',
+  RESTORE_ITEMS: 'RESTORE_ITEMS',
+  CREATE_ITEM: 'CREATE_ITEM',
+  DELETE_ITEMS: 'DELETE_ITEMS',
+  MOVE_ITEM: 'MOVE_ITEM',
+  MOVE_ITEMS: 'MOVE_ITEMS',
+  COPY_ITEM: 'COPY_ITEM',
+  COPY_ITEMS: 'COPY_ITEMS',
+  EDIT_ITEM: 'EDIT_ITEM',
+  SHARE_ITEM: 'SHARE_ITEM',
+  UPLOAD_FILES: 'UPLOAD_FILES',
+  SIGN_OUT: 'SIGN_OUT',
+  EDIT_MEMBER: 'EDIT_MEMBER',
+  COPY_MEMBER_ID_TO_CLIPBOARD: 'COPY_MEMBER_ID_TO_CLIPBOARD',
+  EDIT_ITEM_MEMBERSHIP: 'EDIT_ITEM_MEMBERSHIP',
+  DELETE_ITEM_MEMBERSHIP: 'DELETE_ITEM_MEMBERSHIP',
+  POST_ITEM_FLAG: 'POST_ITEM_FLAG',
+  COPY_ITEM_LINK_TO_CLIPBOARD: 'COPY_ITEM_LINK_TO_CLIPBOARD',
+  RECYCLE_ITEMS: 'RECYCLE_ITEMS',
+  UPLOAD_ITEM_THUMBNAIL: 'UPLOAD_ITEM_THUMBNAIL',
+  UPLOAD_AVATAR: 'UPLOAD_AVATAR',
+  IMPORT_ZIP: 'IMPORT_ZIP',
+};
+
+// todo: might not be used anymore if we add a progress bar
+export const REQUEST_MESSAGES = {
+  IMPORT_ZIP: 'The ZIP is being processed. Please wait a moment.',
 };
