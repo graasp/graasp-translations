@@ -33,6 +33,11 @@ export default {
       'An unexpected error occurred at the database level',
     [FAILURE_MESSAGES.UNEXPECTED_ERROR]: 'An unexpected error occurred',
 
+    [FAILURE_MESSAGES.STORAGE_EXCEEDED]:
+      'You exceeded your allowed file storage',
+    [FAILURE_MESSAGES.FILE_SIZE_NOT_FOUND]:
+      'The file size could not be calculated',
+
     [SUCCESS_MESSAGES.RESTORE_ITEMS]: 'You successfully restore the item(s).',
     [SUCCESS_MESSAGES.CREATE_ITEM]: 'The item was successfully created.',
     [SUCCESS_MESSAGES.DELETE_ITEMS]: 'The item(s) were successfully deleted.',

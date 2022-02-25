@@ -1,6 +1,7 @@
 // error messages, used in error classes
 // the content is human readible for server errors to make sense
 export const FAILURE_MESSAGES = {
+  // graasp core
   ITEM_NOT_FOUND: 'Item not found',
   TOO_MANY_DESCENDANTS: 'Too many descendants',
   USER_CANNOT_READ_ITEM: 'User cannot read item',
@@ -22,6 +23,10 @@ export const FAILURE_MESSAGES = {
   MEMBER_CANNOT_ACCESS: 'Member does not have a membership in item',
   DATABASE_ERROR: 'Database error',
   UNEXPECTED_ERROR: 'Unexpected error',
+
+  // file upload limiter
+  STORAGE_EXCEEDED: 'The allowed storage is full',
+  FILE_SIZE_NOT_FOUND: 'The file size was not found',
 };
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
