@@ -1,9 +1,9 @@
-import { ERROR_MESSAGES } from '../messages';
+import { FAILURE_MESSAGES } from '../messages';
 
 export default {
   translations: {
-    [ERROR_MESSAGES.ITEM_NOT_FOUND]: 'Elément introuvable',
-    [ERROR_MESSAGES.TOO_MANY_DESCENDANTS]:
-      "La commande a échouée car l'élément a trop de descendents.",
+    [FAILURE_MESSAGES.ITEM_NOT_FOUND]: 'Elément introuvable',
+    [FAILURE_MESSAGES.TOO_MANY_DESCENDANTS]:
+      "Un élément a trop de descendents pour que l'opération continue",
   },
 };

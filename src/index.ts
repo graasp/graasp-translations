@@ -1,2 +1,2 @@
-export { ERROR_MESSAGES } from './messages';
-export { default } from './i18n';
+export { FAILURE_MESSAGES } from './messages';
+export { default, langs } from './i18n';

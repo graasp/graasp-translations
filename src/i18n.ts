@@ -2,23 +2,27 @@ import i18n from 'i18next';
 import en from './langs/en';
 import fr from './langs/fr';
 
-i18n.init({
-  resources: {
-    en,
-    fr,
-  },
-  lng: 'en',
-  fallbackLng: 'en',
-  // debug only when not in production
-  debug: process.env.NODE_ENV !== 'production',
-  ns: ['translations'],
-  defaultNS: 'translations',
-  keySeparator: false,
-  interpolation: {
-    escapeValue: false,
-    formatSeparator: ',',
-  },
-});
+const buildI18n = () => {
+  i18n.init({
+    resources: {
+      en,
+      fr,
+    },
+    lng: 'en',
+    fallbackLng: 'en',
+    // debug only when not in production
+    debug: process.env.NODE_ENV !== 'production',
+    ns: ['translations'],
+    defaultNS: 'translations',
+    keySeparator: false,
+    interpolation: {
+      escapeValue: false,
+      formatSeparator: ',',
+    },
+  });
+
+  return i18n;
+};
 
 const langs = {
   // bg: "български",
@@ -54,4 +58,4 @@ const langs = {
 
 export { langs };
 
-export default i18n;
+export default buildI18n;
