@@ -54,6 +54,8 @@ export default {
     [SUCCESS_MESSAGES.POST_ITEM_FLAG]: 'The item was successfully flagged',
     [SUCCESS_MESSAGES.COPY_ITEM_LINK_TO_CLIPBOARD]:
       'Link is successfully copied!',
+    [SUCCESS_MESSAGES.RECYCLE_ITEM]:
+      'The item was successfully moved to the recycle bin.',
     [SUCCESS_MESSAGES.RECYCLE_ITEMS]:
       'The item(s) were successfully moved to the recycle bin.',
     [SUCCESS_MESSAGES.UPLOAD_ITEM_THUMBNAIL]:
