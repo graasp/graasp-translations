@@ -1,5 +1,5 @@
 // error messages, used in error classes
-// the content is human readible for server errors to make sense
+// the content is human readable for server errors to make sense
 export const FAILURE_MESSAGES = {
   // graasp core
   ITEM_NOT_FOUND: 'Item not found',
@@ -31,7 +31,7 @@ export const FAILURE_MESSAGES = {
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
 
-// sucess messages, used for front end feedback
+// success messages, used for front end feedback
 // the content is keys since they should always be translated
 export const SUCCESS_MESSAGES = {
   RESTORE_ITEMS: 'RESTORE_ITEMS',

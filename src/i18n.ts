@@ -1,8 +1,7 @@
 import i18n from 'i18next';
-import en from './langs/en';
-import fr from './langs/fr';
+import {en, fr} from './langs';
 
-const buildI18n = () => {
+const buildI18n = (defaultNamespace = 'translations') => {
   i18n.init({
     resources: {
       en,
@@ -12,8 +11,10 @@ const buildI18n = () => {
     fallbackLng: 'en',
     // debug only when not in production
     debug: process.env.NODE_ENV !== 'production',
+    // define accessible namespaces
     ns: ['translations'],
-    defaultNS: 'translations',
+    // define default namespace
+    defaultNS: defaultNamespace,
     keySeparator: false,
     interpolation: {
       escapeValue: false,
