@@ -5,4 +5,6 @@ export default {
     [CHATBOX.MESSAGE_MODIFIED_INDICATOR]: 'modified',
     [CHATBOX.EDIT_BUTTON]: 'Edit',
     [CHATBOX.DELETE_BUTTON]: 'Delete',
+    [CHATBOX.INPUT_FIELD_PLACEHOLDER]: 'Type something…',
+    [CHATBOX.CHATBOX_HEADER]: 'Chatbox',
 };
