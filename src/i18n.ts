@@ -1,7 +1,7 @@
 import i18n from 'i18next';
 import {en, fr, namespaces} from './langs';
 
-const buildI18n = (defaultNamespace = 'translations', namespaces: [string]) => {
+const buildI18n = (defaultNamespace = 'translations', namespaces?: [string]) => {
   if (!namespaces) {
     namespaces = [defaultNamespace];
   }
