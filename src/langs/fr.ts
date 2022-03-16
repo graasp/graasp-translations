@@ -40,7 +40,7 @@ export default {
       'Vous avez rempli votre espace de stockage',
     [FAILURE_MESSAGES.FILE_SIZE_NOT_FOUND]:
       'Impossible de calculer la taille du fichier',
-    [FAILURE_MESSAGES.FILE_NOT_IMAGE]: "Le fichier n'est pas une image",
+    [FAILURE_MESSAGES.FILE_IS_NOT_IMAGE]: "Le fichier n'est pas une image",
 
     [SUCCESS_MESSAGES.RESTORE_ITEMS]:
       'Les éléments ont été restorés avec succès',

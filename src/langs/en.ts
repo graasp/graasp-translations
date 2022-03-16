@@ -37,7 +37,7 @@ export default {
       'You exceeded your allowed file storage',
     [FAILURE_MESSAGES.FILE_SIZE_NOT_FOUND]:
       'The file size could not be calculated',
-    [FAILURE_MESSAGES.FILE_NOT_IMAGE]: 'The file is not an image',
+    [FAILURE_MESSAGES.FILE_IS_NOT_IMAGE]: 'The file is not an image',
 
     [SUCCESS_MESSAGES.RESTORE_ITEMS]: 'You successfully restored the item(s)',
     [SUCCESS_MESSAGES.CREATE_ITEM]: 'The item was successfully created',
