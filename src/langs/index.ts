@@ -1,21 +1,21 @@
-import translationsEN from './en/translations';
-import translationsFR from './fr/translations';
+import messagesEN from './en/messages';
+import messagesFR from './fr/messages';
 import chatboxEN from './en/chatbox';
 import chatboxFR from './fr/chatbox';
 
 // define namespaces
 export const namespaces = {
-  translations: 'translations',
+  messages: 'messages',
   chatbox: 'chatbox',
 };
 
 const en = {
-  [namespaces.translations]: translationsEN,
+  [namespaces.messages]: messagesEN,
   [namespaces.chatbox]: chatboxEN,
 };
 
 const fr = {
-  [namespaces.translations]: translationsFR,
+  [namespaces.messages]: messagesFR,
   [namespaces.chatbox]: chatboxFR,
 }
 
