@@ -1,5 +1,5 @@
 import i18n from 'i18next';
-import {en, fr, namespaces} from './langs';
+import { en, fr } from './langs';
 
 const buildI18n = (defaultNamespace = 'translations', namespaces?: [string]) => {
   if (!namespaces) {
@@ -61,6 +61,6 @@ const langs = {
   // zh_tw: "繁體中文",
 };
 
-export { langs, namespaces };
+export { langs };
 
 export default buildI18n;
