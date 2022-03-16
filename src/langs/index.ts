@@ -3,14 +3,20 @@ import translationsFR from './fr/translations';
 import chatboxEN from './en/chatbox';
 import chatboxFR from './fr/chatbox';
 
+// define namespaces
+export const namespaces = {
+  translations: 'translations',
+  chatbox: 'chatbox',
+};
+
 const en = {
-  translations: translationsEN,
-  chatbox: chatboxEN,
+  [namespaces.translations]: translationsEN,
+  [namespaces.chatbox]: chatboxEN,
 };
 
 const fr = {
-  translations: translationsFR,
-  chatbox: chatboxFR,
+  [namespaces.translations]: translationsFR,
+  [namespaces.chatbox]: chatboxFR,
 }
 
 // other supported languages here

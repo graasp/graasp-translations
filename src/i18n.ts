@@ -1,7 +1,11 @@
 import i18n from 'i18next';
-import {en, fr} from './langs';
+import {en, fr, namespaces} from './langs';
 
-const buildI18n = (defaultNamespace = 'translations') => {
+const buildI18n = (defaultNamespace = 'translations', namespaces: [string]) => {
+  if (!namespaces) {
+    namespaces = [defaultNamespace];
+  }
+
   i18n.init({
     resources: {
       en,
@@ -12,7 +16,7 @@ const buildI18n = (defaultNamespace = 'translations') => {
     // debug only when not in production
     debug: process.env.NODE_ENV !== 'production',
     // define accessible namespaces
-    ns: ['translations'],
+    ns: namespaces,
     // define default namespace
     defaultNS: defaultNamespace,
     keySeparator: false,
@@ -57,6 +61,6 @@ const langs = {
   // zh_tw: "繁體中文",
 };
 
-export { langs };
+export { langs, namespaces };
 
 export default buildI18n;
