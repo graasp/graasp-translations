@@ -24,6 +24,8 @@ export const FAILURE_MESSAGES = {
   DATABASE_ERROR: 'Database error',
   UNEXPECTED_ERROR: 'Unexpected error',
 
+  FILE_IS_NOT_IMAGE: 'The file is not an image',
+
   // file upload limiter
   STORAGE_EXCEEDED: 'The allowed storage is full',
   FILE_SIZE_NOT_FOUND: 'The file size was not found',
