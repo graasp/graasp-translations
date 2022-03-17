@@ -1,7 +1,6 @@
-import { FAILURE_MESSAGES, SUCCESS_MESSAGES } from '../messages';
+import { FAILURE_MESSAGES, SUCCESS_MESSAGES } from '../../constants/messages';
 
 export default {
-  translations: {
     [FAILURE_MESSAGES.ITEM_NOT_FOUND]: 'Élément introuvable',
     [FAILURE_MESSAGES.TOO_MANY_DESCENDANTS]:
       "Un élément a trop de descendents pour que l'opération continue",
@@ -75,5 +74,4 @@ export default {
       'La miniature a été sauvegardé avec succès',
     [SUCCESS_MESSAGES.UPLOAD_AVATAR]: "L'avatar a été sauvegardé avec succès",
     [SUCCESS_MESSAGES.IMPORT_ZIP]: "L'archive ZIP a été importé avec succès",
-  },
 };

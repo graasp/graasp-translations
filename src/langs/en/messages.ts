@@ -1,7 +1,6 @@
-import { FAILURE_MESSAGES, SUCCESS_MESSAGES } from '../messages';
+import { FAILURE_MESSAGES, SUCCESS_MESSAGES } from '../../constants/messages';
 
 export default {
-  translations: {
     [FAILURE_MESSAGES.ITEM_NOT_FOUND]: 'An item was not found',
     [FAILURE_MESSAGES.TOO_MANY_DESCENDANTS]:
       'One item has too many descendants for the operation to proceed',
@@ -69,5 +68,4 @@ export default {
       'The thumbnail was successfully uploaded',
     [SUCCESS_MESSAGES.UPLOAD_AVATAR]: 'The avatar was successfully uploaded',
     [SUCCESS_MESSAGES.IMPORT_ZIP]: 'The ZIP archive was successfully imported',
-  },
 };
