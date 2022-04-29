@@ -17,11 +17,8 @@ const en = {
 const fr = {
   [namespaces.messages]: messagesFR,
   [namespaces.chatbox]: chatboxFR,
-}
+};
 
 // other supported languages here
 
-export {
-  en,
-  fr
-};
+export { en, fr };

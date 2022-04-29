@@ -29,6 +29,15 @@ export const FAILURE_MESSAGES = {
   // file upload limiter
   STORAGE_EXCEEDED: 'The allowed storage is full',
   FILE_SIZE_NOT_FOUND: 'The file size was not found',
+
+  // file upload
+  INVALID_UPLOAD_PARAMETERS: 'Upload parameter(s) are invalid',
+  INVALID_FILE_PATH_FOR_COPY: `File path is invalid for copy`,
+  INVALID_FILE_PATH_FOR_DELETE: `File path is invalid for delete`,
+  INVALID_FOLDER_PATH_FOR_DELETE: `Folder path is invalid for delete`,
+  INVALID_DOWNLOAD_PARAMETERS: 'Download parameter(s) are invalid',
+  LOCAL_FILE_NOT_FOUND: 'Local file not found',
+  S3_FILE_NOT_FOUND: 'S3 file not found',
 };
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
