@@ -1,5 +1,5 @@
 import i18n from 'i18next';
-import { en, fr, namespaces} from './langs';
+import { en, fr, namespaces } from './langs';
 
 const buildI18n = (defaultNamespace = namespaces.messages) => {
   i18n.init({
