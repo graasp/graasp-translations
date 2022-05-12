@@ -59,6 +59,11 @@ export default {
   [SUCCESS_MESSAGES.SHARE_ITEM]: 'The item(s) were successfully shared',
   [SUCCESS_MESSAGES.UPLOAD_FILES]: 'The file(s) were successfully uploaded',
   [SUCCESS_MESSAGES.SIGN_OUT]: 'You successfully signed out',
+  [SUCCESS_MESSAGES.SIGN_IN]:
+    'Your information are valid, you will receive an email to login',
+  [SUCCESS_MESSAGES.SIGN_IN_WITH_PASSWORD]: 'You successfully signed in',
+  [SUCCESS_MESSAGES.SIGN_UP]:
+    'You successfully signed up, you will receive an email to login',
   [SUCCESS_MESSAGES.EDIT_MEMBER]: 'The user was updated successfully',
   [SUCCESS_MESSAGES.COPY_MEMBER_ID_TO_CLIPBOARD]:
     'The user ID is successfully copied',

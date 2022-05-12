@@ -65,6 +65,12 @@ export default {
   [SUCCESS_MESSAGES.UPLOAD_FILES]:
     'Les fichiers ont été sauvegardés avec succès',
   [SUCCESS_MESSAGES.SIGN_OUT]: 'Vous avez été déconnecté avec succès',
+  [SUCCESS_MESSAGES.SIGN_IN]:
+    'Vos informations ont été validées, vous allez recevoir un mail pour vous connecter',
+  [SUCCESS_MESSAGES.SIGN_IN_WITH_PASSWORD]:
+    'Vous avez été connecté avec succès',
+  [SUCCESS_MESSAGES.SIGN_UP]:
+    'Vous avez été enregistré avec succès, vous allez recevoir un mail pour vous connecter',
   [SUCCESS_MESSAGES.EDIT_MEMBER]: "L'utilisateur a été modifié avec succès",
   [SUCCESS_MESSAGES.COPY_MEMBER_ID_TO_CLIPBOARD]:
     "L'ID utilisateur a été copié avec succès",
