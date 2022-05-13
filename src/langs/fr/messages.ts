@@ -33,6 +33,8 @@ export default {
     "Un utilisateur n'a pas accès à cet élément",
   [FAILURE_MESSAGES.MEMBER_ALREADY_SIGNED_UP]:
     'Un compte existe déjà pour cet email, vous allez recevoir un email pour vous connecter',
+  [FAILURE_MESSAGES.MEMBER_NOT_SIGNED_UP]:
+    "Aucun compte n'existe pour cet email",
   [FAILURE_MESSAGES.MEMBER_WITHOUT_PASSWORD]:
     "Ce compte n'a pas configuré de mot de passe",
   [FAILURE_MESSAGES.INCORRECT_PASSWORD]:
