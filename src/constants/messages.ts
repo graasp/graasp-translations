@@ -21,6 +21,13 @@ export const FAILURE_MESSAGES = {
   CANNOT_MODIFY_OTHER_MEMBERS: 'Member cannot modify other member',
   TOO_MANY_MEMBERSHIP: 'Too many memberships',
   MEMBER_CANNOT_ACCESS: 'Member does not have a membership in item',
+  MEMBER_ALREADY_SIGNED_UP: 'Member is already signed up',
+  MEMBER_WITHOUT_PASSWORD: 'No password set for this member',
+  INCORRECT_PASSWORD: 'Incorrect password for this member',
+  TOKEN_EXPIRED: 'Session token expired',
+  INVALID_TOKEN: 'Session token is Invalid',
+  INVALID_SESSION: 'Session is invalid',
+  ORPHAN_SESSION: 'Member for this session not found',
   DATABASE_ERROR: 'Database error',
   UNEXPECTED_ERROR: 'Unexpected error',
 
