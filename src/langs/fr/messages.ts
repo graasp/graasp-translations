@@ -39,11 +39,10 @@ export default {
     "Ce compte n'a pas configuré de mot de passe",
   [FAILURE_MESSAGES.INCORRECT_PASSWORD]:
     'Le mot de passe soumis est incorrect pour ce compte',
-  [FAILURE_MESSAGES.TOKEN_EXPIRED]: 'Votre token de session a expiré',
-  [FAILURE_MESSAGES.INVALID_TOKEN]: 'Votre token de session est invalide',
-  [FAILURE_MESSAGES.INVALID_SESSION]: 'Votre session est invalide',
-  [FAILURE_MESSAGES.ORPHAN_SESSION]:
-    'Votre session ne correspond à aucun compte',
+  [FAILURE_MESSAGES.TOKEN_EXPIRED]: 'Votre session a expiré',
+  [FAILURE_MESSAGES.INVALID_TOKEN]: 'Votre session est invalide',
+  [FAILURE_MESSAGES.INVALID_SESSION]: 'Votre session a expiré',
+  [FAILURE_MESSAGES.ORPHAN_SESSION]: 'Votre session a expiré',
   [FAILURE_MESSAGES.DATABASE_ERROR]:
     'Une erreur est survenue dans la base de données',
   [FAILURE_MESSAGES.UNEXPECTED_ERROR]: 'Une erreur inattendue est survenue',

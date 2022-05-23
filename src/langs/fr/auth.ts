@@ -1,8 +1,8 @@
 import { AUTH } from '../../constants/auth';
 
 export default {
-  [AUTH.SIGN_IN_BUTTON]: 'Se Connecter',
-  [AUTH.SIGN_IN_HEADER]: 'Se Connecter',
+  [AUTH.SIGN_IN_BUTTON]: 'Se connecter',
+  [AUTH.SIGN_IN_HEADER]: 'Se connecter',
   [AUTH.SIGN_UP_LINK_TEXT]:
     'Pas encore enregistré ? Cliquez ici pour vous enregistrer',
   [AUTH.SIGN_IN_LINK_TEXT]: 'Déjà un compte? Cliquez ici pour vous connecter',
