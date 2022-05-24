@@ -28,6 +28,17 @@ export default {
     'One item has too many memberships for the operation to proceed',
   [FAILURE_MESSAGES.MEMBER_CANNOT_ACCESS]:
     'A user does not have access to an item',
+  [FAILURE_MESSAGES.MEMBER_ALREADY_SIGNED_UP]:
+    'You already have an account, we will send you an email to login',
+  [FAILURE_MESSAGES.MEMBER_NOT_SIGNED_UP]: 'No account found for this email',
+  [FAILURE_MESSAGES.MEMBER_WITHOUT_PASSWORD]:
+    'This account has no password configured',
+  [FAILURE_MESSAGES.INCORRECT_PASSWORD]:
+    'The submitted password is incorrect for this account',
+  [FAILURE_MESSAGES.TOKEN_EXPIRED]: 'Your session has expired',
+  [FAILURE_MESSAGES.INVALID_TOKEN]: 'Your session is invalid',
+  [FAILURE_MESSAGES.INVALID_SESSION]: 'Your session has expired',
+  [FAILURE_MESSAGES.ORPHAN_SESSION]: 'Your session has expired',
   [FAILURE_MESSAGES.DATABASE_ERROR]:
     'An unexpected error occurred at the database level',
   [FAILURE_MESSAGES.UNEXPECTED_ERROR]: 'An unexpected error occurred',
@@ -59,6 +70,11 @@ export default {
   [SUCCESS_MESSAGES.SHARE_ITEM]: 'The item(s) were successfully shared',
   [SUCCESS_MESSAGES.UPLOAD_FILES]: 'The file(s) were successfully uploaded',
   [SUCCESS_MESSAGES.SIGN_OUT]: 'You successfully signed out',
+  [SUCCESS_MESSAGES.SIGN_IN]:
+    'Your information are valid, you will receive an email to login',
+  [SUCCESS_MESSAGES.SIGN_IN_WITH_PASSWORD]: 'You successfully signed in',
+  [SUCCESS_MESSAGES.SIGN_UP]:
+    'You successfully signed up, you will receive an email to login',
   [SUCCESS_MESSAGES.EDIT_MEMBER]: 'The user was updated successfully',
   [SUCCESS_MESSAGES.COPY_MEMBER_ID_TO_CLIPBOARD]:
     'The user ID is successfully copied',

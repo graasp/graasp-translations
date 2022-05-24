@@ -31,6 +31,18 @@ export default {
     "Trop d'utilisateurs ont accès à cet élément pour que l'opération puisse continue",
   [FAILURE_MESSAGES.MEMBER_CANNOT_ACCESS]:
     "Un utilisateur n'a pas accès à cet élément",
+  [FAILURE_MESSAGES.MEMBER_ALREADY_SIGNED_UP]:
+    'Un compte existe déjà pour cet email, vous allez recevoir un email pour vous connecter',
+  [FAILURE_MESSAGES.MEMBER_NOT_SIGNED_UP]:
+    "Aucun compte n'existe pour cet email",
+  [FAILURE_MESSAGES.MEMBER_WITHOUT_PASSWORD]:
+    "Ce compte n'a pas configuré de mot de passe",
+  [FAILURE_MESSAGES.INCORRECT_PASSWORD]:
+    'Le mot de passe soumis est incorrect pour ce compte',
+  [FAILURE_MESSAGES.TOKEN_EXPIRED]: 'Votre session a expiré',
+  [FAILURE_MESSAGES.INVALID_TOKEN]: 'Votre session est invalide',
+  [FAILURE_MESSAGES.INVALID_SESSION]: 'Votre session a expiré',
+  [FAILURE_MESSAGES.ORPHAN_SESSION]: 'Votre session a expiré',
   [FAILURE_MESSAGES.DATABASE_ERROR]:
     'Une erreur est survenue dans la base de données',
   [FAILURE_MESSAGES.UNEXPECTED_ERROR]: 'Une erreur inattendue est survenue',
@@ -65,6 +77,12 @@ export default {
   [SUCCESS_MESSAGES.UPLOAD_FILES]:
     'Les fichiers ont été sauvegardés avec succès',
   [SUCCESS_MESSAGES.SIGN_OUT]: 'Vous avez été déconnecté avec succès',
+  [SUCCESS_MESSAGES.SIGN_IN]:
+    'Vos informations ont été validées, vous allez recevoir un mail pour vous connecter',
+  [SUCCESS_MESSAGES.SIGN_IN_WITH_PASSWORD]:
+    'Vous avez été connecté avec succès',
+  [SUCCESS_MESSAGES.SIGN_UP]:
+    'Vous avez été enregistré avec succès, vous allez recevoir un mail pour vous connecter',
   [SUCCESS_MESSAGES.EDIT_MEMBER]: "L'utilisateur a été modifié avec succès",
   [SUCCESS_MESSAGES.COPY_MEMBER_ID_TO_CLIPBOARD]:
     "L'ID utilisateur a été copié avec succès",

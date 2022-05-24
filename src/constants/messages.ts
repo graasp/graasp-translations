@@ -1,49 +1,53 @@
 // error messages, used in error classes
-// the content is human readable for server errors to make sense
 export const FAILURE_MESSAGES = {
   // graasp core
-  ITEM_NOT_FOUND: 'Item not found',
-  TOO_MANY_DESCENDANTS: 'Too many descendants',
-  USER_CANNOT_READ_ITEM: 'User cannot read item',
-  USER_CANNOT_WRITE_ITEM: 'User cannot write item',
-  USER_CANNOT_ADMIN_ITEM: 'User cannot admin item',
-  INVALID_MEMBERSHIP:
-    'Membership with this permission level cannot be created for this member in this item',
-  ITEM_MEMBERSHIP_NOT_FOUND: 'Item membership not found',
-  MODIFY_EXISTING:
-    'Cannot create membership for member in item. Should modify existing one',
-  INVALID_PERMISSION_LEVEL:
-    'Cannot change to a worse permission level than the one inherited',
-  HIERARCHY_TOO_DEEP: 'Hierarchy too deep',
-  TOO_MANY_CHILDREN: 'Too many children',
-  INVALID_MOVE_TARGET: 'Invalid item to move to',
-  MEMBER_NOT_FOUND: 'Member not found',
-  CANNOT_MODIFY_OTHER_MEMBERS: 'Member cannot modify other member',
-  TOO_MANY_MEMBERSHIP: 'Too many memberships',
-  MEMBER_CANNOT_ACCESS: 'Member does not have a membership in item',
-  DATABASE_ERROR: 'Database error',
-  UNEXPECTED_ERROR: 'Unexpected error',
+  ITEM_NOT_FOUND: 'ITEM_NOT_FOUND',
+  TOO_MANY_DESCENDANTS: 'TOO_MANY_DESCENDANTS',
+  USER_CANNOT_READ_ITEM: 'USER_CANNOT_READ_ITEM',
+  USER_CANNOT_WRITE_ITEM: 'USER_CANNOT_WRITE_ITEM',
+  USER_CANNOT_ADMIN_ITEM: 'USER_CANNOT_ADMIN_ITEM',
+  INVALID_MEMBERSHIP: 'INVALID_MEMBERSHIP',
+  ITEM_MEMBERSHIP_NOT_FOUND: 'ITEM_MEMBERSHIP_NOT_FOUND',
+  MODIFY_EXISTING: 'MODIFY_EXISTING',
+  INVALID_PERMISSION_LEVEL: 'INVALID_PERMISSION_LEVEL',
+  HIERARCHY_TOO_DEEP: 'HIERARCHY_TOO_DEEP',
+  TOO_MANY_CHILDREN: 'TOO_MANY_CHILDREN',
+  INVALID_MOVE_TARGET: 'INVALID_MOVE_TARGET',
+  MEMBER_NOT_FOUND: 'MEMBER_NOT_FOUND',
+  CANNOT_MODIFY_OTHER_MEMBERS: 'CANNOT_MODIFY_OTHER_MEMBERS',
+  TOO_MANY_MEMBERSHIP: 'TOO_MANY_MEMBERSHIP',
+  MEMBER_CANNOT_ACCESS: 'MEMBER_CANNOT_ACCESS',
+  MEMBER_ALREADY_SIGNED_UP: 'MEMBER_ALREADY_SIGNED_UP',
+  MEMBER_NOT_SIGNED_UP: 'MEMBER_NOT_SIGNED_UP',
+  MEMBER_WITHOUT_PASSWORD: 'MEMBER_WITHOUT_PASSWORD',
+  INCORRECT_PASSWORD: 'INCORRECT_PASSWORD',
+  TOKEN_EXPIRED: 'TOKEN_EXPIRED',
+  INVALID_TOKEN: 'INVALID_TOKEN',
+  INVALID_SESSION: 'INVALID_SESSION',
+  ORPHAN_SESSION: 'ORPHAN_SESSION',
+  DATABASE_ERROR: 'DATABASE_ERROR',
+  UNEXPECTED_ERROR: 'UNEXPECTED_ERROR',
 
-  FILE_IS_NOT_IMAGE: 'The file is not an image',
+  FILE_IS_NOT_IMAGE: 'FILE_IS_NOT_IMAGE',
 
   // file upload limiter
-  STORAGE_EXCEEDED: 'The allowed storage is full',
-  FILE_SIZE_NOT_FOUND: 'The file size was not found',
+  STORAGE_EXCEEDED: 'STORAGE_EXCEEDED',
+  FILE_SIZE_NOT_FOUND: 'FILE_SIZE_NOT_FOUND',
 
   // file upload
-  INVALID_UPLOAD_PARAMETERS: 'Upload parameter(s) are invalid',
-  INVALID_FILE_PATH_FOR_COPY: `File path is invalid for copy`,
-  INVALID_FILE_PATH_FOR_DELETE: `File path is invalid for delete`,
-  INVALID_FOLDER_PATH_FOR_DELETE: `Folder path is invalid for delete`,
-  INVALID_DOWNLOAD_PARAMETERS: 'Download parameter(s) are invalid',
-  LOCAL_FILE_NOT_FOUND: 'Local file not found',
-  S3_FILE_NOT_FOUND: 'S3 file not found',
+  INVALID_UPLOAD_PARAMETERS: 'INVALID_UPLOAD_PARAMETERS',
+  INVALID_FILE_PATH_FOR_COPY: `INVALID_FILE_PATH_FOR_COPY`,
+  INVALID_FILE_PATH_FOR_DELETE: `INVALID_FILE_PATH_FOR_DELETE`,
+  INVALID_FOLDER_PATH_FOR_DELETE: `INVALID_FOLDER_PATH_FOR_DELETE`,
+  INVALID_DOWNLOAD_PARAMETERS: 'INVALID_DOWNLOAD_PARAMETERS',
+  LOCAL_FILE_NOT_FOUND: 'LOCAL_FILE_NOT_FOUND',
+  S3_FILE_NOT_FOUND: 'S3_FILE_NOT_FOUND',
 };
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
 
 // success messages, used for front end feedback
-// the content is keys since they should always be translated
+// keys are used since they will always be translated
 export const SUCCESS_MESSAGES = {
   RESTORE_ITEMS: 'RESTORE_ITEMS',
   CREATE_ITEM: 'CREATE_ITEM',
@@ -57,6 +61,9 @@ export const SUCCESS_MESSAGES = {
   SHARE_ITEM: 'SHARE_ITEM',
   UPLOAD_FILES: 'UPLOAD_FILES',
   SIGN_OUT: 'SIGN_OUT',
+  SIGN_IN: 'SIGN_IN',
+  SIGN_UP: 'SIGN_UP',
+  SIGN_IN_WITH_PASSWORD: 'SIGN_IN_WITH_PASSWORD',
   EDIT_MEMBER: 'EDIT_MEMBER',
   COPY_MEMBER_ID_TO_CLIPBOARD: 'COPY_MEMBER_ID_TO_CLIPBOARD',
   EDIT_ITEM_MEMBERSHIP: 'EDIT_ITEM_MEMBERSHIP',
