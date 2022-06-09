@@ -92,4 +92,5 @@ export default {
     'The thumbnail was successfully uploaded',
   [SUCCESS_MESSAGES.UPLOAD_AVATAR]: 'The avatar was successfully uploaded',
   [SUCCESS_MESSAGES.IMPORT_ZIP]: 'The ZIP archive was successfully imported',
+  [SUCCESS_MESSAGES.DELETE_MEMBER]: 'The account was successfully deleted',
 };

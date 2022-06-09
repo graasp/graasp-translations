@@ -101,4 +101,5 @@ export default {
     'La miniature a été sauvegardé avec succès',
   [SUCCESS_MESSAGES.UPLOAD_AVATAR]: "L'avatar a été sauvegardé avec succès",
   [SUCCESS_MESSAGES.IMPORT_ZIP]: "L'archive ZIP a été importé avec succès",
+  [SUCCESS_MESSAGES.DELETE_MEMBER]: 'Le compte a été supprimé avec succès',
 };
