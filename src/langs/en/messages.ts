@@ -50,6 +50,7 @@ export default {
 
   [FAILURE_MESSAGES.INVALID_UPLOAD_PARAMETERS]:
     'One or many upload parameters are invalid',
+  [FAILURE_MESSAGES.UPLOAD_EMPTY_FILE]: 'Cannot upload an empty file',
   [FAILURE_MESSAGES.INVALID_FILE_PATH_FOR_COPY]: `The submitted file path is invalid for copy`,
   [FAILURE_MESSAGES.INVALID_FILE_PATH_FOR_DELETE]: `The submitted file path is invalid for delete`,
   [FAILURE_MESSAGES.INVALID_FOLDER_PATH_FOR_DELETE]: `The submitted folder path is invalid for delete`,

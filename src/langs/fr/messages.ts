@@ -55,6 +55,8 @@ export default {
 
   [FAILURE_MESSAGES.INVALID_UPLOAD_PARAMETERS]:
     'Un ou plusieurs paramètres de mise en ligne sont invalides',
+  [FAILURE_MESSAGES.UPLOAD_EMPTY_FILE]:
+    'Impossible de mettre en ligne un fichier vide',
   [FAILURE_MESSAGES.INVALID_FILE_PATH_FOR_COPY]: `Le chemin du fichier est invalide pour la copie`,
   [FAILURE_MESSAGES.INVALID_FILE_PATH_FOR_DELETE]: `Le chemin du fichier est invalide pour la suppression`,
   [FAILURE_MESSAGES.INVALID_FOLDER_PATH_FOR_DELETE]: `Le chemin du dossier est invalide pour la suppression`,
