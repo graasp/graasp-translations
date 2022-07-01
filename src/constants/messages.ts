@@ -76,6 +76,7 @@ export const SUCCESS_MESSAGES = {
   UPLOAD_ITEM_THUMBNAIL: 'UPLOAD_ITEM_THUMBNAIL',
   UPLOAD_AVATAR: 'UPLOAD_AVATAR',
   IMPORT_ZIP: 'IMPORT_ZIP',
+  IMPORT_H5P: 'IMPORT_H5P',
   POST_ITEM_CATEGORY: 'POST_ITEM_CATEGORY',
   DELETE_ITEM_CATEGORY: 'DELETE_ITEM_CATEGORY',
   PUT_ITEM_LOGIN: 'PUT_ITEM_LOGIN',
@@ -86,5 +87,6 @@ export const SUCCESS_MESSAGES = {
 
 // todo: might not be used anymore if we add a progress bar
 export const REQUEST_MESSAGES = {
-  IMPORT_ZIP: 'The ZIP is being processed. Please wait a moment.',
+  IMPORT_ZIP: 'The ZIP file is being processed. Please wait a moment.',
+  IMPORT_H5P: 'The H5P file is being processed. Please wait a moment.',
 };
