@@ -83,6 +83,7 @@ export const SUCCESS_MESSAGES = {
   POST_ITEM_TAG: 'POST_ITEM_TAG',
   DELETE_ITEM_TAG: 'DELETE_ITEM_TAG',
   DELETE_MEMBER: 'DELETE_MEMBER',
+  UPDATE_PASSWORD: 'UPDATE_PASSWORD',
 };
 
 // todo: might not be used anymore if we add a progress bar

@@ -95,4 +95,5 @@ export default {
   [SUCCESS_MESSAGES.IMPORT_ZIP]: 'The ZIP archive was successfully imported',
   [SUCCESS_MESSAGES.IMPORT_H5P]: 'The H5P package was successfully imported',
   [SUCCESS_MESSAGES.DELETE_MEMBER]: 'The account was successfully deleted',
+  [SUCCESS_MESSAGES.UPDATE_PASSWORD]: 'The password was updated successfully',
 };
