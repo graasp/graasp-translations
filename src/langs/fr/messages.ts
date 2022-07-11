@@ -65,6 +65,10 @@ export default {
   [FAILURE_MESSAGES.LOCAL_FILE_NOT_FOUND]:
     "Le fichier local n'a pas été trouvé",
   [FAILURE_MESSAGES.S3_FILE_NOT_FOUND]: "Le fichier S3 n'a pas été trouvé",
+  [FAILURE_MESSAGES.INVALID_PASSWORD]:
+    'Le mot de passe actuel est invalide. Veuillez réessayer',
+  [FAILURE_MESSAGES.EMPTY_CURRENT_PASSWORD]:
+    'Vous avez oublié de saisir votre mot de passe actuel. Veuillez réessayer',
 
   [SUCCESS_MESSAGES.RESTORE_ITEMS]: 'Les éléments ont été restorés avec succès',
   [SUCCESS_MESSAGES.CREATE_ITEM]: "L'élément a été créé avec succès",
@@ -103,7 +107,7 @@ export default {
     'La miniature a été sauvegardé avec succès',
   [SUCCESS_MESSAGES.UPLOAD_AVATAR]: "L'avatar a été sauvegardé avec succès",
   [SUCCESS_MESSAGES.IMPORT_ZIP]: "L'archive ZIP a été importé avec succès",
-  [SUCCESS_MESSAGES.IMPORT_H5P]: "Le paquet H5P a été importé avec succès",
+  [SUCCESS_MESSAGES.IMPORT_H5P]: 'Le paquet H5P a été importé avec succès',
   [SUCCESS_MESSAGES.DELETE_MEMBER]: 'Le compte a été supprimé avec succès',
   [SUCCESS_MESSAGES.UPDATE_PASSWORD]:
     'Le mot de passe a été modifié avec succès',

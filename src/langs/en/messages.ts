@@ -58,6 +58,10 @@ export default {
     'One or many download parameters are invalid',
   [FAILURE_MESSAGES.LOCAL_FILE_NOT_FOUND]: 'The local file is not found',
   [FAILURE_MESSAGES.S3_FILE_NOT_FOUND]: 'The S3 file is not found',
+  [FAILURE_MESSAGES.INVALID_PASSWORD]:
+    'Current password is invalid. Please try again',
+  [FAILURE_MESSAGES.EMPTY_CURRENT_PASSWORD]:
+    'You forgot to input your current password. Please try again',
 
   [SUCCESS_MESSAGES.RESTORE_ITEMS]: 'You successfully restored the item(s)',
   [SUCCESS_MESSAGES.CREATE_ITEM]: 'The item was successfully created',
