@@ -9,5 +9,5 @@ export const AUTH = {
   SIGN_UP_BUTTON: 'Sign Up',
   SIGN_UP_HEADER: 'Sign Up',
   EMAIL_FIELD_TEXT: 'Email',
-  PASSWORD_FIELD_LABEL: 'Password'
+  PASSWORD_FIELD_LABEL: 'Password',
 };
