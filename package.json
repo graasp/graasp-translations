@@ -18,8 +18,8 @@
   "scripts": {
     "prepack": "yarn build",
     "prepare": "yarn build && yarn hooks:install",
-    "prettier:check": "prettier --check {src,test}/**/*.{js,ts,tsx}",
-    "prettier:write": "prettier --write {src,test}/**/*.{js,ts,tsx}",
+    "prettier:check": "prettier --check {src,test}/**/*.{js,ts,tsx,json}",
+    "prettier:write": "prettier --write {src,test}/**/*.{js,ts,tsx,json}",
     "hooks:uninstall": "husky uninstall",
     "hooks:install": "husky install",
     "test:watch": "exit 0",

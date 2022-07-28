@@ -1,9 +1,9 @@
-import messagesEN from './en/messages';
-import messagesFR from './fr/messages';
-import chatboxEN from './en/chatbox';
-import chatboxFR from './fr/chatbox';
-import authEN from './en/auth';
-import authFR from './fr/auth';
+import messagesEN from './en/messages.json';
+import messagesFR from './fr/messages.json';
+import chatboxEN from './en/chatbox.json';
+import chatboxFR from './fr/chatbox.json';
+import authEN from './en/auth.json';
+import authFR from './fr/auth.json';
 
 // define namespaces
 export const namespaces = {
