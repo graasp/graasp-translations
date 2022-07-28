@@ -25,11 +25,9 @@
   "ORPHAN_SESSION": "Votre session a expiré",
   "DATABASE_ERROR": "Une erreur est survenue dans la base de données",
   "UNEXPECTED_ERROR": "Une erreur inattendue est survenue",
-
   "STORAGE_EXCEEDED": "Vous avez rempli votre espace de stockage",
   "FILE_SIZE_NOT_FOUND": "Impossible de calculer la taille du fichier",
   "FILE_IS_NOT_IMAGE": "Le fichier n'est pas une image",
-
   "INVALID_UPLOAD_PARAMETERS": "Un ou plusieurs paramètres de mise en ligne sont invalides",
   "UPLOAD_EMPTY_FILE": "Impossible de mettre en ligne un fichier vide",
   "INVALID_FILE_PATH_FOR_COPY": "Le chemin du fichier est invalide pour la copie",
@@ -38,7 +36,8 @@
   "INVALID_DOWNLOAD_PARAMETERS": "Un ou plusieurs paramètres pour le téléchargement sont invalides",
   "LOCAL_FILE_NOT_FOUND": "Le fichier local n'a pas été trouvé",
   "S3_FILE_NOT_FOUND": "Le fichier S3 n'a pas été trouvé",
-
+  "INVALID_PASSWORD": "Le mot de passe actuel est invalide. Réessayez",
+  "EMPTY_CURRENT_PASSWORD": "Le mot de passe actuel n'a pas été rempli. Réessayez",
   "RESTORE_ITEMS": "Les éléments ont été restorés avec succès",
   "CREATE_ITEM": "L'élément a été créé avec succès",
   "DELETE_ITEM": "L'élément a été supprimé avec succès",
@@ -65,5 +64,7 @@
   "UPLOAD_ITEM_THUMBNAIL": "La miniature a été sauvegardé avec succès",
   "UPLOAD_AVATAR": "L'avatar a été sauvegardé avec succès",
   "IMPORT_ZIP": "L'archive ZIP a été importé avec succès",
-  "DELETE_MEMBER": "Le compte a été supprimé avec succès"
+  "IMPORT_H5P": "La librairie H5P a été importé avec succès",
+  "DELETE_MEMBER": "Le compte a été supprimé avec succès",
+  "UPDATE_PASSWORD": "Le mot de passe a été mis à jour avec succès"
 }
