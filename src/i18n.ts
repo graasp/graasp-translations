@@ -1,11 +1,12 @@
 import i18n from 'i18next';
-import { en, fr, namespaces } from './langs';
+import { en, fr, de, namespaces } from './langs';
 
 const buildI18n = (defaultNamespace = namespaces.messages) => {
   i18n.init({
     resources: {
       en,
       fr,
+      de,
     },
     lng: 'en',
     fallbackLng: 'en',
@@ -29,7 +30,7 @@ const langs = {
   // bg: "български",
   // ca: "Català",
   // cs: "čeština",
-  // de: "Deutsch",
+  de: 'Deutsch',
   // el: "Ελληνικά",
   en: 'English',
   // es: "Español",
