@@ -1,4 +1,6 @@
 {
+  "DEFAULT_FAILURE": "An unexpected error occured",
+  "DEFAULT_SUCCESS": "The operation successfully proceeded",
   "ITEM_NOT_FOUND": "An item was not found",
   "TOO_MANY_DESCENDANTS": "One item has too many descendants for the operation to proceed",
   "USER_CANNOT_READ_ITEM": "You cannot read this item",
