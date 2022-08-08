@@ -1,5 +1,6 @@
 // error messages, used in error classes
 export const FAILURE_MESSAGES = {
+  DEFAULT_FAILURE: 'DEFAULT_FAILURE',
   // graasp core
   ITEM_NOT_FOUND: 'ITEM_NOT_FOUND',
   TOO_MANY_DESCENDANTS: 'TOO_MANY_DESCENDANTS',
@@ -52,6 +53,7 @@ export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
 // success messages, used for front end feedback
 // keys are used since they will always be translated
 export const SUCCESS_MESSAGES = {
+  DEFAULT_SUCCESS: 'DEFAULT_SUCCESS',
   RESTORE_ITEMS: 'RESTORE_ITEMS',
   CREATE_ITEM: 'CREATE_ITEM',
   DELETE_ITEM: 'DELETE_ITEM',

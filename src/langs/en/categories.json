@@ -1,0 +1,18 @@
+{
+  "DISCIPLINE": "Discipline",
+  "EDUCATION_LEVEL": "Education Level",
+  "LANGUAGE": "Language",
+
+  "MATH": "Math",
+  "LITERATURE": "Literature",
+  "SOCIAL_SCIENCE": "Social Science",
+  "NATURAL_SCIENCE": "Natural Science",
+  "ARTS": "Arts",
+
+  "KINDERGARTEN": "Kindergarten",
+  "PRIMARY_SCHOOL": "Primary School",
+  "LOWER_SECONDARY_SCHOOL": "Lower Secondary School",
+  "UPPER_SECONDARY_SCHOOL": "Upper Secondary School",
+  "VOCATIONAL_TRAINING": "Vocational Training",
+  "HIGHER_EDUCATION": "Higher Education"
+}
