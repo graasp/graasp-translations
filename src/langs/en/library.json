@@ -67,5 +67,9 @@
   "COPY_ITEM_TOASTR_LINK": "Click here to open the item on Graasp.",
   "COPY_LINK_SUCCESS_MESSAGE": "The item resource link was successfully copied.",
   "COPY_LINK_FAILURE_MESSAGE": "An error occured while copying the resource link.",
-  "COPY_BUTTON_MODAL_MY_ITEMS_ROOT": "My Items"
+  "COPY_BUTTON_MODAL_MY_ITEMS_ROOT": "My Items",
+  "AVATAR_ALT": "{{name}}'s avatar",
+  "COLLECTION_EMPTY_DESCRIPTION_TEXT": "This item has no description.",
+  "COLLECTION_INFO_BUTTON": "Information",
+  "SIGN_IN_MODAL_CLOSE_BUTTON_ARIA_LABEL": "Close Sign In Modal"
 }
