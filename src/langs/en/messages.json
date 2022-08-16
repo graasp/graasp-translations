@@ -86,5 +86,11 @@
   "APP_SETTING_NOT_FOUND": "No app setting was not found",
   "PREVENT_APP_DATA_FILE_UPDATE": "File app data cannot be updated",
   "PREVENT_APP_SETTING_FILE_UPDATE": "File app setting cannot be updated",
-  "FILE_SERVICE_NOT_DEFINED": "The file service or type is not defined"
+  "FILE_SERVICE_NOT_DEFINED": "The file service or type is not defined",
+
+  "CANNOT_COPY_RECYCLED_ITEM": "A recycled item cannot be copied",
+  "CANNOT_MOVE_RECYCLED_ITEM": "A recycled item cannot be moved",
+  "CANNOT_DELETE_RECYCLED_ITEM": "A recycled item cannot be deleted",
+  "CANNOT_GET_RECYCLED_ITEM": "A recycled item cannot be read",
+  "INVALID_ITEM_STATUS": "The item does not satisfy the requirements"
 }
