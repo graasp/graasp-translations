@@ -73,7 +73,18 @@
   "DELETE_MEMBER": "The account was successfully deleted",
   "UPDATE_PASSWORD": "The password was updated successfully",
 
-  "INVALID_ARCHIVE_FILE": "File is not a zip archive",
-  "INVALID_FILE_ITEM": "File's properties are invalid",
-  "UNEXPECTED_EXPORT_ERROR": "Error during exporting zip"
+  "INVALID_ARCHIVE_FILE": "the submitted file is not a zip archive",
+  "INVALID_FILE_ITEM": "The file's properties are invalid",
+  "UNEXPECTED_EXPORT_ERROR": "An error occured while exporting the zip file",
+
+  "NOT_APP_ITEM": "The targeted item is not an application item",
+  "INVALID_APP_ORIGIN": "The application does not match its registered origin is invalid",
+  "TOKEN_ITEM_ID_MISMATCH": "The auth token does not match the targeted item",
+  "APP_DATA_NOT_FOUND": "No app data were not found",
+  "APP_DATA_NOT_ACCESSIBLE": "The member cannot request this app data",
+  "APP_ACTION_NOT_ACCESSIBLE": "The member cannot request this app action",
+  "APP_SETTING_NOT_FOUND": "No app setting was not found",
+  "PREVENT_APP_DATA_FILE_UPDATE": "File app data cannot be updated",
+  "PREVENT_APP_SETTING_FILE_UPDATE": "File app setting cannot be updated",
+  "FILE_SERVICE_NOT_DEFINED": "The file service or type is not defined"
 }
