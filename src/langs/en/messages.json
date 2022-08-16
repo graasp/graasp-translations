@@ -71,5 +71,9 @@
   "IMPORT_ZIP": "The ZIP archive was successfully imported",
   "IMPORT_H5P": "The H5P package was successfully imported",
   "DELETE_MEMBER": "The account was successfully deleted",
-  "UPDATE_PASSWORD": "The password was updated successfully"
+  "UPDATE_PASSWORD": "The password was updated successfully",
+
+  "INVALID_ARCHIVE_FILE": "File is not a zip archive",
+  "INVALID_FILE_ITEM": "File's properties are invalid",
+  "UNEXPECTED_EXPORT_ERROR": "Error during exporting zip"
 }
