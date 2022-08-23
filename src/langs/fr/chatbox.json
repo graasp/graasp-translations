@@ -8,6 +8,7 @@
   "INPUT_MESSAGE_TOO_LONG": " (max. {{length}} caractères)",
   "SUGGESTED_MENTIONS": "Mentions suggérées",
   "ANONYMOUS_USER": "Anonyme",
+  "DELETE_TOOLTIP": "Supprimer",
   "MARK_AS_READ": "Marquer comme lu",
   "MARK_ALL_AS_READ": "Marquer tous comme lu",
   "CLEAR_ALL": "Supprimer toutes",
