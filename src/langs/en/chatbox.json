@@ -3,6 +3,21 @@
   "MESSAGE_MODIFIED_INDICATOR": "modified",
   "EDIT_BUTTON": "Edit",
   "DELETE_BUTTON": "Delete",
+  "CANCEL_BUTTON": "Cancel",
+  "CONFIRM_BUTTON": "Confirm",
   "INPUT_FIELD_PLACEHOLDER": "Type something…",
-  "CHATBOX_HEADER": "Chatbox"
+  "CHATBOX_HEADER": "Chatbox",
+  "INPUT_MESSAGE_TOO_LONG": "(max. {{length}} chars)",
+  "SUGGESTED_MENTIONS": "Suggested mentions",
+  "ANONYMOUS_USER": "Anonymous",
+  "DELETE_TOOLTIP": "Delete",
+  "MARK_AS_READ": "Mark as read",
+  "MARK_ALL_AS_READ": "Mark all as read",
+  "CLEAR_ALL": "Clear all",
+  "CLEAR_ALL_NOTIFICATIONS_TITLE": "Clear All Notifications",
+  "CLEAR_ALL_NOTIFICATIONS_CONTENT": "Are you sure you want to clear all your notifications?",
+  "COL_STATUS": "Status",
+  "COL_MESSAGE": "Message",
+  "COL_BY": "By",
+  "COL_ACTIONS": "Actions"
 }
