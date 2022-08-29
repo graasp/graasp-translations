@@ -3,6 +3,8 @@
   "MESSAGE_MODIFIED_INDICATOR": "modified",
   "EDIT_BUTTON": "Edit",
   "DELETE_BUTTON": "Delete",
+  "CANCEL_BUTTON": "Cancel",
+  "CONFIRM_BUTTON": "Confirm",
   "INPUT_FIELD_PLACEHOLDER": "Type something…",
   "CHATBOX_HEADER": "Chatbox",
   "INPUT_MESSAGE_TOO_LONG": "(max. {{length}} chars)",
