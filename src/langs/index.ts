@@ -16,6 +16,9 @@ import categoriesDE from './de/categories.json';
 import builderEN from './en/builder.json';
 import builderFR from './fr/builder.json';
 import builderDE from './de/builder.json';
+import commonEN from './en/common.json';
+import commonFR from './fr/common.json';
+import commonDE from './de/common.json';
 
 // define namespaces
 export const namespaces = {
@@ -23,6 +26,7 @@ export const namespaces = {
   builder: 'builder',
   categories: 'categories',
   chatbox: 'chatbox',
+  common: 'common',
   library: 'library',
   messages: 'messages',
 };
@@ -32,6 +36,7 @@ const en = {
   [namespaces.builder]: builderEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
+  [namespaces.common]: commonEN,
   [namespaces.library]: libraryEN,
   [namespaces.messages]: messagesEN,
 };
@@ -41,6 +46,7 @@ const fr = {
   [namespaces.builder]: builderFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
+  [namespaces.common]: commonFR,
   [namespaces.library]: libraryFR,
   [namespaces.messages]: messagesFR,
 };
@@ -50,6 +56,7 @@ const de = {
   [namespaces.builder]: builderDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
+  [namespaces.common]: commonDE,
   [namespaces.library]: libraryDE,
   [namespaces.messages]: messagesDE,
 };
