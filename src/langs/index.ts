@@ -13,10 +13,14 @@ import libraryDE from './de/library.json';
 import categoriesEN from './en/categories.json';
 import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
+import builderEN from './en/builder.json';
+import builderFR from './fr/builder.json';
+import builderDE from './de/builder.json';
 
 // define namespaces
 export const namespaces = {
   auth: 'auth',
+  builder: 'builder',
   categories: 'categories',
   chatbox: 'chatbox',
   library: 'library',
@@ -25,6 +29,7 @@ export const namespaces = {
 
 const en = {
   [namespaces.auth]: authEN,
+  [namespaces.builder]: builderEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.library]: libraryEN,
@@ -33,6 +38,7 @@ const en = {
 
 const fr = {
   [namespaces.auth]: authFR,
+  [namespaces.builder]: builderFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.library]: libraryFR,
@@ -41,6 +47,7 @@ const fr = {
 
 const de = {
   [namespaces.auth]: authDE,
+  [namespaces.builder]: builderDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.library]: libraryDE,
