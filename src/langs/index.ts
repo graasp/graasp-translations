@@ -22,6 +22,9 @@ import commonDE from './de/common.json';
 import accountEN from './en/account.json';
 import accountFR from './fr/account.json';
 import accountDE from './de/account.json';
+import permissionLevelEN from './en/permissionLevel.json';
+import permissionLevelFR from './fr/permissionLevel.json';
+import permissionLevelDE from './de/permissionLevel.json';
 
 // define namespaces
 export const namespaces = {
@@ -31,6 +34,7 @@ export const namespaces = {
   categories: 'categories',
   chatbox: 'chatbox',
   common: 'common',
+  enums: 'enums',
   library: 'library',
   messages: 'messages',
 };
@@ -42,6 +46,9 @@ const en = {
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.common]: commonEN,
+  [namespaces.enums]: {
+    ...permissionLevelEN,
+  },
   [namespaces.library]: libraryEN,
   [namespaces.messages]: messagesEN,
 };
@@ -53,6 +60,9 @@ const fr = {
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.common]: commonFR,
+  [namespaces.enums]: {
+    ...permissionLevelFR,
+  },
   [namespaces.library]: libraryFR,
   [namespaces.messages]: messagesFR,
 };
@@ -64,6 +74,9 @@ const de = {
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
+  [namespaces.enums]: {
+    ...permissionLevelDE,
+  },
   [namespaces.library]: libraryDE,
   [namespaces.messages]: messagesDE,
 };
