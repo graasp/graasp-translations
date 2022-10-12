@@ -25,6 +25,9 @@ import accountDE from './de/account.json';
 import permissionLevelEN from './en/permissionLevel.json';
 import permissionLevelFR from './fr/permissionLevel.json';
 import permissionLevelDE from './de/permissionLevel.json';
+import itemTypeEN from './en/itemType.json';
+import itemTypeFR from './fr/itemType.json';
+import itemTypeDE from './de/itemType.json';
 
 // define namespaces
 export const namespaces = {
@@ -48,6 +51,7 @@ const en = {
   [namespaces.common]: commonEN,
   [namespaces.enums]: {
     ...permissionLevelEN,
+    ...itemTypeEN,
   },
   [namespaces.library]: libraryEN,
   [namespaces.messages]: messagesEN,
@@ -62,6 +66,7 @@ const fr = {
   [namespaces.common]: commonFR,
   [namespaces.enums]: {
     ...permissionLevelFR,
+    ...itemTypeFR,
   },
   [namespaces.library]: libraryFR,
   [namespaces.messages]: messagesFR,
@@ -76,6 +81,7 @@ const de = {
   [namespaces.common]: commonDE,
   [namespaces.enums]: {
     ...permissionLevelDE,
+    ...itemTypeDE,
   },
   [namespaces.library]: libraryDE,
   [namespaces.messages]: messagesDE,
