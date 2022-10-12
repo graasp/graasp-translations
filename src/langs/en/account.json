@@ -12,5 +12,9 @@
 
   "PROFILE_DELETE_ACCOUNT_TITLE": "Delete my account",
   "PROFILE_DELETE_ACCOUNT_BUTTON": "Delete Account",
-  "PROFILE_DELETE_ACCOUNT_INFORMATION": "Once you delete an account, there is no going back. Please be certain."
+  "PROFILE_DELETE_ACCOUNT_INFORMATION": "Once you delete an account, there is no going back. Please be certain.",
+
+  "PROFILE_AVATAR_TITLE": "Thumbnail",
+  "PROFILE_AVATAR_INFORMATION": "Update thumbnail",
+  "PROFILE_AVATAR_CURRENT_ALT": "current thumbnail"
 }

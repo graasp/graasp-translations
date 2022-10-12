@@ -76,7 +76,7 @@
   "Shared Items": "Shared Items",
   "Analytics": "Analytics",
   "Player View": "Player View",
-  "Settings": "Settings",
+  "SETTINGS_TITLE": "Settings",
   "Close": "Close",
   "Shortcut to name": "Shortcut to {{name}}",
   "Click here if you are not automatically redirected": "Click here if you are not automatically redirected",
@@ -135,8 +135,10 @@
   "No user has authenticated to this item yet.": "No user has authenticated to this item yet.",
   "PIN_ITEM_PIN_TEXT": "Pin this item",
   "Unpin": "Unpin this item",
-  "Show Chat": "Show Chat",
-  "Collapse item": "Set as collapsible item",
+  "SETTINGS_PIN_ITEM_LABEL": "Pin",
+  "SETTINGS_SHOW_CHAT_LABEL": "Show Chat",
+  "SETTINGS_COLLAPSE_LABEL": "Set as collapsible item",
+  "SETTINGS_COLLAPSE_FOLDER_INFORMATION": "A folder cannot be collapsed",
   "COLLAPSE_ITEM_COLLAPSE_TEXT": "Collapse",
   "COLLAPSE_ITEM_UNCOLLAPSE_TEXT": "Uncollapse",
   "Write the folder decription here…": "Write the folder decription here…",
@@ -177,15 +179,14 @@
   "Please verify that your item fits the CC License, and do not change to a more restricted option.": "Please verify that your item fits the CC License, and do not change to a more restricted option.",
   "Confirm Your Submission": "Confirm Your Submission",
   "itemValidationFailureMessage": "Your item might contain inappropriate content. Please remove them and validate your item again. If you have any question, please contact {{contact, string}}.",
-  "Publication On Graasp Library": "Publication On Graasp Library",
-  "You can publish your collection to Graasp Library, our open educational resource library.": "You can publish your collection to Graasp Library, our open educational resource library.",
-  "Published collections are accessible by the public.": "Published collections are accessible by the public.",
-  "To publish your collection, please follow the three steps below.": "To publish your collection, please follow the three steps below.",
+  "LIBRARY_SETTINGS_TITLE": "Publication On Graasp Library",
+
+  "LIBRARY_SETTINGS_INFORMATION": "You can publish your collection to Graasp Library, our open educational resource library.\nPublished collections are accessible by the public.\nTo publish your collection, please follow the three steps below.",
   "You need to validate your item before publish it. Please allow some time for the validation to finish.": "You need to validate your item before publish it. Please allow some time for the validation to finish.",
   "Once your item is validated, you can set your item to published by clicking the button.": "Once your item is validated, you can set your item to published by clicking the button.",
   "Set the options for your resource to make it easily accessible by the public.": "Set the options for your resource to make it easily accessible by the public.",
   "Your item is pending validation. Once the validation succeeds, you will be able to publish your item.": "Your item is pending validation. Once the validation succeeds, you will be able to publish your item.",
-  "Validation": "Validation",
+  "LIBRARY_SETTINGS_VALIDATION_TITLE": "Validation",
   "Publication": "Publication",
   "Delete Account": "Delete account",
   "Your account will be deleted permanently.": "Your account will be deleted permanently.",
@@ -234,5 +235,27 @@
   "PASSWORD_SETTINGS_CONFIRM_BUTTON": "Update password",
 
   "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Make sure it is at least 8 characters including a number, a lowercase letter and an uppercase letter.",
-  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Request a reset"
+  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Request a reset",
+
+  "SHARE_ITEM_CSV_IMPORT_BUTTON": "Import from CSV",
+  "SHARE_ITEM_CSV_IMPORT_MODAL_TITLE": "Import users from a CSV file",
+
+  "SHARE_ITEM_CSV_IMPORT_SUCCESS_MESSAGE": "The users were successfully imported!",
+  "SHARE_ITEM_CSV_IMPORT_ERROR_MESSAGE": "The import failed for these entries",
+  "SHARE_ITEM_CSV_IMPORT_MODAL_CONTENT": "Your CSV should have at least the column 'email'. The columns 'name' and 'permission' are optional.\n A CSV entry cannot override the data already saved. If a user already has permission, update the value in the table manually.",
+  "SHARE_ITEM_CSV_IMPORT_INPUT_BUTTON": "Choose a CSV file",
+
+  "SHARE_ITEM_FORM_EMAIL_LABEL": "Email",
+  "SHARE_ITEM_FORM_CONFIRM_BUTTON": "Share",
+
+  "SHARE_ITEM_FORM_INVITATION_TOOLTIP": "Non-registered users will receive a personal link to register on the platform.",
+  "SHARE_ITEM_FORM_INVITATION_EMAIL_EXISTS_MESSAGE": "This user already has access to this item",
+  "SHARE_ITEM_FORM_INVITATION_INVALID_EMAIL_MESSAGE": "This mail is not valid",
+  "SHARE_ITEM_FORM_INVITATION_EMPTY_EMAIL_MESSAGE": "The mail cannot be empty",
+
+  "INVITATIONS_TABLE_CANNOT_DELETE_PARENT_TOOLTIP": "This invitation is defined in the parent item and cannot be deleted here.",
+  "INVITATIONS_TABLE_EMAIL_HEADER": "Email",
+  "INVITATIONS_TABLE_INVITATION_HEADER": "Invitation",
+  "INVITATIONS_TABLE_PERMISSION_HEADER": "Permission",
+  "INVITATIONS_TABLE_ACTIONS_HEADER": "Actions"
 }
