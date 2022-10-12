@@ -13,7 +13,6 @@
   "Exercise": "Exercise",
   "Description": "Description",
   "Image (URL)": "Image (URL)",
-  "CANCEL_BUTTON": "Cancel",
   "Success": "Success",
   "An error occured.": "An error occured.",
   "You are already signed in.": "You are already signed in.",
@@ -87,11 +86,6 @@
   "itemDeleteMessage_one": "This item will be deleted permanently.",
   "itemDeleteMessage_other": "These items will be deleted permanently.",
   "Allow Item Login": "Allow Item Login",
-  "Language": "Language",
-  "Storage Used": "Storage Used",
-  "Member Since": "Member Since",
-  "Profile": "Profile",
-  "Member ID": "Member ID",
   "Favorite Items": "Favorite Items",
   "FAVORITE_ITEM_REMOVE_TEXT": "Remove from Favorites",
   "FAVORITE_ITEM_ADD_TEXT": "Add to Favorites",
@@ -120,7 +114,7 @@
   "ACCESS_PUBLIC_TAG": "Public",
   "ACCESS_PUBLIC_TAG_TOOLTIP": "This item is public. Anyone can access this item.",
   "ACCESS_ITEM_LOGIN_TAG": "Anyone authenticated with the link",
-
+  "RECYCLE_BIN_TITLE": "Recycle Bin",
   "ACCESS_ITEM_LOGIN_TAG_TOOLTIP": "This item enables item login. New users can access this item when they authenticate using the item login.",
   "ACCESS_TITLE": "Access",
   "Trash": "Trash",
@@ -155,7 +149,6 @@
   "SETTINGS_THUMBNAIL_SETTINGS_INFORMATIONS": "Provide an image to update your thumbnail. You might need to refresh the page to see the changes.",
   "SETTINGS_THUMBNAIL_TITLE": "Thumbnail",
   "CROP_IMAGE_MODAL_CONTENT_TEXT": "Crop your chosen image to fit the image size requirements.",
-  "SAVE_BUTTON": "Save",
   "Information": "Information",
   "Please choose from list": "Please Choose From List",
   "Discipline": "Discipline",
@@ -232,5 +225,14 @@
   "SWITCH_ACCOUNT_BUTTON_SIGNED_IN": "Switch account",
   "SWITCH_ACCOUNT_BUTTON_SIGNED_OUT": "Sign In",
 
-  "EDIT_ITEM_ERROR_MESSAGE": "Item is invalid"
+  "EDIT_ITEM_ERROR_MESSAGE": "Item is invalid",
+  "PASSWORD_SETTINGS_TITLE": "Change Password",
+  "PASSWORD_SETTINGS_CURRENT_LABEL": "Current Password",
+  "PASSWORD_SETTINGS_CURRENT_INFORMATION": "Leave this field empty if you do not already have a password set.",
+  "PASSWORD_SETTINGS_NEW_LABEL": "New Password",
+  "PASSWORD_SETTINGS_NEW_CONFIRM_LABEL": "Confirm Password",
+  "PASSWORD_SETTINGS_CONFIRM_BUTTON": "Update password",
+
+  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Make sure it is at least 8 characters including a number, a lowercase letter and an uppercase letter.",
+  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Request a reset"
 }

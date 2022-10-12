@@ -3,6 +3,8 @@
 
   "COOKIE_BANNER_ACCEPT_BUTTON": "Accept all",
   "COOKIE_BANNER_DECLINE_BUTTON": "Reject non-essential",
+  "SAVE_BUTTON": "Save",
 
+  "CANCEL_BUTTON": "Cancel",
   "AVATAR_DEFAULT_ALT": "avatar"
 }

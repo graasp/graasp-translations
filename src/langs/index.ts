@@ -19,9 +19,13 @@ import builderDE from './de/builder.json';
 import commonEN from './en/common.json';
 import commonFR from './fr/common.json';
 import commonDE from './de/common.json';
+import accountEN from './en/account.json';
+import accountFR from './fr/account.json';
+import accountDE from './de/account.json';
 
 // define namespaces
 export const namespaces = {
+  account: 'account',
   auth: 'auth',
   builder: 'builder',
   categories: 'categories',
@@ -32,6 +36,7 @@ export const namespaces = {
 };
 
 const en = {
+  [namespaces.account]: accountEN,
   [namespaces.auth]: authEN,
   [namespaces.builder]: builderEN,
   [namespaces.categories]: categoriesEN,
@@ -42,6 +47,7 @@ const en = {
 };
 
 const fr = {
+  [namespaces.account]: accountFR,
   [namespaces.auth]: authFR,
   [namespaces.builder]: builderFR,
   [namespaces.categories]: categoriesFR,
@@ -52,6 +58,7 @@ const fr = {
 };
 
 const de = {
+  [namespaces.account]: accountDE,
   [namespaces.auth]: authDE,
   [namespaces.builder]: builderDE,
   [namespaces.categories]: categoriesDE,
