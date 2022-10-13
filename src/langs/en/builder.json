@@ -19,7 +19,7 @@
   "Description": "Description",
   "Image (URL)": "Image (URL)",
   "Success": "Success",
-  "An error occured.": "An error occured.",
+  "ERROR_MESSAGE": "An error occured.",
   "You are already signed in.": "You are already signed in.",
   "Click here to sign out": "Click here to sign out",
   "Sign In": "Sign In",
@@ -67,10 +67,10 @@
   "Upload a file": "Upload a file",
   "If you drag-and-drop zip or H5P archives, or if you import them as a new \"FILE\", they will be stored as such. To expand and use them, use the special \"IMPORT ZIP\" or \"IMPORT H5P\" option.": "If you drag-and-drop zip or H5P archives, or if you import as a new \"FILE\", they will be stored as such. To expand and use them, use the special \"IMPORT ZIP\" or \"IMPORT H5P\" option.",
   "You can upload up to FILE_UPLOAD_MAX_FILES files of MAX_FILE_SIZE at a time.": "You can upload up to {{maxFiles}} files of {{maxSize}} at a time.",
-  "You can upload up to one ZIP of SIZE at a time. On error, try to upload a smaller zip.": "You can upload up to one ZIP of {{maxSize}} at a time. On error, try to upload a smaller zip.",
+  "IMPORT_ZIP_LIMITATIONS_TEXT": "You can upload up to one ZIP of {{maxSize}} at a time. On error, try to upload a smaller zip.",
   "You can upload up to one H5P of SIZE at a time.": "You can upload up to one H5P of {{maxSize}} at a time.",
   "You can upload H5P rich content by uploading exported .h5p files (e.g. from H5P.com, external Moodle services, etc).": "You can upload H5P rich content by uploading exported .h5p files (e.g. from H5P.com, external Moodle services, etc).",
-  "Once your file is accepted, it will take several minutes for it to be available.": "Once your file is accepted, it will take several minutes for it to be available.",
+  "BUILDER.IMPORT_ZIP_WARNING": "Once your file is accepted, it will take several minutes for it to be available.",
   "s3-file": "s3-file",
   "file": "file",
   "Add": "Add",
@@ -172,8 +172,8 @@
   "HIDE_ITEM_HIDE_TEXT": "Hide",
   "HIDE_ITEM_SHOW_TEXT": "Show",
   "HIDE_ITEM_HIDDEN_PARENT_INFORMATION": "This item is hidden because its parent item is hidden.",
-  "Import a Graasp Archive": "Import a Graasp Archive",
-  "You can download your resources from graasp.eu by right clicking and choosing \"Download as ZIP\".": "You can download your resources from graasp.eu by right clicking and choosing \"Download as ZIP\".",
+  "IMPORT_ZIP_TITLE": "Import a Graasp Archive",
+  "IMPORT_ZIP_INFORMATION": "You can download your resources from graasp.eu by right clicking and choosing \"Download as ZIP\".",
   "Once your file is accepted, it will take several minutes for all imported files to be available.": "Once your file is accepted, it will take several minutes for all imported files to be available.",
   "All content published on Graasp Library does not allow commercial use.": "All content published on Graasp Library does not allow commercial use.",
   "Allow adaptations of your work to be shared?": "Allow adaptations of your work to be shared?",
@@ -233,15 +233,6 @@
   "SWITCH_ACCOUNT_BUTTON_SIGNED_OUT": "Sign In",
 
   "EDIT_ITEM_ERROR_MESSAGE": "Item is invalid",
-  "PASSWORD_SETTINGS_TITLE": "Change Password",
-  "PASSWORD_SETTINGS_CURRENT_LABEL": "Current Password",
-  "PASSWORD_SETTINGS_CURRENT_INFORMATION": "Leave this field empty if you do not already have a password set.",
-  "PASSWORD_SETTINGS_NEW_LABEL": "New Password",
-  "PASSWORD_SETTINGS_NEW_CONFIRM_LABEL": "Confirm Password",
-  "PASSWORD_SETTINGS_CONFIRM_BUTTON": "Update password",
-
-  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Make sure it is at least 8 characters including a number, a lowercase letter and an uppercase letter.",
-  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Request a reset",
 
   "SHARE_ITEM_CSV_IMPORT_BUTTON": "Import from CSV",
   "SHARE_ITEM_CSV_IMPORT_MODAL_TITLE": "Import users from a CSV file",
@@ -276,5 +267,16 @@
   "CREATE_NEW_ITEM_DOCUMENT_TITLE": "Create a Document",
   "CREATE_NEW_ITEM_NAME_LABEL": "Name",
   "TEXT_EDITOR_PLACEHOLDER": "Write something…",
-  "ITEM_MEMBERSHIP_PERMISSION_LABEL": "Permission"
+  "ITEM_MEMBERSHIP_PERMISSION_LABEL": "Permission",
+
+  "ITEMS_TABLE_UPDATED_AT_HEADER": "Updated At",
+  "ITEMS_TABLE_CREATOR_HEADER": "Creator",
+  "ITEMS_TABLE_ACTIONS_HEADER": "Actions",
+  "ITEMS_TABLE_TYPE_HEADER": "Type",
+  "ITEMS_TABLE_NAME_HEADER": "Name",
+  "ITEMS_TABLE_EMPTY_MESSAGE": "No items",
+  "ITEMS_TABLE_DRAG_DEFAULT_MESSAGE": "Move one item",
+  "ITEMS_GRID_ITEMS_PER_PAGE_TITLE": "Items per page",
+
+  "EDIT_BUTTON_TOOLTIP": "EDIT_BUTTON_TOOLTIP"
 }

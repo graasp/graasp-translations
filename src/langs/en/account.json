@@ -16,5 +16,15 @@
 
   "PROFILE_AVATAR_TITLE": "Thumbnail",
   "PROFILE_AVATAR_INFORMATION": "Update thumbnail",
-  "PROFILE_AVATAR_CURRENT_ALT": "current thumbnail"
+  "PROFILE_AVATAR_CURRENT_ALT": "current thumbnail",
+
+  "PASSWORD_SETTINGS_TITLE": "Change Password",
+  "PASSWORD_SETTINGS_CURRENT_LABEL": "Current Password",
+  "PASSWORD_SETTINGS_CURRENT_INFORMATION": "Leave this field empty if you do not already have a password set.",
+  "PASSWORD_SETTINGS_NEW_LABEL": "New Password",
+  "PASSWORD_SETTINGS_NEW_CONFIRM_LABEL": "Confirm Password",
+  "PASSWORD_SETTINGS_CONFIRM_BUTTON": "Update password",
+
+  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Make sure it is at least 8 characters including a number, a lowercase letter and an uppercase letter.",
+  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Request a reset"
 }
