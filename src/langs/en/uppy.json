@@ -35,7 +35,7 @@
     "1": "Processing %{smart_count} files"
   },
   "poweredBy": "Powered by %{uppy}",
-  "addMore": "Add more",
+  "addMore": "Add",
   "editFileWithFilename": "Edit file %{file}",
   "save": "Save",
   "cancel": "Cancel",
