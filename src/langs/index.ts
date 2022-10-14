@@ -28,6 +28,12 @@ import permissionLevelDE from './de/permissionLevel.json';
 import itemTypeEN from './en/itemType.json';
 import itemTypeFR from './fr/itemType.json';
 import itemTypeDE from './de/itemType.json';
+import contextEN from './en/context.json';
+import contextFR from './fr/context.json';
+import contextDE from './de/context.json';
+import uppyEN from './en/uppy.json';
+import uppyFR from './fr/uppy.json';
+import uppyDE from './de/uppy.json';
 
 // define namespaces
 export const namespaces = {
@@ -40,6 +46,7 @@ export const namespaces = {
   enums: 'enums',
   library: 'library',
   messages: 'messages',
+  uppy: 'uppy',
 };
 
 const en = {
@@ -52,9 +59,11 @@ const en = {
   [namespaces.enums]: {
     ...permissionLevelEN,
     ...itemTypeEN,
+    ...contextEN,
   },
   [namespaces.library]: libraryEN,
   [namespaces.messages]: messagesEN,
+  [namespaces.uppy]: uppyEN,
 };
 
 const fr = {
@@ -67,9 +76,11 @@ const fr = {
   [namespaces.enums]: {
     ...permissionLevelFR,
     ...itemTypeFR,
+    ...contextFR,
   },
   [namespaces.library]: libraryFR,
   [namespaces.messages]: messagesFR,
+  [namespaces.uppy]: uppyFR,
 };
 
 const de = {
@@ -82,9 +93,11 @@ const de = {
   [namespaces.enums]: {
     ...permissionLevelDE,
     ...itemTypeDE,
+    ...contextDE,
   },
   [namespaces.library]: libraryDE,
   [namespaces.messages]: messagesDE,
+  [namespaces.uppy]: uppyDE,
 };
 
 // other supported languages here
