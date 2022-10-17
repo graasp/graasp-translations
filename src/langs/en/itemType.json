@@ -1,0 +1,10 @@
+{
+  "app": "app",
+  "document": "document",
+  "embeddedLink": "link",
+  "file": "file",
+  "folder": "folder",
+  "h5p": "h5p",
+  "s3File": "file",
+  "shortcut": "shortcut"
+}

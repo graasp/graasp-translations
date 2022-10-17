@@ -1,0 +1,10 @@
+{
+  "folder": "dossier",
+  "file": "fichier",
+  "s3File": "fichier",
+  "h5p": "h5p",
+  "app": "app",
+  "document": "document",
+  "shortcut": "raccourci",
+  "embeddedLink": "lien"
+}
