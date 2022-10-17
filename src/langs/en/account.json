@@ -2,7 +2,6 @@
   "PROFILE_TITLE": "Profile",
   "PROFILE_MEMBER_ID_TITLE": "Member ID",
   "PROFILE_LANGUAGE_TITLE": "Language",
-  "Storage Used": "Storage Used",
   "PROFILE_CREATED_AT_TITLE": "Member Since",
   "PROFILE_EMAIL_TITLE": "Email",
   "PROFILE_EMAIL_FREQUENCY_TITLE": "Email Frequency",
@@ -14,9 +13,9 @@
   "PROFILE_DELETE_ACCOUNT_BUTTON": "Delete Account",
   "PROFILE_DELETE_ACCOUNT_INFORMATION": "Once you delete an account, there is no going back. Please be certain.",
 
-  "PROFILE_AVATAR_TITLE": "Thumbnail",
-  "PROFILE_AVATAR_INFORMATION": "Update thumbnail",
-  "PROFILE_AVATAR_CURRENT_ALT": "current thumbnail",
+  "PROFILE_AVATAR_TITLE": "Profile Picture",
+  "PROFILE_AVATAR_INFORMATION": "Update Profile picture",
+  "PROFILE_AVATAR_CURRENT_ALT": "Profile Picture",
 
   "PASSWORD_SETTINGS_TITLE": "Change Password",
   "PASSWORD_SETTINGS_CURRENT_LABEL": "Current Password",
