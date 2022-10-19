@@ -14,5 +14,22 @@
   "LOWER_SECONDARY_SCHOOL": "Lower Secondary School",
   "UPPER_SECONDARY_SCHOOL": "Upper Secondary School",
   "VOCATIONAL_TRAINING": "Vocational Training",
-  "HIGHER_EDUCATION": "Higher Education"
+  "HIGHER_EDUCATION": "Higher Education",
+
+  "discipline": "Discipline",
+  "level": "Education Level",
+  "language": "Language",
+
+  "math": "Math",
+  "literature": "Literature",
+  "social science": "Social Science",
+  "natural science": "Natural Science",
+  "arts": "Arts",
+
+  "kindergarten": "Kindergarten",
+  "primary school": "Primary School",
+  "lower secondary school": "Lower Secondary School",
+  "upper secondary school": "Upper Secondary School",
+  "vocational training": "Vocational Training",
+  "higher education": "Higher Education"
 }
