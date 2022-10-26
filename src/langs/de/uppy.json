@@ -1,1 +1,64 @@
-{}
+{
+  "closeModal": "Schließen Sie Modal",
+  "addMoreFiles": "Mehr Dateien hinzufügen",
+  "addingMoreFiles": "Weitere Dateien hinzufügen",
+  "importFrom": "Importieren von %{name}",
+  "dashboardWindowTitle": "Uppy Dashboard-Fenster (zum Schließen die Escape-Taste drücken)",
+  "dashboardTitle": "Uppy-Dashboard",
+  "copyLinkToClipboardSuccess": "Link in die Zwischenablage kopiert.",
+  "copyLinkToClipboardFallback": "Kopieren Sie die folgende URL",
+  "copyLink": "Link kopieren",
+  "back": "Zurück",
+  "removeFile": "Datei entfernen",
+  "editFile": "Datei bearbeiten",
+  "editing": "Bearbeiten von %{file}",
+  "finishEditingFile": "Beenden Sie die Bearbeitung der Datei",
+  "saveChanges": "Änderungen speichern",
+  "myDevice": "Mein Gerät",
+  "dropHint": "Legen Sie Ihre Dateien hier ab",
+  "uploadComplete": "Hochladen abgeschlossen",
+  "uploadPaused": "Hochladen angehalten",
+  "resumeUpload": "Hochladen fortsetzen",
+  "pauseUpload": "Hochladen anhalten",
+  "retryUpload": "Hochladen erneut versuchen",
+  "cancelUpload": "Hochladen abbrechen",
+  "xFilesSelected": {
+    "0": "%{smart_count} Datei ausgewählt",
+    "1": "%{smart_count} Dateien ausgewählt"
+  },
+  "uploadingXFiles": {
+    "0": "%{smart_count} Datei wird hochgeladen",
+    "1": "%{smart_count} Dateien werden hochgeladen"
+  },
+  "processingXFiles": {
+    "0": "Datei %{smart_count} wird verarbeitet",
+    "1": "Verarbeitung von %{smart_count} Dateien"
+  },
+  "poweredBy": "Präsentiert von %{uppy}",
+  "addMore": "Hinzufügen",
+  "editFileWithFilename": "Datei %{file} bearbeiten",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "dropPasteFiles": "Dateien hier ablegen oder %{browseFiles}",
+  "dropPasteFolders": "Dateien hier ablegen oder %{browseFolders}",
+  "dropPasteBoth": "Dateien hier ablegen, %{browseFiles} oder %{browseFolders}",
+  "dropPasteImportFiles": "Dateien hier ablegen, %{browseFiles} oder importieren aus:",
+  "dropPasteImportFolders": "Dateien hier ablegen, %{browseFolders} oder importieren aus:",
+  "dropPasteImportBoth": "Dateien hier ablegen, %{browseFiles}, %{browseFolders} oder importieren aus:",
+  "importFiles": "Dateien importieren von:",
+  "browseFiles": "Dateien durchsuchen",
+  "browseFolders": "Ordner durchsuchen",
+  "recoveredXFiles": {
+    "0": "Wir konnten 1 Datei nicht vollständig wiederherstellen. Bitte wählen Sie es erneut aus und setzen Sie den Upload fort.",
+    "1": "Wir konnten %{smart_count} Dateien nicht vollständig wiederherstellen. Bitte wählen Sie sie erneut aus und setzen Sie den Upload fort."
+  },
+  "recoveredAllFiles": "Wir haben alle Dateien wiederhergestellt. Sie können den Upload jetzt fortsetzen.",
+  "sessionRestored": "Sitzung wiederhergestellt",
+  "reSelect": "Neu auswählen",
+  "missingRequiredMetaFields": {
+    "0": "Erforderliches Metafeld fehlt: %{fields}.",
+    "1": "Fehlende erforderliche Metafelder: %{fields}."
+  },
+  "takePictureBtn": "Ein Bild machen",
+  "recordVideoBtn": "Ein Video aufnehmen"
+}
