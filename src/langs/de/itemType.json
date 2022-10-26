@@ -1,1 +1,7 @@
-{}
+{
+  "app": "App",
+  "file": "Datei",
+  "h5p": "h5p",
+  "s3File": "Datei",
+  "shortcut": "Abkürzung"
+}
