@@ -1,1 +1,6 @@
-{}
+{
+  "builder": "Builder",
+  "player": "Player",
+  "analytics": "Analytik",
+  "library": "Library"
+}
