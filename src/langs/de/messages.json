@@ -1,1 +1,25 @@
-{}
+{
+  "ITEM_NOT_FOUND": "Ein Element wurde nicht gefunden",
+  "USER_CANNOT_READ_ITEM": "Sie können dieses Element nicht ansehen",
+  "USER_CANNOT_WRITE_ITEM": "Sie können dieses Element nicht bearbeiten",
+  "TOKEN_EXPIRED": "Ihre Sitzung ist abgelaufen",
+  "INVALID_SESSION": "Ihre Sitzung ist abgelaufen",
+  "ORPHAN_SESSION": "Ihre Sitzung ist abgelaufen",
+  "INVALID_PASSWORD": "Aktuelles Passwort ist ungültig. Bitte versuchen Sie es erneut",
+  "RESTORE_ITEMS": "Sie haben die Elemente erfolgreich wiederhergestellt",
+  "DELETE_ITEMS": "Die Elemente wurden erfolgreich gelöscht",
+  "COPY_ITEM": "Die Elemente wurden erfolgreich kopiert",
+  "SHARE_ITEM": "Die Elemente wurden erfolgreich geteilt",
+  "SIGN_IN": "Ihre Informationen sind gültig, Sie erhalten eine E-Mail um sich anzumelden",
+  "SIGN_UP": "Sie haben sich erfolgreich registriert, Sie erhalten eine E-Mail um sich anzumelden",
+  "EDIT_ITEM_MEMBERSHIP": "Die Elementmitgliedschaft wurde erfolgreich bearbeitet",
+  "DELETE_ITEM_MEMBERSHIP": "Die Elementmitgliedschaft wurde erfolgreich gelöscht",
+  "COPY_ITEM_LINK_TO_CLIPBOARD": "Der Link wurde erfolgreich kopiert",
+  "RECYCLE_ITEMS": "Die Elemente wurden erfolgreich in den Papierkorb verschoben",
+  "NOT_APP_ITEM": "Das Zielelement ist kein Appelement",
+  "INVALID_APP_ORIGIN": "Die App stimmt nicht mit ihrer registrierten Herkunft überein",
+  "CANNOT_COPY_RECYCLED_ITEM": "Ein recyceltes Element kann nicht kopiert werden",
+  "CANNOT_MOVE_RECYCLED_ITEM": "Ein recyceltes Element kann nicht bewegt werden",
+  "CANNOT_DELETE_RECYCLED_ITEM": "Ein recyceltes Element kann nicht gelöscht werden",
+  "INVALID_ITEM_STATUS": "Das Element entspricht nicht den Anforderungen"
+}
