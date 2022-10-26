@@ -1,3 +1,8 @@
 {
-  "COOKIE_BANNER_TEXT": "We use cookies and other tracking technologies to improve your browsing experience on our website, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies."
+  "COOKIE_BANNER_TEXT": "Wir verwenden Cookies und andere Tracking-Technologien, um Ihr Surferlebnis auf unserer Website zu verbessern, unseren Website-Traffic zu analysieren und zu verstehen, woher unsere Besucher kommen. Durch das Surfen auf unserer Website stimmen Sie unserer Verwendung von Cookies und anderen Tracking-Technologien zu.",
+  "COOKIE_BANNER_ACCEPT_BUTTON": "Alle akzeptieren",
+  "COOKIE_BANNER_DECLINE_BUTTON": "Nicht erforderliche Cookies ablehnen",
+  "CANCEL_BUTTON": "Abbrechen",
+  "CLOSE_BUTTON": "Schliessen",
+  "MEMBER_DEFAULT_NAME": "Unbekannt"
 }
