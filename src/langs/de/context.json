@@ -1,1 +1,4 @@
-{}
+{
+  "builder": "Builder",
+  "player": "Player"
+}
