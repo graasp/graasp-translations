@@ -1,1 +1,22 @@
-{}
+{
+  "PROFILE_TITLE": "Profil",
+  "PROFILE_MEMBER_ID_TITLE": "Mitgliedsnummer",
+  "PROFILE_LANGUAGE_TITLE": "Sprache",
+  "PROFILE_CREATED_AT_TITLE": "Mitglied seit",
+  "PROFILE_EMAIL_TITLE": "Email",
+  "PROFILE_EMAIL_FREQUENCY_TITLE": "E-Mail-Frequenz",
+  "PROFILE_DELETE_ACCOUNT_MODAL_TITLE": "Löschung bestätigen",
+  "PROFILE_DELETE_ACCOUNT_MODAL_INFORMATION": "Ihr Konto wird dauerhaft gelöscht.",
+  "PROFILE_DELETE_ACCOUNT_MODAL_CONFIRM_BUTTON": "Dauerhaft löschen",
+  "PROFILE_DELETE_ACCOUNT_TITLE": "Mein Konto löschen",
+  "PROFILE_DELETE_ACCOUNT_BUTTON": "Konto löschen",
+  "PROFILE_AVATAR_TITLE": "Profilbild",
+  "PROFILE_AVATAR_INFORMATION": "Profilbild aktualisieren",
+  "PROFILE_AVATAR_CURRENT_ALT": "Profilbild",
+  "PASSWORD_SETTINGS_TITLE": "Passwort ändern",
+  "PASSWORD_SETTINGS_CURRENT_LABEL": "Jetziges Passwort",
+  "PASSWORD_SETTINGS_CURRENT_INFORMATION": "Lassen Sie dieses Feld leer, wenn Sie noch kein Passwort festgelegt haben.",
+  "PASSWORD_SETTINGS_NEW_LABEL": "Neues Passwort",
+  "PASSWORD_SETTINGS_NEW_CONFIRM_LABEL": "Passwort bestätigen",
+  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Stellen Sie sicher, dass es mindestens 8 Zeichen lang ist, darunter eine Zahl, ein Kleinbuchstabe und ein Großbuchstabe."
+}
