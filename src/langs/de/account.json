@@ -10,6 +10,7 @@
   "PROFILE_DELETE_ACCOUNT_MODAL_CONFIRM_BUTTON": "Dauerhaft löschen",
   "PROFILE_DELETE_ACCOUNT_TITLE": "Mein Konto löschen",
   "PROFILE_DELETE_ACCOUNT_BUTTON": "Konto löschen",
+  "PROFILE_DELETE_ACCOUNT_INFORMATION": "Sobald Sie ein Konto gelöscht haben, gibt es kein Zurück mehr. Sind Sie sicher?",
   "PROFILE_AVATAR_TITLE": "Profilbild",
   "PROFILE_AVATAR_INFORMATION": "Profilbild aktualisieren",
   "PROFILE_AVATAR_CURRENT_ALT": "Profilbild",
@@ -18,5 +19,7 @@
   "PASSWORD_SETTINGS_CURRENT_INFORMATION": "Lassen Sie dieses Feld leer, wenn Sie noch kein Passwort festgelegt haben.",
   "PASSWORD_SETTINGS_NEW_LABEL": "Neues Passwort",
   "PASSWORD_SETTINGS_NEW_CONFIRM_LABEL": "Passwort bestätigen",
-  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Stellen Sie sicher, dass es mindestens 8 Zeichen lang ist, darunter eine Zahl, ein Kleinbuchstabe und ein Großbuchstabe."
+  "PASSWORD_SETTINGS_CONFIRM_BUTTON": "Passwort aktualisieren",
+  "PASSWORD_SETTINGS_CONFIRM_INFORMATION": "Stellen Sie sicher, dass es mindestens 8 Zeichen lang ist, darunter eine Zahl, ein Kleinbuchstabe und ein Großbuchstabe.",
+  "PASSWORD_SETTINGS_REQUEST_RESET_BUTTON": "Passwort zurücksetzen"
 }
