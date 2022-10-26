@@ -1,5 +1,5 @@
 {
-  "GRAASP_LIBRARY": "Graasp-Bibliothek",
+  "GRAASP_LIBRARY": "Graasp Library",
   "GRAASP_LIBRARY_DESCRIPTION": "Graasp Library ist eine Open-Source-Plattform, die Lernressourcen als Sammlungen bereitstellt.",
   "GUEST": "Gast",
   "SHARE_TWITTER_MESSAGE": "Schau dir {{name}} auf Graasp an",
@@ -71,6 +71,6 @@
   "AVATAR_ALT": "Avatar von {{name}}",
   "COLLECTION_EMPTY_DESCRIPTION_TEXT": "Dieses Element hat keine Beschreibung.",
   "COLLECTION_INFO_BUTTON": "Information",
-  "SIGN_IN_MODAL_CLOSE_BUTTON_ARIA_LABEL": "Anmlden Modal schliessen",
+  "SIGN_IN_MODAL_CLOSE_BUTTON_ARIA_LABEL": "Anmelden Modal schliessen",
   "VIEW_BUTTON_TOOLTIP": "Element ansehen"
 }
