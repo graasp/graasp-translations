@@ -1,4 +1,6 @@
 {
   "builder": "Builder",
-  "player": "Player"
+  "player": "Player",
+  "analytics": "Analytik",
+  "library": "Bibliothek"
 }
