@@ -166,7 +166,7 @@
   "SETTINGS_LINK_SETTINGS_INFORMATIONS": "Wenn beide Einstellungen deaktiviert sind, wird standardmäßig eine Schaltfläche angezeigt.",
   "SETTINGS_LINK_SETTINGS_TITLE": "Link-Einstellungen",
   "SETTINGS_LINK_SHOW_BUTTON": "Linkschaltfläche anzeigen",
-  "SETTINGS_LINK_SHOW_IFRAME": "Link-Iframe anzeigen",
+  "SETTINGS_LINK_SHOW_IFRAME": "Link-Iframe anzeigen (einige Websites verhindern diese Funktion)",
   "SETTINGS_PIN_ITEM_LABEL": "Anpinnen",
   "SETTINGS_SHOW_CHAT_LABEL": "Chat anzeigen",
   "SETTINGS_THUMBNAIL_SETTINGS_INFORMATIONS": "Stellen Sie ein Bild bereit, um das Thumbnnail zu aktualisieren. Möglicherweise müssen Sie die Seite aktualisieren, um die Änderungen zu sehen.",
