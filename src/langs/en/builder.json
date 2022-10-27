@@ -166,7 +166,7 @@
   "SETTINGS_LINK_SETTINGS_INFORMATIONS": "If both setting are disabled, a button will be displayed by default.",
   "SETTINGS_LINK_SETTINGS_TITLE": "Link Settings",
   "SETTINGS_LINK_SHOW_BUTTON": "Show Link Button",
-  "SETTINGS_LINK_SHOW_IFRAME": "Show Link Iframe",
+  "SETTINGS_LINK_SHOW_IFRAME": "Show Link Iframe (some websites prevent this feature)",
   "SETTINGS_PIN_ITEM_LABEL": "Pin",
   "SETTINGS_SHOW_CHAT_LABEL": "Show Chat",
   "SETTINGS_THUMBNAIL_SETTINGS_INFORMATIONS": "Provide an image to update the thumbnail. You might need to refresh the page to see the changes.",

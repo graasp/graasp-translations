@@ -166,7 +166,7 @@
   "SETTINGS_LINK_SETTINGS_INFORMATIONS": "Si les deux paramètres sont désactivés, un bouton sera affiché par défaut.",
   "SETTINGS_LINK_SETTINGS_TITLE": "Paramètres du lien",
   "SETTINGS_LINK_SHOW_BUTTON": "Montrer le bouton cliquable",
-  "SETTINGS_LINK_SHOW_IFRAME": "Montrer le lien dans une iframe",
+  "SETTINGS_LINK_SHOW_IFRAME": "Montrer le lien dans une iframe (certains sites web empêchent d'être affichés)",
   "SETTINGS_PIN_ITEM_LABEL": "Epingler",
   "SETTINGS_SHOW_CHAT_LABEL": "Afficher le chat",
   "SETTINGS_THUMBNAIL_SETTINGS_INFORMATIONS": "Importez une image pour mettre à jour l'icône. Rechargez la page pour visualiser les changements.",
