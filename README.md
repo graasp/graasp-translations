@@ -22,7 +22,7 @@ export const MY_APP_NAME = {
 };
 ```
 
-- Create a file for each supported language in `src/langs/language_initials/your_app_name.ts` with the following content:
+- Create a file for each supported language in `src/langs/<language-initials>/your_app_name.ts` with the following content:
 ```ts
 import { MY_APP_NAME } from "../../constants/your_app_name";
 
