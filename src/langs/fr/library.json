@@ -27,5 +27,7 @@
   "SEARCH_RANGE_LABEL": "Champ de recherche",
   "SEARCH_RANGES_ALL": "Tous",
   "SEARCH_RANGES_TITLE": "Titre",
-  "SEARCH_RANGES_TAGS": "Tag"
+  "SEARCH_RANGES_TAGS": "Tag",
+  "SHARED_ITEMS_LABEL": "Eléments Partagés",
+  "OWN_ITEMS_LABEL": "Mes Eléments"
 }

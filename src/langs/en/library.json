@@ -72,5 +72,7 @@
   "COLLECTION_EMPTY_DESCRIPTION_TEXT": "This item has no description.",
   "COLLECTION_INFO_BUTTON": "Information",
   "SIGN_IN_MODAL_CLOSE_BUTTON_ARIA_LABEL": "Close Sign In Modal",
-  "VIEW_BUTTON_TOOLTIP": "View item"
+  "VIEW_BUTTON_TOOLTIP": "View item",
+  "SHARED_ITEMS_LABEL": "Shared Items",
+  "OWN_ITEMS_LABEL": "Owned Items"
 }

@@ -72,5 +72,7 @@
   "COLLECTION_EMPTY_DESCRIPTION_TEXT": "Dieses Element hat keine Beschreibung.",
   "COLLECTION_INFO_BUTTON": "Information",
   "SIGN_IN_MODAL_CLOSE_BUTTON_ARIA_LABEL": "Anmelden Modal schliessen",
-  "VIEW_BUTTON_TOOLTIP": "Element ansehen"
+  "VIEW_BUTTON_TOOLTIP": "Element ansehen",
+  "SHARED_ITEMS_LABEL": "Geteilte Elemente",
+  "OWN_ITEMS_LABEL": "Meine Gegenstände"
 }
