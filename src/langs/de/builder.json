@@ -52,7 +52,7 @@
   "IMPORT_H5P_WARNING": "Sobald Ihre Datei akzeptiert wurde, dauert es einige Minuten, bis alle importierten Dateien verfügbar sind.",
   "IMPORT_ZIP_INFORMATION": "Sie können Ihre Ressourcen von graasp.eu herunterladen, indem Sie mit der rechten Maustaste klicken und \"Als ZIP herunterladen\" auswählen.",
   "IMPORT_ZIP_LIMITATIONS_TEXT": "Sie können eine ZIP-Datei von bis zu {{maxSize}} gleichzeitig hochladen. Versuchen Sie im Fehlerfall, eine kleinere ZIP-Datei hochzuladen.",
-  "IMPORT_ZIP_TITLE": "Importieren Sie ein Graasp-Archiv",
+  "IMPORT_ZIP_TITLE": "Importieren Sie ein Archiv",
   "IMPORT_ZIP_WARNING": "Sobald Ihre Datei akzeptiert wurde, dauert es einige Minuten, bis sie verfügbar ist.",
   "INVITATIONS_TABLE_ACTIONS_HEADER": "Aktionen",
   "INVITATIONS_TABLE_CANNOT_DELETE_PARENT_TOOLTIP": "Diese Einladung ist im übergeordneten Element definiert und kann hier nicht gelöscht werden.",
