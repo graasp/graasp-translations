@@ -34,11 +34,15 @@ import contextDE from './de/context.json';
 import uppyEN from './en/uppy.json';
 import uppyFR from './fr/uppy.json';
 import uppyDE from './de/uppy.json';
+import associationEN from './en/association.json';
+import associationFR from './fr/association.json';
+
 
 // define namespaces
 export const namespaces = {
   account: 'account',
   auth: 'auth',
+  association: 'association',
   builder: 'builder',
   categories: 'categories',
   chatbox: 'chatbox',
@@ -52,6 +56,7 @@ export const namespaces = {
 const en = {
   [namespaces.account]: accountEN,
   [namespaces.auth]: authEN,
+  [namespaces.association]: associationEN,
   [namespaces.builder]: builderEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
@@ -69,6 +74,7 @@ const en = {
 const fr = {
   [namespaces.account]: accountFR,
   [namespaces.auth]: authFR,
+  [namespaces.association]: associationFR,
   [namespaces.builder]: builderFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
