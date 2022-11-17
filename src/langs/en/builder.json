@@ -169,6 +169,7 @@
   "SETTINGS_LINK_SHOW_IFRAME": "Show Link Iframe (some websites prevent this feature)",
   "SETTINGS_PIN_ITEM_LABEL": "Pin",
   "SETTINGS_SHOW_CHAT_LABEL": "Show Chat",
+  "SETTINGS_RESIZE_LABEL": "Allow Manual Resizing",
   "SETTINGS_THUMBNAIL_SETTINGS_INFORMATIONS": "Provide an image to update the thumbnail. You might need to refresh the page to see the changes.",
   "SETTINGS_THUMBNAIL_TITLE": "Thumbnail",
   "SETTINGS_TITLE": "Settings",
