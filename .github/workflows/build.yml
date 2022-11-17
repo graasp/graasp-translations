@@ -1,0 +1,31 @@
+name: Build
+
+# Control when the action will run
+on:
+  push:
+
+jobs:
+  build:
+    name: Build
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    steps:
+    # Check-out repository under $GITHUB_WORKSPACE, so the job can access it
+    - name: Check out code
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ inputs.tag }}
+
+    - name: Setup node
+      id: setup-node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        check-latest: true
+
+    - name: Yarn install and Cache dependencies
+      uses: graasp/graasp-deploy/.github/actions/yarn-install-and-cache@v1
+
+    - name: Yarn build
+      run: yarn build
