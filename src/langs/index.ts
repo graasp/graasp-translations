@@ -37,7 +37,6 @@ import uppyDE from './de/uppy.json';
 import associationEN from './en/association.json';
 import associationFR from './fr/association.json';
 
-
 // define namespaces
 export const namespaces = {
   account: 'account',
