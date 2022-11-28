@@ -1,7 +1,6 @@
 {
   "name": "@graasp/translations",
   "version": "1.0.0",
-  "private": true,
   "engines": {
     "node": ">=14.0.0"
   },
@@ -14,7 +13,15 @@
     "url": "https://github.com/graasp/graasp-translations"
   },
   "license": "AGPL-3.0-only",
-  "author": "Graasp Association",
+  "author": "Graasp",
+  "contributors": [
+    "Juan Carlos Farah",
+    "Kim Lan Phan Hoang",
+    "Víctor González",
+    "Basile Spaenlehauer",
+    "Alexandre Chau",
+    "Julien Torrent"
+  ],
   "scripts": {
     "prepack": "yarn build",
     "prepare": "yarn build && yarn hooks:install",
