@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/graasp/graasp-translations/compare/v1.0.0...v1.0.1) (2022-11-28)
+
+
+### Bug Fixes
+
+* french translation ([a19510c](https://github.com/graasp/graasp-translations/commit/a19510c506741a6f075b8cc8555c12ed6a2f59b6))
+
 ## 1.0.0 (2022-11-22)
 
 
