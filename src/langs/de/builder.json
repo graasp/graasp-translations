@@ -213,7 +213,7 @@
   "UPLOAD_FILE_LIMITATIONS_TEXT": "Sie können bis zu {{maxFiles}} Dateien von {{maxSize}} gleichzeitig hochladen.",
   "UPLOAD_FILE_TITLE": "Eine Datei hochladen",
   "USER_SWITCH_PROFILE_BUTTON": "Siehe Profil",
-  "USER_SWITCH_SIGN_OUT_BUTTON": "Austragen",
+  "USER_SWITCH_SIGN_OUT_BUTTON": "Abmelden",
   "USER_SWITCH_SIGNED_OUT_TOOLTIP": "Sie sind nicht angemeldet.",
   "USER_SWITCH_SWITCH_USER_TEXT": "Melden Sie sich mit einem anderen Konto an"
 }
