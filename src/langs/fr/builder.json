@@ -139,6 +139,7 @@
   "LIBRARY_SETTINGS_VALIDATION_STATUS_PENDING_MANUAL": "Votre élément a été rejeté par la validation automatique. Un membre de notre équipe vérifiera manuellement votre collection, veuillez attendre le résultat.",
   "LIBRARY_SETTINGS_VALIDATION_TITLE": "Validation",
   "LIBRARY_SETTINGS_VALIDATION_VALIDATE_BUTTON": "Valider",
+  "LIBRARY_SETTINGS_VISIBILITY_INFORMATIONS": "Cet élément doit être public pour pouvoir être publié",
   "LINK_DEFAULT_NAME": "Mon Lien",
   "MOVE_BUTTON": "Déplacer",
   "MOVE_ITEM_MODAL_TITLE": "Où déplacer cet élément?",
