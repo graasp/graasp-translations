@@ -139,6 +139,7 @@
   "LIBRARY_SETTINGS_VALIDATION_STATUS_PENDING_MANUAL": "Ihr Element hat die automatische Validierung nicht bestanden. Ein Mitglied unseres Teams wird Ihre Sammlung manuell überprüfen, bitte warten Sie das Ergebnis ab.",
   "LIBRARY_SETTINGS_VALIDATION_TITLE": "Validierung",
   "LIBRARY_SETTINGS_VALIDATION_VALIDATE_BUTTON": "Bestätigen",
+  "LIBRARY_SETTINGS_VISIBILITY_INFORMATIONS": "Dieses Element muss öffentlich sein, um veröffentlicht zu werden",
   "LINK_DEFAULT_NAME": "Meine Verbindung",
   "MOVE_BUTTON": "Verschieben",
   "MOVE_ITEM_MODAL_TITLE": "Wohin möchten Sie dieses Element verschieben?",

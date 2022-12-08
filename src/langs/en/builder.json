@@ -139,6 +139,7 @@
   "LIBRARY_SETTINGS_VALIDATION_STATUS_PENDING_MANUAL": "Your item failed the automatic validation. A member of our team will manually check your collection, please wait for the result.",
   "LIBRARY_SETTINGS_VALIDATION_TITLE": "Validation",
   "LIBRARY_SETTINGS_VALIDATION_VALIDATE_BUTTON": "Validate",
+  "LIBRARY_SETTINGS_VISIBILITY_INFORMATIONS": "This element must be public to be published",
   "LINK_DEFAULT_NAME": "My Link",
   "MOVE_BUTTON": "Move",
   "MOVE_ITEM_MODAL_TITLE": "Where do you want to move this item?",
