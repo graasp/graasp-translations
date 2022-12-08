@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/graasp/graasp-translations/compare/v1.0.1...v1.0.2) (2022-12-07)
+
+
+### Bug Fixes
+
+* logout should be 'abmelden' in german ([#78](https://github.com/graasp/graasp-translations/issues/78)) ([2a851b8](https://github.com/graasp/graasp-translations/commit/2a851b8f380eb1b18f888fa8316e8a1b1df3ef31))
+* release workflow with new composite npm publish ([8938b19](https://github.com/graasp/graasp-translations/commit/8938b19a9e9a20c24d2e688b985595ddc8e247ea))
+
 ## [1.0.1](https://github.com/graasp/graasp-translations/compare/v1.0.0...v1.0.1) (2022-11-28)
 
 
