@@ -80,7 +80,7 @@
   "NOT_APP_ITEM": "L'élément cible n'est pas une application",
   "INVALID_APP_ORIGIN": "L'application ne correspond pas à l'origine enregistrée",
   "TOKEN_ITEM_ID_MISMATCH": "Le jeton d'authentification ne correspond pas à l'élément cible",
-  "APP_DATA_NOT_FOUND": "Aucune données d'application trouvés",
+  "APP_DATA_NOT_FOUND": "Aucunes données d'application trouvées",
   "APP_DATA_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette donnée d'application",
   "APP_ACTION_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette action d'application",
   "APP_SETTING_NOT_FOUND": "Aucun paramètres d'application trouvés",
