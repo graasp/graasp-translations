@@ -1,5 +1,5 @@
 {
-  "DEFAULT_FAILURE": "An unexpected error occured",
+  "DEFAULT_FAILURE": "An unexpected error occurred",
   "DEFAULT_SUCCESS": "The operation was successful",
   "ITEM_NOT_FOUND": "An item was not found",
   "TOO_MANY_DESCENDANTS": "One item has too many descendants for the operation to proceed",
@@ -64,8 +64,8 @@
   "DELETE_ITEM_MEMBERSHIP": "The item membership was successfully deleted",
   "POST_ITEM_FLAG": "The item was successfully flagged",
   "COPY_ITEM_LINK_TO_CLIPBOARD": "Link is successfully copied",
-  "RECYCLE_ITEM": "The item was successfully moved to the recycle bin",
-  "RECYCLE_ITEMS": "The item(s) were successfully moved to the recycle bin",
+  "RECYCLE_ITEM": "The item was successfully moved to the trash bin",
+  "RECYCLE_ITEMS": "The item(s) were successfully moved to the trash bin",
   "UPLOAD_ITEM_THUMBNAIL": "The thumbnail was successfully uploaded",
   "UPLOAD_AVATAR": "The avatar was successfully uploaded",
   "IMPORT_ZIP": "The ZIP archive was successfully imported",
@@ -75,7 +75,7 @@
 
   "INVALID_ARCHIVE_FILE": "The submitted file is not a zip archive",
   "INVALID_FILE_ITEM": "The file's properties are invalid",
-  "UNEXPECTED_EXPORT_ERROR": "An error occured while exporting the zip file",
+  "UNEXPECTED_EXPORT_ERROR": "An error occurred while exporting the zip file",
 
   "NOT_APP_ITEM": "The targeted item is not an application item",
   "INVALID_APP_ORIGIN": "The application does not match its registered origin",
@@ -88,9 +88,9 @@
   "PREVENT_APP_SETTING_FILE_UPDATE": "File app setting cannot be updated",
   "FILE_SERVICE_NOT_DEFINED": "The file service or type is not defined",
 
-  "CANNOT_COPY_RECYCLED_ITEM": "A recycled item cannot be copied",
-  "CANNOT_MOVE_RECYCLED_ITEM": "A recycled item cannot be moved",
-  "CANNOT_DELETE_RECYCLED_ITEM": "A recycled item cannot be deleted",
-  "CANNOT_GET_RECYCLED_ITEM": "A recycled item cannot be read",
+  "CANNOT_COPY_RECYCLED_ITEM": "A trashed item cannot be copied",
+  "CANNOT_MOVE_RECYCLED_ITEM": "A trashed item cannot be moved",
+  "CANNOT_DELETE_RECYCLED_ITEM": "A trashed item cannot be deleted",
+  "CANNOT_GET_RECYCLED_ITEM": "A trashed item cannot be read",
   "INVALID_ITEM_STATUS": "The item does not satisfy the requirements"
 }

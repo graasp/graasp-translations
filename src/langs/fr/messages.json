@@ -1,6 +1,8 @@
 {
+  "DEFAULT_FAILURE": "Une erreur inattendue est survenue",
+  "DEFAULT_SUCCESS": "L'opération a réussi",
   "ITEM_NOT_FOUND": "Élément introuvable",
-  "TOO_MANY_DESCENDANTS": "Un élément a trop de descendents pour que l'opération continue",
+  "TOO_MANY_DESCENDANTS": "Un élément a trop de descendants pour que l'opération continue",
   "USER_CANNOT_READ_ITEM": "Vous ne pouvez pas voir cet élément",
   "USER_CANNOT_WRITE_ITEM": "Vous ne pouvez pas modifier cet élément",
   "USER_CANNOT_ADMIN_ITEM": "Vous ne pouvez pas modifier cet élément",
@@ -25,9 +27,11 @@
   "ORPHAN_SESSION": "Votre session a expiré",
   "DATABASE_ERROR": "Une erreur est survenue dans la base de données",
   "UNEXPECTED_ERROR": "Une erreur inattendue est survenue",
+
   "STORAGE_EXCEEDED": "Vous avez rempli votre espace de stockage",
   "FILE_SIZE_NOT_FOUND": "Impossible de calculer la taille du fichier",
   "FILE_IS_NOT_IMAGE": "Le fichier n'est pas une image",
+
   "INVALID_UPLOAD_PARAMETERS": "Un ou plusieurs paramètres de mise en ligne sont invalides",
   "UPLOAD_EMPTY_FILE": "Impossible de mettre en ligne un fichier vide",
   "INVALID_FILE_PATH_FOR_COPY": "Le chemin du fichier est invalide pour la copie",
@@ -38,6 +42,7 @@
   "S3_FILE_NOT_FOUND": "Le fichier S3 n'a pas été trouvé",
   "INVALID_PASSWORD": "Le mot de passe actuel est invalide. Réessayez",
   "EMPTY_CURRENT_PASSWORD": "Le mot de passe actuel n'a pas été rempli. Réessayez",
+
   "RESTORE_ITEMS": "Les éléments ont été restorés avec succès",
   "CREATE_ITEM": "L'élément a été créé avec succès",
   "DELETE_ITEM": "L'élément a été supprimé avec succès",
@@ -66,5 +71,26 @@
   "IMPORT_ZIP": "L'archive ZIP a été importé avec succès",
   "IMPORT_H5P": "La librairie H5P a été importé avec succès",
   "DELETE_MEMBER": "Le compte a été supprimé avec succès",
-  "UPDATE_PASSWORD": "Le mot de passe a été mis à jour avec succès"
+  "UPDATE_PASSWORD": "Le mot de passe a été mis à jour avec succès",
+
+  "INVALID_ARCHIVE_FILE": "Le fichier soumis n'est pas une archive zip",
+  "INVALID_FILE_ITEM": "Les propriétés du fichier sont invalides",
+  "UNEXPECTED_EXPORT_ERROR": "Une erreur est survenue durant l'exportation de l'archive zip",
+
+  "NOT_APP_ITEM": "L'élément cible n'est pas une application",
+  "INVALID_APP_ORIGIN": "L'application ne correspond pas à l'origine enregistrée",
+  "TOKEN_ITEM_ID_MISMATCH": "Le jeton d'authentification ne correspond pas à l'élément cible",
+  "APP_DATA_NOT_FOUND": "Aucunes données d'application trouvées",
+  "APP_DATA_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette donnée d'application",
+  "APP_ACTION_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette action d'application",
+  "APP_SETTING_NOT_FOUND": "Aucuns paramètres d'application trouvés",
+  "PREVENT_APP_DATA_FILE_UPDATE": "Les fichiers sauvés dans les données de l'application ne peuvent pas être mis à jour",
+  "PREVENT_APP_SETTING_FILE_UPDATE": "Les fichier sauvés dans les paramètres de l'application ne peuvent pas être mis à jour",
+  "FILE_SERVICE_NOT_DEFINED": "Le service de fichier ou le type de fichier n'est pas défini",
+
+  "CANNOT_COPY_RECYCLED_ITEM": "Un élément supprimé ne peut pas être copié",
+  "CANNOT_MOVE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être déplacé",
+  "CANNOT_DELETE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être supprimé",
+  "CANNOT_GET_RECYCLED_ITEM": "Un élément supprimé ne peut pas être lu",
+  "INVALID_ITEM_STATUS": "L'élément ne satisfait pas les contraintes"
 }
