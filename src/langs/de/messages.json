@@ -82,9 +82,9 @@
   "PREVENT_APP_DATA_FILE_UPDATE": "Datei-App-Daten können nicht aktualisiert werden",
   "PREVENT_APP_SETTING_FILE_UPDATE": "Datei-App-Einstellung kann nicht aktualisiert werden",
   "FILE_SERVICE_NOT_DEFINED": "Der Dateidienst oder -typ ist nicht definiert",
-  "CANNOT_COPY_RECYCLED_ITEM": "Ein recyceltes Element kann nicht kopiert werden",
-  "CANNOT_MOVE_RECYCLED_ITEM": "Ein recyceltes Element kann nicht bewegt werden",
-  "CANNOT_DELETE_RECYCLED_ITEM": "Ein recyceltes Element kann nicht gelöscht werden",
-  "CANNOT_GET_RECYCLED_ITEM": "Ein recyceltes Element kann nicht gelesen werden",
+  "CANNOT_COPY_RECYCLED_ITEM": "Ein gelöschtes Element kann nicht kopiert werden",
+  "CANNOT_MOVE_RECYCLED_ITEM": "Ein gelöschtes Element kann nicht verschiebt werden",
+  "CANNOT_DELETE_RECYCLED_ITEM": "Ein gelöschtes Element kann nicht gelöscht werden",
+  "CANNOT_GET_RECYCLED_ITEM": "Ein gelöschtes Element kann nicht gelesen werden",
   "INVALID_ITEM_STATUS": "Das Element entspricht nicht den Anforderungen"
 }
