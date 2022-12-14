@@ -83,7 +83,7 @@
   "APP_DATA_NOT_FOUND": "Aucunes données d'application trouvées",
   "APP_DATA_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette donnée d'application",
   "APP_ACTION_NOT_ACCESSIBLE": "Le membre ne peut pas demander cette action d'application",
-  "APP_SETTING_NOT_FOUND": "Aucun paramètres d'application trouvés",
+  "APP_SETTING_NOT_FOUND": "Aucuns paramètres d'application trouvés",
   "PREVENT_APP_DATA_FILE_UPDATE": "Les fichiers sauvés dans les données de l'application ne peuvent pas être mis à jour",
   "PREVENT_APP_SETTING_FILE_UPDATE": "Les fichier sauvés dans les paramètres de l'application ne peuvent pas être mis à jour",
   "FILE_SERVICE_NOT_DEFINED": "Le service de fichier ou le type de fichier n'est pas défini",
