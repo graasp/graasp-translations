@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/graasp/graasp-translations/compare/v1.0.2...v1.1.0) (2022-12-15)
+
+
+### Features
+
+* add publish visibility information ([#83](https://github.com/graasp/graasp-translations/issues/83)) ([4eec511](https://github.com/graasp/graasp-translations/commit/4eec511294f3b0da429a1529a0cf793906ea49d8))
+
+
+### Bug Fixes
+
+* rename recycle into trash and add missing translations ([#86](https://github.com/graasp/graasp-translations/issues/86)) ([7056837](https://github.com/graasp/graasp-translations/commit/705683739405cb98a0b84ee1f8676914a71cf29e))
+* update german translations of publishing flow ([0a4e85b](https://github.com/graasp/graasp-translations/commit/0a4e85b2d960d5e4e220dd63e8c7c53183c183a9))
+
 ## [1.0.2](https://github.com/graasp/graasp-translations/compare/v1.0.1...v1.0.2) (2022-12-07)
 
 
