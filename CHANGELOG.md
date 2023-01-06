@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/graasp/graasp-translations/compare/v1.1.0...v1.2.0) (2023-01-06)
+
+
+### Features
+
+* add etherpad translations ([#91](https://github.com/graasp/graasp-translations/issues/91)) ([0980629](https://github.com/graasp/graasp-translations/commit/09806295cdb45d964bac048d2c2e69da148c6297))
+
 ## [1.1.0](https://github.com/graasp/graasp-translations/compare/v1.0.2...v1.1.0) (2022-12-15)
 
 
