@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/graasp/graasp-translations/compare/v1.2.0...v1.2.1) (2023-01-10)
+
+
+### Bug Fixes
+
+* add missing UserSwitch and password translations for auth ([#94](https://github.com/graasp/graasp-translations/issues/94)) ([848559d](https://github.com/graasp/graasp-translations/commit/848559dd30e1b695d997e27d66c25b896ccc98ce))
+
 ## [1.2.0](https://github.com/graasp/graasp-translations/compare/v1.1.0...v1.2.0) (2023-01-06)
 
 
