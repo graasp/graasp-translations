@@ -7,5 +7,6 @@
   "CANCEL_BUTTON": "Cancel",
   "CLOSE_BUTTON": "Close",
   "AVATAR_DEFAULT_ALT": "avatar",
-  "MEMBER_DEFAULT_NAME": "Unknown"
+  "MEMBER_DEFAULT_NAME": "Unknown",
+  "UNKNOWN_DATE": "Unknown"
 }
