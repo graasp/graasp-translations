@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/graasp/graasp-translations/compare/v1.2.1...v1.3.0) (2023-01-23)
+
+
+### Features
+
+* add unknown date translations ([0e0e632](https://github.com/graasp/graasp-translations/commit/0e0e6320018893eecfecfbf6284e0f1add1f1051))
+
 ## [1.2.1](https://github.com/graasp/graasp-translations/compare/v1.2.0...v1.2.1) (2023-01-10)
 
 
