@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/graasp/graasp-translations/compare/v1.3.0...v1.4.0) (2023-02-14)
+
+
+### Features
+
+* release new version ([98b64f6](https://github.com/graasp/graasp-translations/commit/98b64f6aa0594af3416d4a230107392c46edc049))
+
 ## [1.3.0](https://github.com/graasp/graasp-translations/compare/v1.2.1...v1.3.0) (2023-01-23)
 
 
