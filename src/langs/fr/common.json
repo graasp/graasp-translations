@@ -8,5 +8,10 @@
   "CLOSE_BUTTON": "Fermer",
   "AVATAR_DEFAULT_ALT": "avatar",
   "MEMBER_DEFAULT_NAME": "Inconnu",
-  "UNKNOWN_DATE": "Inconnu"
+  "UNKNOWN_DATE": "Inconnu",
+  "USER_OWN_ITEMS": "Mon Graasp",
+  "USER_SHARED_WITH_ITEMS": "Partagés avec moi",
+  "USER_NOT_SIGNED_IN": "Vous n'êtes pas connecté.",
+  "USER_CAN_NOT_ACCESS_ITEM": "Vous ne pouvez pas accéder à cet élément.",
+  "CHAT_TOOLTIP": "Chat"
 }
