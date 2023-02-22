@@ -92,5 +92,8 @@
   "CANNOT_MOVE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être déplacé",
   "CANNOT_DELETE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être supprimé",
   "CANNOT_GET_RECYCLED_ITEM": "Un élément supprimé ne peut pas être lu",
-  "INVALID_ITEM_STATUS": "L'élément ne satisfait pas les contraintes"
+  "INVALID_ITEM_STATUS": "L'élément ne satisfait pas les contraintes",
+
+  "COPY_LINK_TO_CLIPBOARD_ERROR": "Impossible de copier le lien dans le press-papier",
+  "COPY_LINK_TO_CLIPBOARD": "Lien copié dans le press-papier"
 }
