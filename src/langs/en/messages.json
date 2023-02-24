@@ -94,6 +94,6 @@
   "CANNOT_GET_RECYCLED_ITEM": "A trashed item cannot be read",
   "INVALID_ITEM_STATUS": "The item does not satisfy the requirements",
 
-  "COPY_LINK_TO_CLIPBOARD_ERROR": "There was an error copying the link to the clipboard",
+  "COPY_LINK_TO_CLIPBOARD_ERROR": "Unable to copy the link to the clipboard",
   "COPY_LINK_TO_CLIPBOARD": "Link copied to clipboard"
 }
