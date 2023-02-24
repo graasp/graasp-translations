@@ -22,6 +22,10 @@ import builderEN from './en/builder.json';
 import builderFR from './fr/builder.json';
 import builderDE from './de/builder.json';
 import builderIT from './it/builder.json';
+import playerEN from './en/player.json';
+import playerFR from './fr/player.json';
+import playerDE from './de/player.json';
+import playerIT from './it/player.json';
 import commonEN from './en/common.json';
 import commonFR from './fr/common.json';
 import commonDE from './de/common.json';
@@ -57,6 +61,7 @@ export const namespaces = {
   auth: 'auth',
   association: 'association',
   builder: 'builder',
+  player: 'player',
   categories: 'categories',
   chatbox: 'chatbox',
   common: 'common',
@@ -71,6 +76,7 @@ const en = {
   [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
   [namespaces.builder]: builderEN,
+  [namespaces.player]: playerEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.common]: commonEN,
@@ -89,6 +95,7 @@ const fr = {
   [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
   [namespaces.builder]: builderFR,
+  [namespaces.player]: playerFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.common]: commonFR,
@@ -107,6 +114,7 @@ const de = {
   [namespaces.association]: associationDE,
   [namespaces.auth]: authDE,
   [namespaces.builder]: builderDE,
+  [namespaces.player]: playerDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
@@ -125,6 +133,7 @@ const it = {
   [namespaces.association]: associationIT,
   [namespaces.auth]: authIT,
   [namespaces.builder]: builderIT,
+  [namespaces.player]: playerIT,
   [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
   [namespaces.common]: commonIT,

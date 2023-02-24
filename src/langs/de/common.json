@@ -8,5 +8,8 @@
   "CLOSE_BUTTON": "Schliessen",
   "AVATAR_DEFAULT_ALT": "Benutzerbild",
   "MEMBER_DEFAULT_NAME": "Unbekannt",
-  "UNKNOWN_DATE": "Unbekannt"
+  "UNKNOWN_DATE": "Unbekannt",
+  "USER_OWN_ITEMS": "Mein Graasp",
+  "USER_SHARED_WITH_ITEMS": "Mit mir geteilt",
+  "CHAT_TOOLTIP": "Chat"
 }
