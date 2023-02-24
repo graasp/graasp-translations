@@ -12,6 +12,6 @@
   "USER_OWN_ITEMS": "My Graasp",
   "USER_SHARED_WITH_ITEMS": "Shared with me",
   "USER_NOT_SIGNED_IN": "You are not signed in.",
-  "USER_CAN_NOT_ACCESS_ITEM": "You can not access this item.",
+  "USER_CAN_NOT_ACCESS_ITEM": "You cannot access this item.",
   "CHAT_TOOLTIP": "Chat"
 }
