@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/graasp/graasp-translations/compare/v1.4.0...v1.5.0) (2023-02-24)
+
+
+### Features
+
+* add clipboard messages ([#110](https://github.com/graasp/graasp-translations/issues/110)) ([b0f9140](https://github.com/graasp/graasp-translations/commit/b0f91402a0380d3fa30f21a78eaa82c81ed65961))
+
 ## [1.4.0](https://github.com/graasp/graasp-translations/compare/v1.3.0...v1.4.0) (2023-02-14)
 
 
