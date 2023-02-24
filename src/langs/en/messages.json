@@ -92,5 +92,8 @@
   "CANNOT_MOVE_RECYCLED_ITEM": "A trashed item cannot be moved",
   "CANNOT_DELETE_RECYCLED_ITEM": "A trashed item cannot be deleted",
   "CANNOT_GET_RECYCLED_ITEM": "A trashed item cannot be read",
-  "INVALID_ITEM_STATUS": "The item does not satisfy the requirements"
+  "INVALID_ITEM_STATUS": "The item does not satisfy the requirements",
+
+  "COPY_LINK_TO_CLIPBOARD_ERROR": "Unable to copy the link to the clipboard",
+  "COPY_LINK_TO_CLIPBOARD": "Link copied to clipboard"
 }
