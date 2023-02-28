@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/graasp/graasp-translations/compare/v1.5.0...v1.6.0) (2023-02-24)
+
+
+### Features
+
+* add player translations ([#112](https://github.com/graasp/graasp-translations/issues/112)) ([5a369e9](https://github.com/graasp/graasp-translations/commit/5a369e9909eea7abf689efc02d09c58d99213230)), closes [#101](https://github.com/graasp/graasp-translations/issues/101)
+
 ## [1.5.0](https://github.com/graasp/graasp-translations/compare/v1.4.0...v1.5.0) (2023-02-24)
 
 
