@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/graasp/graasp-translations/compare/v1.6.0...v1.7.0) (2023-03-03)
+
+
+### Features
+
+* add document styles translations ([#117](https://github.com/graasp/graasp-translations/issues/117)) ([5541b71](https://github.com/graasp/graasp-translations/commit/5541b71f682e7f4918e78e1c104880ebb9974e96))
+
 ## [1.6.0](https://github.com/graasp/graasp-translations/compare/v1.5.0...v1.6.0) (2023-02-24)
 
 
