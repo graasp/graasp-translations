@@ -5,6 +5,7 @@
   "PROFILE_CREATED_AT_TITLE": "Member Since",
   "PROFILE_EMAIL_TITLE": "Email",
   "PROFILE_EMAIL_FREQUENCY_TITLE": "Email Frequency",
+  "PROFILE_SAVE_ACTIONS_TITLE": "Enable Analytics",
   "PROFILE_DELETE_ACCOUNT_MODAL_TITLE": "Confirm deletion",
   "PROFILE_DELETE_ACCOUNT_MODAL_INFORMATION": "Your account will be deleted permanently.",
   "PROFILE_DELETE_ACCOUNT_MODAL_CONFIRM_BUTTON": "Delete Permanently",
