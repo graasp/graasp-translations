@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/graasp/graasp-translations/compare/v1.7.0...v1.8.0) (2023-03-08)
+
+
+### Features
+
+* add save actions translation ([f112ec0](https://github.com/graasp/graasp-translations/commit/f112ec053a811a6f310fb0321ed330ee733b9f21))
+
 ## [1.7.0](https://github.com/graasp/graasp-translations/compare/v1.6.0...v1.7.0) (2023-03-03)
 
 
