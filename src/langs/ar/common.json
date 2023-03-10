@@ -1,0 +1,17 @@
+{
+  "COOKIE_BANNER_TEXT": "نحن نستخدم سِجِلّ التَتَبُّعِ كوكيز وتقنيات تتبع أخرى لتحسين تجربة التصفح الخاصة بك على موقعنا ، تحليل حركة المرور على موقعنا ، وفهم من أين يأتي زوار موقعنا. من خلال تصفح موقعنا ، فإنك توافق على استخدامنا لسِجِلّ التَتَبُّعِ كوكيز وتقنيات التتبع الأخرى.",
+  "COOKIE_BANNER_ACCEPT_BUTTON": "قبول الكل",
+  "COOKIE_BANNER_DECLINE_BUTTON": "رفض الغير ضروري",
+  "SAVE_BUTTON": "حِفْظ",
+  "SAVED_BUTTON": "تمّ الحِفْظ",
+  "CANCEL_BUTTON": "إلغاء",
+  "CLOSE_BUTTON": "إغلاق",
+  "AVATAR_DEFAULT_ALT": "الصورة الرمزية",
+  "MEMBER_DEFAULT_NAME": "غير معروف",
+  "UNKNOWN_DATE": "غير معروف",
+  "USER_OWN_ITEMS": "چراسپ الخاصّ بي",
+  "USER_SHARED_WITH_ITEMS": "تمّ مشاركتي",
+  "USER_NOT_SIGNED_IN": "أنت غير مسجل الدخول.",
+  "USER_CAN_NOT_ACCESS_ITEM": "لا يمكنك الوصول إلى هذا العنصر.",
+  "CHAT_TOOLTIP": "دردشة"
+}
