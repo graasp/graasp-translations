@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/graasp/graasp-translations/compare/v1.8.0...v1.9.0) (2023-03-17)
+
+
+### Features
+
+* add sign up enable save actions translation ([#129](https://github.com/graasp/graasp-translations/issues/129)) ([c18a9a6](https://github.com/graasp/graasp-translations/commit/c18a9a672aa86074ad6bfac806ef7867f1989ed9))
+
 ## [1.8.0](https://github.com/graasp/graasp-translations/compare/v1.7.0...v1.8.0) (2023-03-08)
 
 
