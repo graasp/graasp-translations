@@ -1,0 +1,64 @@
+{
+  "closeModal": "إغلاق المشروط",
+  "addMoreFiles": "إضافة المزيد من الملفات",
+  "addingMoreFiles": "إضافة المزيد من الملفات",
+  "importFrom": "استيراد من ٪ {name}",
+  "dashboardWindowTitle": "نافذة لوحة التحكّم Uppy (اضغط على مفتاح Escape للإغلاق)",
+  "dashboardTitle": "لوحة التحكّم Uppy",
+  "copyLinkToClipboardSuccess": "تم نسخ الرابط إلى الحافظة.",
+  "copyLinkToClipboardFallback": "انسخ عنوان ال URL أدناه",
+  "copyLink": "نسخ الرابط",
+  "back": "إلى الخلف",
+  "removeFile": "إزالة الملف",
+  "editFile": "تعديل ملف",
+  "editing": "تعديل %{file}",
+  "finishEditingFile": "قم بإنهاء تعديل الملف",
+  "saveChanges": "احفظ التغييرات",
+  "myDevice": "الجهاز الخاصّ بي",
+  "dropHint": "قم بإسقاط ملفاتك هنا",
+  "uploadComplete": "اكتمل التحميل",
+  "uploadPaused": "توقف التحميل مؤقتًا",
+  "resumeUpload": "أكمل التحميل",
+  "pauseUpload": "إيقاف التحميل مؤقتًا",
+  "retryUpload": "إعادة محاولة التحميل",
+  "cancelUpload": "إلغاء التحميل",
+  "xFilesSelected": {
+    "0": "تم إختيار ٪ {smart_count} ملف",
+    "1": "تم إختيار ٪ {smart_count} ملفّات"
+  },
+  "uploadingXFiles": {
+    "0": "تحميل ٪ {smart_count} ملف",
+    "1": "تحميل ٪ {smart_count} من الملفات"
+  },
+  "processingXFiles": {
+    "0": "معالجة ملف ٪ {smart_count}",
+    "1": "معالجة ٪ {smart_count} من الملفات"
+  },
+  "poweredBy": "بدعم من ٪ {uppy}",
+  "addMore": "أضِف",
+  "editFileWithFilename": "تحرير الملف ٪ {file}",
+  "save": "حِفْظ",
+  "cancel": "إلغاء",
+  "dropPasteFiles": "أفلت الملفات هنا أو ٪ {browseFiles}",
+  "dropPasteFolders": "أفلت الملفات هنا أو ٪ {browseFolders}",
+  "dropPasteBoth": "أفلت الملفات هنا ، ٪ {browseFiles} أو ٪ {browseFolders}",
+  "dropPasteImportFiles": "أفلت الملفات هنا ، ٪ {browseFiles} أو قم بالاستيراد من:",
+  "dropPasteImportFolders": "أفلت الملفات هنا ، ٪ {browseFolders} أو قم بالاستيراد من:",
+  "dropPasteImportBoth": "أفلت الملفات هنا ، ٪ {browseFiles} ،٪ {browseFolders} أو الاستيراد من:",
+  "importFiles": "استيراد الملفات من:",
+  "browseFiles": "تصفح ملفات",
+  "browseFolders": "تصفح المجلدات",
+  "recoveredXFiles": {
+    "0": "لم نتمكن من استعادة ملف واحد بالكامل. يرجى إعادة تحديده واكمال التحميل.",
+    "1": "لم نتمكن من استعادة ٪ {smart_count} من الملفات بالكامل. يرجى إعادة تحديدها واكمال التحميل."
+  },
+  "recoveredAllFiles": "استعدنا جميع الملفات. يمكنك الآن اكمال التحميل.",
+  "sessionRestored": "تمت استعادة الجلسة",
+  "reSelect": "أعد الإختيار\n",
+  "missingRequiredMetaFields": {
+    "0": "حقل التعريف المطلوب مفقود: ٪ {fields}.",
+    "1": "حقول التعريف المطلوبة مفقودة: ٪ {fields}."
+  },
+  "takePictureBtn": "التقط صورة",
+  "recordVideoBtn": "تسجيل الفيديو"
+}
