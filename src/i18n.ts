@@ -1,5 +1,5 @@
 import i18n from 'i18next';
-import { en, fr, de, it, namespaces } from './langs';
+import { en, fr, de, it, ar, namespaces } from './langs';
 
 export const DEFAULT_LANG = 'en';
 
@@ -10,6 +10,7 @@ const buildI18n = (defaultNamespace = namespaces.messages) => {
       fr,
       de,
       it,
+      ar,
     },
     lng: DEFAULT_LANG,
     fallbackLng: DEFAULT_LANG,
@@ -59,6 +60,7 @@ const langs = {
   // vi: "Tiếng Việt",
   // zh: "简体中文",
   // zh_tw: "繁體中文",
+  ar: 'العربية',
 };
 
 export { langs };
