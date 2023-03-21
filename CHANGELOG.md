@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/graasp/graasp-translations/compare/v1.9.0...v1.10.0) (2023-03-21)
+
+
+### Features
+
+* release arabic language ([8e12223](https://github.com/graasp/graasp-translations/commit/8e12223239c5edaeff80be82bb6e432e98864ba3))
+
 ## [1.9.0](https://github.com/graasp/graasp-translations/compare/v1.8.0...v1.9.0) (2023-03-17)
 
 
