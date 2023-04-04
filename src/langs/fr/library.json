@@ -29,5 +29,20 @@
   "SEARCH_RANGES_TITLE": "Titre",
   "SEARCH_RANGES_TAGS": "Tag",
   "SHARED_ITEMS_LABEL": "Éléments Partagés",
-  "OWN_ITEMS_LABEL": "Mes Éléments"
+  "OWN_ITEMS_LABEL": "Mes Éléments",
+  "SUMMARY_DETAILS_TITLE": "Détails",
+  "SUMMARY_DETAILS_CREATED_AT_TITLE": "Créé le",
+  "SUMMARY_DETAILS_UPDATED_AT_TITLE": "Mis à jour le",
+  "SUMMARY_DETAILS_NO_LANGUAGES": "Cet élément n'a pas de language défini.",
+  "SUMMARY_DETAILS_NO_CATEGORIES": "Cet élément n'a pas de catégorie.",
+  "SUMMARY_DETAILS_LICENSE_TITLE": "Licence",
+  "SUMMARY_BROWSE_FILE_UPDATED": "Mis à jour {{date}}",
+  "SUMMARY_BROWSE_FOLDER_CONTAINS_zero": "Dossier vide",
+  "SUMMARY_BROWSE_FOLDER_CONTAINS_one": "{{count}} fichier",
+  "SUMMARY_BROWSE_FOLDER_CONTAINS_other": "{{count}} fichiers",
+  "SUMMARY_DESCRIPTION_SHOW_MORE": "Montrer Plus",
+  "SUMMARY_DESCRIPTION_SHOW_LESS": "Montrer Moins",
+  "SUMMARY_ITEMS_SHOW_LESS_one": "- Cacher {{count}} élément",
+  "SUMMARY_ITEMS_SHOW_LESS_other": "- Cacher {{count}} éléments",
+  "SUMMARY_ITEMS_SHOW_MORE": "+ Montrer {{count}} éléments"
 }
