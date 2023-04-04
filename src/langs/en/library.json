@@ -84,5 +84,10 @@
   "SUMMARY_BROWSE_FILE_UPDATED": "Updated {{date}}",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_zero": "Empty Folder",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_one": "{{count}} File",
-  "SUMMARY_BROWSE_FOLDER_CONTAINS_many": "{{count}} Files"
+  "SUMMARY_BROWSE_FOLDER_CONTAINS_other": "{{count}} Files",
+  "SUMMARY_DESCRIPTION_SHOW_MORE": "Show More",
+  "SUMMARY_DESCRIPTION_SHOW_LESS": "Show Less",
+  "SUMMARY_ITEMS_SHOW_LESS_one": "- Hide {{count}} item",
+  "SUMMARY_ITEMS_SHOW_LESS_other": "- Hide {{count}} items",
+  "SUMMARY_ITEMS_SHOW_MORE": "+ View {{count}} more"
 }
