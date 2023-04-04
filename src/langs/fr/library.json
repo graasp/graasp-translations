@@ -30,6 +30,7 @@
   "SEARCH_RANGES_TAGS": "Tag",
   "SHARED_ITEMS_LABEL": "Éléments Partagés",
   "OWN_ITEMS_LABEL": "Mes Éléments",
+  "COLLECTION_EMPTY_DESCRIPTION_TEXT": "Cet élément n'a pas de description.",
   "SUMMARY_DETAILS_TITLE": "Détails",
   "SUMMARY_DETAILS_CREATED_AT_TITLE": "Créé",
   "SUMMARY_DETAILS_UPDATED_AT_TITLE": "Mis à jour",
