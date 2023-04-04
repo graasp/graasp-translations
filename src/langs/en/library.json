@@ -89,5 +89,9 @@
   "SUMMARY_DESCRIPTION_SHOW_LESS": "Show Less",
   "SUMMARY_ITEMS_SHOW_LESS_one": "- Hide {{count}} item",
   "SUMMARY_ITEMS_SHOW_LESS_other": "- Hide {{count}} items",
-  "SUMMARY_ITEMS_SHOW_MORE": "+ View {{count}} more"
+  "SUMMARY_ITEMS_SHOW_MORE": "+ View {{count}} more",
+  "SUMMARY_ACTIONS_PREVIEW_CONTENT": "Preview Content",
+  "SUMMARY_ACTIONS_DOWNLOAD": "Download",
+  "SUMMARY_ACTIONS_COPY": "Copy",
+  "SUMMARY_ACTIONS_EMBED": "Embed"
 }

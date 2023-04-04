@@ -31,8 +31,8 @@
   "SHARED_ITEMS_LABEL": "Éléments Partagés",
   "OWN_ITEMS_LABEL": "Mes Éléments",
   "SUMMARY_DETAILS_TITLE": "Détails",
-  "SUMMARY_DETAILS_CREATED_AT_TITLE": "Créé le",
-  "SUMMARY_DETAILS_UPDATED_AT_TITLE": "Mis à jour le",
+  "SUMMARY_DETAILS_CREATED_AT_TITLE": "Créé",
+  "SUMMARY_DETAILS_UPDATED_AT_TITLE": "Mis à jour",
   "SUMMARY_DETAILS_NO_LANGUAGES": "Cet élément n'a pas de language défini.",
   "SUMMARY_DETAILS_NO_CATEGORIES": "Cet élément n'a pas de catégorie.",
   "SUMMARY_DETAILS_LICENSE_TITLE": "Licence",
@@ -44,5 +44,9 @@
   "SUMMARY_DESCRIPTION_SHOW_LESS": "Montrer Moins",
   "SUMMARY_ITEMS_SHOW_LESS_one": "- Cacher {{count}} élément",
   "SUMMARY_ITEMS_SHOW_LESS_other": "- Cacher {{count}} éléments",
-  "SUMMARY_ITEMS_SHOW_MORE": "+ Montrer {{count}} éléments"
+  "SUMMARY_ITEMS_SHOW_MORE": "+ Montrer {{count}} éléments",
+  "SUMMARY_ACTIONS_PREVIEW_CONTENT": "Aperçu du contenu",
+  "SUMMARY_ACTIONS_DOWNLOAD": "Télécharger",
+  "SUMMARY_ACTIONS_COPY": "Copier",
+  "SUMMARY_ACTIONS_EMBED": "Intégrer"
 }
