@@ -23,5 +23,7 @@
   "COL_STATUS": "Status",
   "COL_MESSAGE": "Nachricht",
   "COL_BY": "von",
-  "COL_ACTIONS": "Aktionen"
+  "COL_ACTIONS": "Aktionen",
+  "NOTIFICATIONS_DIALOG_TITLE": "Benachrichtigungen",
+  "EMPTY_NOTIFICATIONS": "Keine Benachrichtigungen"
 }
