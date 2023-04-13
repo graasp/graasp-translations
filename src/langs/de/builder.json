@@ -120,6 +120,7 @@
   "ITEMS_TABLE_CREATOR_HEADER": "Urheber",
   "ITEMS_TABLE_DRAG_DEFAULT_MESSAGE": "Bewegen Sie ein Element",
   "ITEMS_TABLE_EMPTY_MESSAGE": "Keine Elemente",
+  "ITEMS_TABLE_STATUS_HEADER": "Status",
   "ITEMS_TABLE_NAME_HEADER": "Name",
   "ITEMS_TABLE_SELECTION_TEXT_one": "{{count}} ausgewählt",
   "ITEMS_TABLE_SELECTION_TEXT_other": "{{count}} ausgewählt",
