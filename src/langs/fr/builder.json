@@ -123,6 +123,7 @@
   "ITEMS_TABLE_CREATOR_HEADER": "Créateur",
   "ITEMS_TABLE_DRAG_DEFAULT_MESSAGE": "Déplacer un élément",
   "ITEMS_TABLE_EMPTY_MESSAGE": "Aucun élément",
+  "ITEMS_TABLE_STATUS_HEADER": "Statut",
   "ITEMS_TABLE_NAME_HEADER": "Nom",
   "ITEMS_TABLE_SELECTION_TEXT_one": "{{count}} sélectionné",
   "ITEMS_TABLE_SELECTION_TEXT_other": "{{count}} sélectionnés",
@@ -229,5 +230,11 @@
   "USER_SWITCH_PROFILE_BUTTON": "Voir le Profil",
   "USER_SWITCH_SIGN_OUT_BUTTON": "Déconnexion",
   "USER_SWITCH_SIGNED_OUT_TOOLTIP": "Vous n'êtes pas connecté.",
-  "USER_SWITCH_SWITCH_USER_TEXT": "Se connecter avec un autre compte"
+  "USER_SWITCH_SWITCH_USER_TEXT": "Se connecter avec un autre compte",
+  "STATUS_TOOLTIP_IS_PINNED": "Épinglé",
+  "STATUS_TOOLTIP_IS_HIDDEN": "Caché",
+  "STATUS_TOOLTIP_IS_PUBLIC": "Public",
+  "STATUS_TOOLTIP_IS_PUBLISHED": "Publié",
+  "STATUS_TOOLTIP_IS_COLLAPSIBLE": "Minifié",
+  "STATUS_TOOLTIP_SHOW_CHATBOX": "Chatbox visible"
 }
