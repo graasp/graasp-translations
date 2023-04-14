@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.11.0](https://github.com/graasp/graasp-translations/compare/v1.10.0...v1.11.0) (2023-04-13)
+
+
+### Features
+
+* add builder status translations ([#148](https://github.com/graasp/graasp-translations/issues/148)) ([a4b0e34](https://github.com/graasp/graasp-translations/commit/a4b0e342320435516be426ff0a785c91dd8dce11))
+
+
+### Bug Fixes
+
+* add missing notifications translations ([#146](https://github.com/graasp/graasp-translations/issues/146)) ([88f1f29](https://github.com/graasp/graasp-translations/commit/88f1f299ba4594a94a6ec6d2b88e81179a96a5ba))
+
 ## [1.10.0](https://github.com/graasp/graasp-translations/compare/v1.9.0...v1.10.0) (2023-03-21)
 
 
