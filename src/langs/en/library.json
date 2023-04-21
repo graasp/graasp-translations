@@ -82,6 +82,7 @@
   "SUMMARY_DETAILS_NO_LANGUAGES": "This item has no defined language.",
   "SUMMARY_DETAILS_NO_CATEGORIES": "This item has no categories.",
   "SUMMARY_DETAILS_LICENSE_TITLE": "License",
+  "SUMMARY_DETAILS_EMPTY_LICENCE_TEXT": "This item doesn't have a defined licence.",
   "SUMMARY_BROWSE_FILE_UPDATED": "Updated {{date}}",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_zero": "Empty Folder",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_one": "{{count}} File",
