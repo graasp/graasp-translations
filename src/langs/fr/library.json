@@ -39,7 +39,7 @@
   "SUMMARY_DETAILS_NO_LANGUAGES": "Cet élément n'a pas de language défini.",
   "SUMMARY_DETAILS_NO_CATEGORIES": "Cet élément n'a pas de catégorie.",
   "SUMMARY_DETAILS_LICENSE_TITLE": "Licence",
-  "SUMMARY_DETAILS_EMPTY_LICENCE_TEXT": "Cet élément n'a pas de license définie.",
+  "SUMMARY_DETAILS_EMPTY_LICENSE_TEXT": "Cet élément n'a pas de licence définie.",
   "SUMMARY_BROWSE_FILE_UPDATED": "Mis à jour {{date}}",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_zero": "Dossier vide",
   "SUMMARY_BROWSE_FOLDER_CONTAINS_one": "{{count}} fichier",
