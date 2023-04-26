@@ -7,6 +7,7 @@
   "SHARE_FACEBOOK_MESSAGE": "Check out {{name}} on Graasp",
   "AUTHORSHIP_AUTHOR_TITLE": "Author",
   "COLLECTION_ITEMS_EMPTY_MESSAGE": "This collection is empty.",
+  "COLLECTION_ITEMS_EMPTY_FOLDER_MESSAGE": "This folder is empty.",
   "COLLECTION_ITEMS_TITLE": "Items",
   "COLLECTION_ITEMS_TOOLTIP_MESSAGE": "These are the items in this collection.",
   "SIGN_IN_MODAL_SIGN_IN_BUTTON": "Sign In",

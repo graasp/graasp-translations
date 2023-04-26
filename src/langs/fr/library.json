@@ -5,6 +5,7 @@
   "GUEST": "Invité",
   "SEARCH_RANGES_AUTHOR": "Auteur",
   "COLLECTION_ITEMS_EMPTY_MESSAGE": "Cette collection est vide.",
+  "COLLECTION_ITEMS_EMPTY_FOLDER_MESSAGE": "Ce dossier est vide.",
   "COLLECTION_ITEMS_TOOLTIP_MESSAGE": "Ce sont les éléments de cette collection.",
   "SIGN_IN_MODAL_SIGN_UP_BUTTON": "Créer un compte",
   "COPY_BUTTON_MODAL_TITLE": "Copier un Élément",
