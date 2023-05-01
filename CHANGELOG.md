@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/graasp/graasp-translations/compare/v1.11.0...v1.12.0) (2023-05-01)
+
+
+### Features
+
+* add cc translation ([#141](https://github.com/graasp/graasp-translations/issues/141)) ([f38966c](https://github.com/graasp/graasp-translations/commit/f38966c6d1ec3792c603558d745f7486153cb9c3))
+
 ## [1.11.0](https://github.com/graasp/graasp-translations/compare/v1.10.0...v1.11.0) (2023-04-13)
 
 
