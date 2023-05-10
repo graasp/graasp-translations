@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.13.0](https://github.com/graasp/graasp-translations/compare/v1.12.0...v1.13.0) (2023-05-10)
+
+
+### Features
+
+* add email translations ([#90](https://github.com/graasp/graasp-translations/issues/90)) ([204d3ac](https://github.com/graasp/graasp-translations/commit/204d3ac11306d894472a5771e702beca78ad6fcb))
+
 ## [1.12.0](https://github.com/graasp/graasp-translations/compare/v1.11.0...v1.12.0) (2023-05-01)
 
 
