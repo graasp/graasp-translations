@@ -3,7 +3,7 @@ import { en, fr, de, it, ar, namespaces } from './langs';
 
 export const DEFAULT_LANG = 'en';
 
-const buildI18n = (defaultNamespace = namespaces.messages) => {
+const buildI18n = (defaultNamespace = namespaces.messages, debug?: boolean) => {
   i18n.init({
     resources: {
       en,
@@ -15,7 +15,7 @@ const buildI18n = (defaultNamespace = namespaces.messages) => {
     lng: DEFAULT_LANG,
     fallbackLng: DEFAULT_LANG,
     // debug only when not in production
-    debug: process.env.NODE_ENV !== 'production',
+    debug: debug ?? process.env.NODE_ENV !== 'production',
     // define accessible namespaces
     ns: Object.values(namespaces),
     // define default namespace

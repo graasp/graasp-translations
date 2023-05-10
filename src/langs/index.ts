@@ -68,6 +68,11 @@ import associationFR from './fr/association.json';
 import associationDE from './de/association.json';
 import associationIT from './it/association.json';
 import associationAR from './ar/association.json';
+import mailEN from './en/mail.json';
+import mailFR from './fr/mail.json';
+import mailDE from './de/mail.json';
+import mailIT from './it/mail.json';
+import mailAR from './ar/mail.json';
 
 // define namespaces
 export const namespaces = {
@@ -81,6 +86,7 @@ export const namespaces = {
   common: 'common',
   enums: 'enums',
   library: 'library',
+  mail: 'mail',
   messages: 'messages',
   uppy: 'uppy',
 };
@@ -100,6 +106,7 @@ const en = {
     ...contextEN,
   },
   [namespaces.library]: libraryEN,
+  [namespaces.mail]: mailEN,
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
 };
@@ -119,6 +126,7 @@ const fr = {
     ...contextFR,
   },
   [namespaces.library]: libraryFR,
+  [namespaces.mail]: mailFR,
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
 };
@@ -138,6 +146,7 @@ const de = {
     ...contextDE,
   },
   [namespaces.library]: libraryDE,
+  [namespaces.mail]: mailDE,
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
 };
@@ -157,6 +166,7 @@ const it = {
     ...contextIT,
   },
   [namespaces.library]: libraryIT,
+  [namespaces.mail]: mailIT,
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
 };
@@ -176,6 +186,7 @@ const ar = {
     ...contextAR,
   },
   [namespaces.library]: libraryAR,
+  [namespaces.mail]: mailAR,
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
 };
