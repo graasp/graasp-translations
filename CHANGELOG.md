@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/graasp/graasp-translations/compare/v1.13.0...v1.14.0) (2023-05-31)
+
+
+### Features
+
+* add translations for hidden wrapper tooltip in player ([#157](https://github.com/graasp/graasp-translations/issues/157)) ([8e3b86e](https://github.com/graasp/graasp-translations/commit/8e3b86eeaaef23eeda83275d2782299040824320))
+
 ## [1.13.0](https://github.com/graasp/graasp-translations/compare/v1.12.0...v1.13.0) (2023-05-10)
 
 
