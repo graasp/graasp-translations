@@ -1,7 +1,7 @@
 {
   "COPY_LINK_BUTTON_TOOLTIP": "Copier le lien",
   "GRAASP_LIBRARY": "Graasp Library",
-  "GRAASP_LIBRARY_DESCRIPTION": "Graasp Library est une platforme de partage de resources éducatives libres.",
+"GRAASP_LIBRARY_DESCRIPTION": "Graasp Library est une plateforme de partage de ressources éducatives libres.",
   "HOME_TITLE": "Découvrez des ressources libres pour l'éducation",
   "GUEST": "Invité",
   "SEARCH_RANGES_AUTHOR": "Auteur",
@@ -23,7 +23,7 @@
   "HEADER_ALL_COLLECTIONS": "Toutes les Collections",
   "HEADER_MY_LISTS": "Mes Listes",
   "HOME_GRAASPER_COLLECTIONS_TITLE": "Selection Graasp",
-  "HOME_POPULAR_THIS_WEEK_COLLECTIONS_TITLE": "Populaire cette semaine",
+"HOME_POPULAR_THIS_WEEK_COLLECTIONS_TITLE": "Populaires cette semaine",
   "HOME_MOST_LIKED_COLLECTIONS_TITLE": "Les plus aimées",
   "ALL_COLLECTIONS_OPEN_MENU": "Ouvrir le Menu",
   "EMPTY_COLLECTION_MESSAGE": "Aucune collection disponible.",
