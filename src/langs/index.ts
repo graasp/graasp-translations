@@ -73,6 +73,11 @@ import mailFR from './fr/mail.json';
 import mailDE from './de/mail.json';
 import mailIT from './it/mail.json';
 import mailAR from './ar/mail.json';
+import flagEN from './en/flag.json';
+import flagFR from './fr/flag.json';
+import flagDE from './de/flag.json';
+import flagIT from './it/flag.json';
+import flagAR from './ar/flag.json';
 
 // define namespaces
 export const namespaces = {
@@ -104,6 +109,7 @@ const en = {
     ...permissionLevelEN,
     ...itemTypeEN,
     ...contextEN,
+    ...flagEN,
   },
   [namespaces.library]: libraryEN,
   [namespaces.mail]: mailEN,
@@ -124,6 +130,7 @@ const fr = {
     ...permissionLevelFR,
     ...itemTypeFR,
     ...contextFR,
+    ...flagFR,
   },
   [namespaces.library]: libraryFR,
   [namespaces.mail]: mailFR,
@@ -144,6 +151,7 @@ const de = {
     ...permissionLevelDE,
     ...itemTypeDE,
     ...contextDE,
+    ...flagDE,
   },
   [namespaces.library]: libraryDE,
   [namespaces.mail]: mailDE,
@@ -164,6 +172,7 @@ const it = {
     ...permissionLevelIT,
     ...itemTypeIT,
     ...contextIT,
+    ...flagIT,
   },
   [namespaces.library]: libraryIT,
   [namespaces.mail]: mailIT,
@@ -184,6 +193,7 @@ const ar = {
     ...permissionLevelAR,
     ...itemTypeAR,
     ...contextAR,
+    ...flagAR,
   },
   [namespaces.library]: libraryAR,
   [namespaces.mail]: mailAR,
