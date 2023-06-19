@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.15.0](https://github.com/graasp/graasp-translations/compare/v1.14.0...v1.15.0) (2023-06-18)
+
+
+### Features
+
+* add edit alt text label ([#154](https://github.com/graasp/graasp-translations/issues/154)) ([cc5f785](https://github.com/graasp/graasp-translations/commit/cc5f7855673b2d97e6d33976693e4362579c6b2a))
+* add library homepage translations ([#160](https://github.com/graasp/graasp-translations/issues/160)) ([ae63987](https://github.com/graasp/graasp-translations/commit/ae639873b8b5f37adb46047bb53c14fcb919e312))
+* translate flag types ([#163](https://github.com/graasp/graasp-translations/issues/163)) ([7188bc4](https://github.com/graasp/graasp-translations/commit/7188bc45629974892256980828a15b3f47c9166f))
+
 ## [1.14.0](https://github.com/graasp/graasp-translations/compare/v1.13.0...v1.14.0) (2023-05-31)
 
 
