@@ -45,6 +45,7 @@
   "EDIT_ITEM_BUTTON": "Modifier",
   "EDIT_ITEM_ERROR_MESSAGE": "L'élément n'est pas valide",
   "EDIT_ITEM_MODAL_TITLE": "Modifier l'élément",
+"EDIT_ITEM_IMAGE_ALT_TEXT_LABEL": "Texte alternatif (pour améliorer l'accessibilité)",
   "EMPTY_ITEM_MESSAGE": "Cet élément est vide.",
   "ERROR_MESSAGE": "Une erreur est survenue.",
   "FAVORITE_ITEM_ADD_TEXT": "Ajouter aux favoris",
