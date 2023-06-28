@@ -144,6 +144,7 @@
   "LIBRARY_SETTINGS_PUBLISH_BUTTON": "Publish",
   "LIBRARY_SETTINGS_PUBLISH_NOTIFICATIONS_LABEL": "Send email notifications to all co-editors",
   "LIBRARY_SETTINGS_PUBLISHED_STATUS": "This element is published. Anyone can access it and is available on Graasp Library, our public repository of learning ressources.",
+  "LIBRARY_SETTINGS_CHILD_PUBLISHED_STATUS": "This element is part or a collection that is already published. Publishing and un-publishing can be done at the collection root.",
   "LIBRARY_SETTINGS_TITLE": "Publication On Graasp Library",
   "LIBRARY_SETTINGS_UNPUBLISH_BUTTON": "Unpublish",
   "LIBRARY_SETTINGS_VALIDATION_CONFIGURATION_INFORMATIONS": "Set the options for your resource to make it easily accessible to the public.",
