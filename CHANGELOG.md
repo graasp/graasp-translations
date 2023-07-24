@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.16.0](https://github.com/graasp/graasp-translations/compare/v1.15.1...v1.16.0) (2023-07-24)
+
+
+### Features
+
+* add library published tab translations ([#181](https://github.com/graasp/graasp-translations/issues/181)) ([a9f8c04](https://github.com/graasp/graasp-translations/commit/a9f8c040476efc32a25c4f94559ef500c7df67d9))
+* **auth/mobile:** app is not installed translations ([#187](https://github.com/graasp/graasp-translations/issues/187)) ([54e4b90](https://github.com/graasp/graasp-translations/commit/54e4b905c21eb8493dc0e1b8462be4bd7a73e50a))
+
 ## [1.15.1](https://github.com/graasp/graasp-translations/compare/v1.15.0...v1.15.1) (2023-07-17)
 
 
