@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.15.1](https://github.com/graasp/graasp-translations/compare/v1.15.0...v1.15.1) (2023-07-17)
+
+
+### Bug Fixes
+
+* add french for alttext translation ([#165](https://github.com/graasp/graasp-translations/issues/165)) ([d601ce4](https://github.com/graasp/graasp-translations/commit/d601ce49a1c92826f99d344eb73ff04410a6477d))
+* add helper text for item child already published ([#173](https://github.com/graasp/graasp-translations/issues/173)) ([804d95f](https://github.com/graasp/graasp-translations/commit/804d95f1aa2a95ef4deb5871e478efc80b327284))
+
 ## [1.15.0](https://github.com/graasp/graasp-translations/compare/v1.14.0...v1.15.0) (2023-06-18)
 
 
