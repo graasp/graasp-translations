@@ -7,6 +7,8 @@
   "COLLECTION_ITEMS_EMPTY_MESSAGE": "Cette collection est vide.",
   "COLLECTION_ITEMS_EMPTY_FOLDER_MESSAGE": "Ce dossier est vide.",
   "COLLECTION_ITEMS_TOOLTIP_MESSAGE": "Ce sont les éléments de cette collection.",
+  "COLLECTION_CARD_TAG_NEW": "Nouveau",
+  "COLLECTION_CARD_TAG_UPDATED": "Mis à jour",
   "SIGN_IN_MODAL_SIGN_UP_BUTTON": "Créer un compte",
   "COPY_BUTTON_MODAL_TITLE": "Copier un Élément",
   "SIGN_IN_MODAL_TITLE": "Connexion Nécessaire",
