@@ -42,6 +42,7 @@
   "SEARCH_RANGES_ALL": "Tous",
   "SEARCH_RANGES_TITLE": "Titre",
   "SEARCH_RANGES_TAGS": "Tag",
+  "SEARCH_RESULTS_FOR_TEXT": "Résultats de recherche pour: {{search}}",
   "SHARED_ITEMS_LABEL": "Éléments Partagés",
   "OWN_ITEMS_LABEL": "Mes Éléments",
   "COLLECTION_EMPTY_DESCRIPTION_TEXT": "Cet élément n'a pas de description.",
@@ -66,5 +67,8 @@
   "SUMMARY_ACTIONS_PREVIEW_CONTENT": "Aperçu",
   "SUMMARY_ACTIONS_DOWNLOAD": "Télécharger",
   "SUMMARY_ACTIONS_COPY": "Copier",
-  "SUMMARY_ACTIONS_EMBED": "Intégrer"
+  "SUMMARY_ACTIONS_EMBED": "Intégrer",
+  "FILTER_DROPDOWN_NO_FILTER": "Pas de filtres...",
+  "FILTER_DROPDOWN_CLEAR_FILTERS": "Réinitialiser",
+  "FILTER_DROPDOWN_NO_CATEGORIES_AVAILABLE": "Pas de catégories disponibles"
 }

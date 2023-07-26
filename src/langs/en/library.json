@@ -41,6 +41,7 @@
   "SEARCH_BUTTON_ARIA_LABEL": "search",
   "SEARCH_ARIA_LABEL": "Search collections",
   "SEARCH_PLACEHOLDER": "Search collections…",
+  "SEARCH_RESULTS_FOR_TEXT": "Search results for: {{search}}",
   "COLLECTION_PLAYER_BUTTON": "View item in player",
   "ERROR_TITLE": "Error",
   "ERROR_RETURN_TO_HOME": "Return to Home",
@@ -105,5 +106,8 @@
   "SUMMARY_ACTIONS_PREVIEW_CONTENT": "Preview",
   "SUMMARY_ACTIONS_DOWNLOAD": "Download",
   "SUMMARY_ACTIONS_COPY": "Copy",
-  "SUMMARY_ACTIONS_EMBED": "Embed"
+  "SUMMARY_ACTIONS_EMBED": "Embed",
+  "FILTER_DROPDOWN_NO_FILTER": "No filter...",
+  "FILTER_DROPDOWN_CLEAR_FILTERS": "Clear",
+  "FILTER_DROPDOWN_NO_CATEGORIES_AVAILABLE": "No categories available"
 }
