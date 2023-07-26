@@ -15,6 +15,7 @@
   "SIGN_IN_MODAL_CONTENT": "Pour continuer, vous devez vous connecter à Graasp.",
   "TREE_MODAL_CANCEL_BUTTON": "Annuler",
   "TREE_MODAL_CONFIRM_BUTTON": "Confirmer",
+  "SEARCH_PLACEHOLDER": "Rechercher dans les collections…",
   "COPY_BUTTON_TOOLTIP": "Copier",
   "DOWNLOAD_BUTTON_TOOLTIP": "Télécharger",
   "COPY_BUTTON_MODAL_DESCRIPTION": "Sélectionnez un dossier dans la liste ci-dessous",
