@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.16.1](https://github.com/graasp/graasp-translations/compare/v1.16.0...v1.16.1) (2023-07-28)
+
+
+### Bug Fixes
+
+* **fr:** update auth translations ([5e67bb4](https://github.com/graasp/graasp-translations/commit/5e67bb4d62d2440e4171c93022db99091fdd009b))
+* **library:** add home and filter translations ([#190](https://github.com/graasp/graasp-translations/issues/190)) ([f62dd28](https://github.com/graasp/graasp-translations/commit/f62dd28fc103d3da8f16c9692852336fd01d65cb))
+
 ## [1.16.0](https://github.com/graasp/graasp-translations/compare/v1.15.1...v1.16.0) (2023-07-24)
 
 
