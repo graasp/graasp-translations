@@ -1,16 +1,64 @@
 {
   "closeModal": "Fermer le dialogue",
+  "addMoreFiles": "Ajouter plus de fichiers",
   "addingMoreFiles": "En cours d'ajout de fichiers",
+  "importFrom": "Importer depuis %{name}",
+  "dashboardWindowTitle": "Fenêtre du tableau de bord Uppy (Appuyez sur Échap pour fermer)",
+  "dashboardTitle": "Tableau de bord Uppy",
+  "copyLinkToClipboardSuccess": "Lien copié dans le presse-papiers.",
+  "copyLinkToClipboardFallback": "Copiez l'URL ci-dessous",
+  "copyLink": "Copier le lien",
   "back": "Retour",
+  "removeFile": "Effacer le fichier",
+  "editFile": "Modifier le fichier",
+  "editing": "Modification de %{fichier}",
+  "finishEditingFile": "Terminer l'édition du fichier",
+  "saveChanges": "Sauvegarder les modifications",
+  "myDevice": "Mon appareil",
+  "dropHint": "Déposez vos fichiers ici",
   "uploadComplete": "Téléchargement terminé",
+  "uploadPaused": "Importation interrompue",
+  "resumeUpload": "Reprendre le téléchargement",
+  "pauseUpload": "Suspendre le téléchargement",
+  "retryUpload": "Réessayez de télécharger",
+  "cancelUpload": "Annuler le téléchargement",
   "xFilesSelected": {
+    "0": "%{smart_count} fichier sélectionné",
+    "1": "%{smart_count} fichiers sélectionnés"
   },
   "uploadingXFiles": {
+    "0": "Téléchargement de %{smart_count} fichier",
+    "1": "Importation de %{smart_count} fichiers"
   },
   "processingXFiles": {
+    "0": "Traitement du fichier %{smart_count}",
+    "1": "Traitement de %{smart_count} fichiers"
   },
+  "poweredBy": "Propulsé par %{uppy}",
+  "addMore": "Ajouter",
+  "editFileWithFilename": "Modifier le fichier %{fichier}",
+  "save": "Sauvegarder",
+  "cancel": "Annuler",
+  "dropPasteFiles": "Déposez les fichiers ici ou %{browseFiles}",
+  "dropPasteFolders": "Déposez les fichiers ici ou %{browseFolders}",
+  "dropPasteBoth": "Déposez les fichiers ici, %{browseFiles} ou %{browseFolders}",
+  "dropPasteImportFiles": "Déposez les fichiers ici, %{browseFiles} ou importez depuis :",
+  "dropPasteImportFolders": "Déposez les fichiers ici, %{browseFolders} ou importez depuis :",
+  "dropPasteImportBoth": "Déposez les fichiers ici, %{browseFiles}, %{browseFolders} ou importez depuis :",
+  "importFiles": "Importer des fichiers depuis :",
+  "browseFiles": "parcourir les fichiers",
+  "browseFolders": "parcourir les dossiers",
   "recoveredXFiles": {
+    "0": "Nous n'avons pas pu récupérer complètement 1 fichier. Veuillez le resélectionner et reprendre le téléchargement.",
+    "1": "Nous n'avons pas pu récupérer entièrement %{smart_count} fichiers. Veuillez les resélectionner et reprendre le téléchargement."
   },
+  "recoveredAllFiles": "Nous avons restauré tous les fichiers. Vous pouvez maintenant reprendre le téléchargement.",
+  "sessionRestored": "Session restaurée",
+  "reSelect": "Sélectionner de nouveau",
   "missingRequiredMetaFields": {
-  }
+    "0": "Champ méta obligatoire manquant : %{fields}.",
+    "1": "Champs méta obligatoires manquants : %{fields}."
+  },
+  "takePictureBtn": "Prendre une photo",
+  "recordVideoBtn": "Enregistrer une vidéo"
 }
