@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/graasp/graasp-translations/compare/v1.16.1...v1.17.0) (2023-07-28)
+
+
+### Features
+
+* **fr:** add category translations for library ([#183](https://github.com/graasp/graasp-translations/issues/183)) ([4f86aea](https://github.com/graasp/graasp-translations/commit/4f86aeab39137c3c2a3eb065be8242d9d621cc2e))
+
 ## [1.16.1](https://github.com/graasp/graasp-translations/compare/v1.16.0...v1.16.1) (2023-07-28)
 
 
