@@ -37,7 +37,7 @@
     "test": "exit 0",
     "lint": "eslint .",
     "type-check": "yarn tsc --noEmit",
-    "check": "yarn prettier:check && yarn lint && yarn check",
+    "check": "yarn prettier:check && yarn lint && yarn type-check",
     "pre-commit": "yarn check",
     "post-commit": "git status",
     "build": "tsc"
