@@ -1,1 +1,16 @@
-{}
+{
+  "closeModal": "Fermer le dialogue",
+  "addingMoreFiles": "En cours d'ajout de fichiers",
+  "back": "Retour",
+  "uploadComplete": "Téléchargement terminé",
+  "xFilesSelected": {
+  },
+  "uploadingXFiles": {
+  },
+  "processingXFiles": {
+  },
+  "recoveredXFiles": {
+  },
+  "missingRequiredMetaFields": {
+  }
+}
