@@ -26,5 +26,9 @@
   "lower secondary school": "École secondaire inférieure",
   "upper secondary school": "École secondaire supérieure",
   "vocational training": "Enseignement professionel",
-  "higher education": "Éducation supérieure"
+  "higher education": "Éducation supérieure",
+
+  "English": "Anglais",
+  "French": "Français",
+  "German": "Allemand"
 }

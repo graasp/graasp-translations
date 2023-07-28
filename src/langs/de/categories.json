@@ -1,5 +1,9 @@
 {
   "DISCIPLINE": "Disziplin",
   "EDUCATION_LEVEL": "Bildungsniveau",
-  "LANGUAGE": "Sprache"
+  "LANGUAGE": "Sprache",
+
+  "English": "Englisch",
+  "French": "Französisch",
+  "German": "Deutsch"
 }

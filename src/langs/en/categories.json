@@ -31,5 +31,9 @@
   "lower secondary school": "Lower Secondary School",
   "upper secondary school": "Upper Secondary School",
   "vocational training": "Vocational Training",
-  "higher education": "Higher Education"
+  "higher education": "Higher Education",
+
+  "English": "English",
+  "French": "French",
+  "German": "German"
 }

@@ -11,21 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Check-out repository under $GITHUB_WORKSPACE, so the job can access it
-    - name: Check out code
+    - name: Checkout code
       uses: actions/checkout@v3
-      with:
-        ref: ${{ inputs.tag }}
 
-    - name: Setup node
-      id: setup-node
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
-        check-latest: true
-
-    - name: Yarn install and Cache dependencies
+    - name: Yarn install and cache dependencies
       uses: graasp/graasp-deploy/.github/actions/yarn-install-and-cache@v1
+
+    - name: Check code styling and linting
+      run: yarn check
 
     - name: Yarn build
       run: yarn build
