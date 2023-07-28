@@ -1,5 +1,22 @@
 {
-  "DISCIPLINE": "Disziplin",
-  "EDUCATION_LEVEL": "Bildungsniveau",
-  "LANGUAGE": "Sprache"
+  "discipline": "Disziplin",
+  "level": "Bildungsniveau",
+  "language": "Sprache",
+
+  "Math": "Mathematik",
+  "Literature": "Literatur",
+  "Social Science": "Sozialwissenschaft",
+  "Natural Science": "Naturwissenschaft",
+  "Arts": "Kunst",
+
+  "Kindergarten": "Kindergarten",
+  "Primary School": "Grundschule",
+  "Lower Secondary School": "Mittelschule",
+  "Upper Secondary School": "Sekundaroberstufe",
+  "Vocational Training": "Berufsausbildung",
+  "Higher Education": "Hochschulbildung",
+
+  "English": "Englisch",
+  "French": "Französisch",
+  "German": "Deutsch"
 }

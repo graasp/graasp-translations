@@ -4,9 +4,9 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "source": "src/index.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "source": "./src/index.ts",
   "description": "Graasp Translations",
   "repository": {
     "type": "git",
@@ -20,8 +20,12 @@
     "Víctor González",
     "Basile Spaenlehauer",
     "Alexandre Chau",
-    "Julien Torrent"
+    "Julien Torrent",
+    "Jérémy La Scala"
   ],
+  "dependencies": {
+    "i18next": "22.4.15"
+  },
   "scripts": {
     "prepack": "yarn build",
     "prepare": "yarn build && yarn hooks:install",
@@ -32,7 +36,9 @@
     "test:watch": "exit 0",
     "test": "exit 0",
     "lint": "eslint .",
-    "pre-commit": "yarn prettier:check && yarn lint",
+    "type-check": "yarn tsc --noEmit",
+    "check": "yarn prettier:check && yarn lint && yarn type-check",
+    "pre-commit": "yarn check",
     "post-commit": "git status",
     "build": "tsc"
   },
@@ -53,8 +59,5 @@
     "ts-node": "10.9.1",
     "typescript": "5.1.6"
   },
-  "packageManager": "yarn@3.6.1",
-  "dependencies": {
-    "i18next": "22.4.15"
-  }
+  "packageManager": "yarn@3.6.1"
 }
