@@ -1,1 +1,6 @@
-{}
+{
+  "builder": "editeur",
+  "player": "lecteur",
+  "analytics": "analyseur",
+  "library": "bibliothèque"
+}
