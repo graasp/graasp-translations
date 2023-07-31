@@ -27,11 +27,9 @@
   "ORPHAN_SESSION": "Votre session a expiré",
   "DATABASE_ERROR": "Une erreur est survenue dans la base de données",
   "UNEXPECTED_ERROR": "Une erreur inattendue est survenue",
-
   "STORAGE_EXCEEDED": "Vous avez rempli votre espace de stockage",
   "FILE_SIZE_NOT_FOUND": "Impossible de calculer la taille du fichier",
   "FILE_IS_NOT_IMAGE": "Le fichier n'est pas une image",
-
   "INVALID_UPLOAD_PARAMETERS": "Un ou plusieurs paramètres de mise en ligne sont invalides",
   "UPLOAD_EMPTY_FILE": "Impossible de mettre en ligne un fichier vide",
   "INVALID_FILE_PATH_FOR_COPY": "Le chemin du fichier est invalide pour la copie",
@@ -40,9 +38,8 @@
   "INVALID_DOWNLOAD_PARAMETERS": "Un ou plusieurs paramètres pour le téléchargement sont invalides",
   "LOCAL_FILE_NOT_FOUND": "Le fichier local n'a pas été trouvé",
   "S3_FILE_NOT_FOUND": "Le fichier S3 n'a pas été trouvé",
-  "INVALID_PASSWORD": "Le mot de passe actuel est invalide. Réessayez",
-  "EMPTY_CURRENT_PASSWORD": "Le mot de passe actuel n'a pas été rempli. Réessayez",
-
+  "UPLOAD_FILE_UNEXPECTED_ERROR": "Une erreur inattendue s'est produite lors du téléversement d'un fichier",
+  "DOWNLOAD_FILE_UNEXPECTED_ERROR": "Une erreur inattendue s'est produite lors du téléchargement d'un fichier",
   "RESTORE_ITEMS": "Les éléments ont été restorés avec succès",
   "CREATE_ITEM": "L'élément a été créé avec succès",
   "DELETE_ITEM": "L'élément a été supprimé avec succès",
@@ -72,11 +69,11 @@
   "IMPORT_H5P": "La librairie H5P a été importé avec succès",
   "DELETE_MEMBER": "Le compte a été supprimé avec succès",
   "UPDATE_PASSWORD": "Le mot de passe a été mis à jour avec succès",
-
+  "DELETE_ITEM_LOGIN_SCHEMA": "Le schéma de connexion de l'élément a été supprimé avec succès",
+  "PUT_ITEM_LOGIN_SCHEMA": "Le schéma de connexion de l'élément a été mis à jour avec succès",
   "INVALID_ARCHIVE_FILE": "Le fichier soumis n'est pas une archive zip",
   "INVALID_FILE_ITEM": "Les propriétés du fichier sont invalides",
   "UNEXPECTED_EXPORT_ERROR": "Une erreur est survenue durant l'exportation de l'archive zip",
-
   "NOT_APP_ITEM": "L'élément cible n'est pas une application",
   "INVALID_APP_ORIGIN": "L'application ne correspond pas à l'origine enregistrée",
   "TOKEN_ITEM_ID_MISMATCH": "Le jeton d'authentification ne correspond pas à l'élément cible",
@@ -87,13 +84,24 @@
   "PREVENT_APP_DATA_FILE_UPDATE": "Les fichiers sauvés dans les données de l'application ne peuvent pas être mis à jour",
   "PREVENT_APP_SETTING_FILE_UPDATE": "Les fichier sauvés dans les paramètres de l'application ne peuvent pas être mis à jour",
   "FILE_SERVICE_NOT_DEFINED": "Le service de fichier ou le type de fichier n'est pas défini",
-
   "CANNOT_COPY_RECYCLED_ITEM": "Un élément supprimé ne peut pas être copié",
   "CANNOT_MOVE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être déplacé",
   "CANNOT_DELETE_RECYCLED_ITEM": "Un élément supprimé ne peut pas être supprimé",
   "CANNOT_GET_RECYCLED_ITEM": "Un élément supprimé ne peut pas être lu",
   "INVALID_ITEM_STATUS": "L'élément ne satisfait pas les contraintes",
-
   "COPY_LINK_TO_CLIPBOARD_ERROR": "Impossible de copier le lien dans le press-papier",
-  "COPY_LINK_TO_CLIPBOARD": "Lien copié dans le press-papier"
+  "COPY_LINK_TO_CLIPBOARD": "Lien copié dans le press-papier",
+  "REQUEST_MESSAGES_RECYCLE_ITEMS": "Le ou les éléments sélectionnés seront mis à la corbeille. Cela peut prendre plusieurs minutes à s'appliquer.",
+  "REQUEST_MESSAGES_MOVE_ITEMS": "Les éléments sélectionnés seront déplacés. Cela peut prendre plusieurs minutes à s'appliquer.",
+  "REQUEST_MESSAGES_RESTORE_ITEMS": "Les éléments sélectionnés seront restaurés. Cela peut prendre plusieurs minutes à s'appliquer. C'est une bonne occasion de faire une pause.",
+  "REQUEST_MESSAGES_DELETE_ITEMS": "Les éléments sélectionnés seront supprimés. Cela peut prendre plusieurs minutes à s'appliquer.",
+  "PASSWORD_EMPTY_ERROR": "Entrez un mot de passe valide s'il vous plait",
+  "PASSWORD_WEAK_ERROR": "Le nouveau mot de passe n'est pas assez fort",
+  "PASSWORD_EQUAL_ERROR": "Veuillez entrer un nouveau mot de passe différent de votre mot de passe actuel",
+  "PASSWORD_CONFIRM_ERROR": "Veuillez vous assurer que le nouveau mot de passe correspond à la confirmation",
+  "INVALID_PASSWORD": "Le mot de passe actuel est invalide. Réessayez",
+  "EMPTY_CURRENT_PASSWORD": "Le mot de passe actuel n'a pas été rempli. Réessayez",
+  "REQUEST_MESSAGES_IMPORT_ZIP": "Le fichier ZIP est en cours de traitement. Une pause café s'impose, vous ne pensez pas ?",
+  "REQUEST_MESSAGES_IMPORT_H5P": "Le dossier H5P est en cours de traitement. Patientez s'il-vous-plait.",
+  "REQUEST_MESSAGES_UPLOAD_FILES": "Le ou les fichiers sont en file d'attente pour le téléversement. Patientez s'il-vous-plait."
 }
