@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.1](https://github.com/graasp/graasp-translations/compare/v1.17.0...v1.17.1) (2023-07-31)
+
+
+### Bug Fixes
+
+* **fr:** update builder translations ([#195](https://github.com/graasp/graasp-translations/issues/195)) ([73377c9](https://github.com/graasp/graasp-translations/commit/73377c9dbd3eebfa97d6a886a7b61a0d6fb8489e))
+
 ## [1.17.0](https://github.com/graasp/graasp-translations/compare/v1.16.1...v1.17.0) (2023-07-28)
 
 
