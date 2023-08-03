@@ -1,5 +1,6 @@
 import i18n from 'i18next';
-import { en, fr, de, it, ar, namespaces } from './langs';
+
+import { ar, de, en, fr, it, namespaces } from './langs';
 
 export const DEFAULT_LANG = 'en';
 
