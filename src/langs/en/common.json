@@ -13,5 +13,6 @@
   "USER_SHARED_WITH_ITEMS": "Shared with me",
   "USER_NOT_SIGNED_IN": "You are not signed in.",
   "USER_CAN_NOT_ACCESS_ITEM": "You cannot access this item.",
-  "CHAT_TOOLTIP": "Chat"
+  "CHAT_TOOLTIP": "Chat",
+  "LANGUAGE": "Language"
 }
