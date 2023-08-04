@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.18.0](https://github.com/graasp/graasp-translations/compare/v1.17.2...v1.18.0) (2023-08-04)
+
+
+### Features
+
+* add lang translations in common ([#209](https://github.com/graasp/graasp-translations/issues/209)) ([4e5b05c](https://github.com/graasp/graasp-translations/commit/4e5b05c5f6f0c5de722cb59983c9704393b0ee1e))
+
+
+### Bug Fixes
+
+* upgrade prettier ([#207](https://github.com/graasp/graasp-translations/issues/207)) ([c9b7d82](https://github.com/graasp/graasp-translations/commit/c9b7d823587dea1601fad1f7435c94de20f32607))
+
 ## [1.17.2](https://github.com/graasp/graasp-translations/compare/v1.17.1...v1.17.2) (2023-07-31)
 
 
