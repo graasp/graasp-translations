@@ -11,5 +11,7 @@
   "UNKNOWN_DATE": "Unbekannt",
   "USER_OWN_ITEMS": "Mein Graasp",
   "USER_SHARED_WITH_ITEMS": "Mit mir geteilt",
-  "CHAT_TOOLTIP": "Chat"
+  "CHAT_TOOLTIP": "Chat",
+
+  "BACK_BUTTON": "Zurück"
 }
