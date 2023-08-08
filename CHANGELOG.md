@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.1](https://github.com/graasp/graasp-translations/compare/v1.18.0...v1.18.1) (2023-08-08)
+
+
+### Bug Fixes
+
+* add back button translations ([#214](https://github.com/graasp/graasp-translations/issues/214)) ([01837b4](https://github.com/graasp/graasp-translations/commit/01837b4c2639b1a92290834b67cac60472f64313))
+* add browse all collections for library ([01837b4](https://github.com/graasp/graasp-translations/commit/01837b4c2639b1a92290834b67cac60472f64313))
+
 ## [1.18.0](https://github.com/graasp/graasp-translations/compare/v1.17.2...v1.18.0) (2023-08-04)
 
 
