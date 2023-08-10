@@ -41,7 +41,9 @@
   "ANSWER_COST": "Sie können kostenlos mit <0>Graasp</0> beginnen! Der Zugriff auf Premium-Funktionen – wie Lernanalysen und personalisierte Lernräume – beginnt bei 5 CHF pro registriertem Benutzer und Monat. Institutionen können von Paketen und Vor-Ort-Lizenzen für ihre Lehrer profitieren. Graasp unterstützt auch gemeinnützige Aktivitäten finanziell. Für weitere Informationen kontaktieren Sie uns bitte unter <1>contact@graasp.org</1>.",
   "QUESTION_TRAINING": "Bieten Sie Schulungen an?",
   "ANSWER_TRAINING": "Ja! Wir verstehen, dass Institutionen und Pädagogen über unterschiedliche Erfahrungen mit digitaler Bildung verfügen. Bitte kontaktieren Sie uns unter <0>contact@graasp.org</0>, um mehr darüber zu erfahren, wie wir Ihnen bei der Schulung helfen können.",
+  "QUESTION_BASE": "Wo ist Graasp entwickelt?",
   "ANSWER_BASE": "Unser Sitz ist in Lausanne, Schweiz. Unsere Plattformen entsprechen den europäischen Vorschriften, einschließlich der DSGVO.",
+  "NAV_ABOUT": "Über uns",
   "NAV_PARTNERS": "Partner",
   "NAV_TEAM": "Team",
   "NAV_FAQ": "FAQ"
