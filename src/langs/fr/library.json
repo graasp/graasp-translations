@@ -107,7 +107,7 @@
   "SUMMARY_ACTIONS_PREVIEW_CONTENT": "Aperçu",
   "SUMMARY_ACTIONS_DOWNLOAD": "Télécharger",
   "SUMMARY_ACTIONS_COPY": "Copier",
-  "SUMMARY_ACTIONS_EMBED": "Intégrer",
+  "SUMMARY_ACTIONS_EMBED": "Copier le lien",
   "FILTER_DROPDOWN_NO_FILTER": "Pas de filtres…",
   "FILTER_DROPDOWN_CLEAR_FILTERS": "Réinitialiser",
   "FILTER_DROPDOWN_NO_CATEGORIES_AVAILABLE": "Pas de catégories disponibles"
