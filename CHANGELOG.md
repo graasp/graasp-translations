@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.2](https://github.com/graasp/graasp-translations/compare/v1.18.1...v1.18.2) (2023-08-16)
+
+
+### Bug Fixes
+
+* **de:** auto-translate association ([#219](https://github.com/graasp/graasp-translations/issues/219)) ([39f14d3](https://github.com/graasp/graasp-translations/commit/39f14d35d8fdfc9e83f464cf048412c20de8ab9a))
+* **fr:** use a better translation for the categories ([#226](https://github.com/graasp/graasp-translations/issues/226)) ([9242e65](https://github.com/graasp/graasp-translations/commit/9242e65a61fcf5c4acfe0b3f3a5795ae01e0522f))
+
 ## [1.18.1](https://github.com/graasp/graasp-translations/compare/v1.18.0...v1.18.1) (2023-08-08)
 
 
