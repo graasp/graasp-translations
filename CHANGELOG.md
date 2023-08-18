@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.3](https://github.com/graasp/graasp-translations/compare/v1.18.2...v1.18.3) (2023-08-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency i18next to v23 ([#178](https://github.com/graasp/graasp-translations/issues/178)) ([8c9586f](https://github.com/graasp/graasp-translations/commit/8c9586ffacf733dba90a0aacf1af8f1187cf7dea))
+
 ## [1.18.2](https://github.com/graasp/graasp-translations/compare/v1.18.1...v1.18.2) (2023-08-16)
 
 
