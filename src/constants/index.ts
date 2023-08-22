@@ -1,7 +1,6 @@
 export * from './account';
 export * from './association';
 export * from './auth';
-export * from './builder';
 export * from './player';
 export * from './categories';
 export * from './common';
