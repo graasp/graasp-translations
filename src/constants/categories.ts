@@ -1,3 +1,4 @@
+/** @deprecated you should not use these keys, but the enum/data you receive from the db */
 export const CATEGORIES = {
   // category types
   LANGUAGE: 'LANGUAGE',
