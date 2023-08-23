@@ -78,6 +78,11 @@ import flagFR from './fr/flag.json';
 import flagDE from './de/flag.json';
 import flagIT from './it/flag.json';
 import flagAR from './ar/flag.json';
+import maxWidthEN from './en/maxWidth.json';
+import maxWidthFR from './fr/maxWidth.json';
+import maxWidthDE from './de/maxWidth.json';
+import maxWidthIT from './it/maxWidth.json';
+import maxWidthAR from './ar/maxWidth.json';
 
 // define namespaces
 export const namespaces = {
