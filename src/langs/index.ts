@@ -23,11 +23,6 @@ import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
 import categoriesIT from './it/categories.json';
 import categoriesAR from './ar/categories.json';
-import builderEN from './en/builder.json';
-import builderFR from './fr/builder.json';
-import builderDE from './de/builder.json';
-import builderIT from './it/builder.json';
-import builderAR from './ar/builder.json';
 import playerEN from './en/player.json';
 import playerFR from './fr/player.json';
 import playerDE from './de/player.json';
@@ -84,7 +79,6 @@ export const namespaces = {
   account: 'account',
   auth: 'auth',
   association: 'association',
-  builder: 'builder',
   player: 'player',
   categories: 'categories',
   chatbox: 'chatbox',
@@ -100,7 +94,6 @@ const en = {
   [namespaces.account]: accountEN,
   [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
-  [namespaces.builder]: builderEN,
   [namespaces.player]: playerEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
@@ -121,7 +114,6 @@ const fr = {
   [namespaces.account]: accountFR,
   [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
-  [namespaces.builder]: builderFR,
   [namespaces.player]: playerFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
@@ -142,7 +134,6 @@ const de = {
   [namespaces.account]: accountDE,
   [namespaces.association]: associationDE,
   [namespaces.auth]: authDE,
-  [namespaces.builder]: builderDE,
   [namespaces.player]: playerDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
@@ -163,7 +154,6 @@ const it = {
   [namespaces.account]: accountIT,
   [namespaces.association]: associationIT,
   [namespaces.auth]: authIT,
-  [namespaces.builder]: builderIT,
   [namespaces.player]: playerIT,
   [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
@@ -184,7 +174,6 @@ const ar = {
   [namespaces.account]: accountAR,
   [namespaces.association]: associationAR,
   [namespaces.auth]: authAR,
-  [namespaces.builder]: builderAR,
   [namespaces.player]: playerAR,
   [namespaces.categories]: categoriesAR,
   [namespaces.chatbox]: chatboxAR,
