@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.19.0](https://github.com/graasp/graasp-translations/compare/v1.18.3...v1.19.0) (2023-08-28)
+
+
+### Features
+
+* add max width translations ([#236](https://github.com/graasp/graasp-translations/issues/236)) ([36c1bed](https://github.com/graasp/graasp-translations/commit/36c1bedc44646bc0d5102826336004964a19f978))
+* remove builder translations ([#233](https://github.com/graasp/graasp-translations/issues/233)) ([d6e070b](https://github.com/graasp/graasp-translations/commit/d6e070b9d2b7a12ef85dcac6f241deb02098000e))
+
+
+### Bug Fixes
+
+* **deps:** update dependency i18next to v23.4.6 ([#235](https://github.com/graasp/graasp-translations/issues/235)) ([9fd0aad](https://github.com/graasp/graasp-translations/commit/9fd0aad1fec3a0b94d33b58619923b9d0d4f718f))
+* update categories translations ([#237](https://github.com/graasp/graasp-translations/issues/237)) ([9c271d5](https://github.com/graasp/graasp-translations/commit/9c271d58ef479e6dbc5cd3b5c1b3d013232342d3))
+
 ## [1.18.3](https://github.com/graasp/graasp-translations/compare/v1.18.2...v1.18.3) (2023-08-18)
 
 
