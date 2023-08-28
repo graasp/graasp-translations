@@ -1,6 +1,6 @@
 {
   "name": "@graasp/translations",
-  "version": "1.18.3",
+  "version": "1.19.0",
   "engines": {
     "node": ">=16.0.0"
   },
