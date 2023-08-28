@@ -73,6 +73,11 @@ import flagFR from './fr/flag.json';
 import flagDE from './de/flag.json';
 import flagIT from './it/flag.json';
 import flagAR from './ar/flag.json';
+import maxWidthEN from './en/maxWidth.json';
+import maxWidthFR from './fr/maxWidth.json';
+import maxWidthDE from './de/maxWidth.json';
+import maxWidthIT from './it/maxWidth.json';
+import maxWidthAR from './ar/maxWidth.json';
 
 // define namespaces
 export const namespaces = {
@@ -103,6 +108,7 @@ const en = {
     ...itemTypeEN,
     ...contextEN,
     ...flagEN,
+    ...maxWidthEN,
   },
   [namespaces.library]: libraryEN,
   [namespaces.mail]: mailEN,
@@ -123,6 +129,7 @@ const fr = {
     ...itemTypeFR,
     ...contextFR,
     ...flagFR,
+    ...maxWidthFR,
   },
   [namespaces.library]: libraryFR,
   [namespaces.mail]: mailFR,
@@ -143,6 +150,7 @@ const de = {
     ...itemTypeDE,
     ...contextDE,
     ...flagDE,
+    ...maxWidthDE,
   },
   [namespaces.library]: libraryDE,
   [namespaces.mail]: mailDE,
@@ -163,6 +171,7 @@ const it = {
     ...itemTypeIT,
     ...contextIT,
     ...flagIT,
+    ...maxWidthIT,
   },
   [namespaces.library]: libraryIT,
   [namespaces.mail]: mailIT,
@@ -183,6 +192,7 @@ const ar = {
     ...itemTypeAR,
     ...contextAR,
     ...flagAR,
+    ...maxWidthAR,
   },
   [namespaces.library]: libraryAR,
   [namespaces.mail]: mailAR,
