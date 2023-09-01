@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.1](https://github.com/graasp/graasp-translations/compare/v1.19.0...v1.19.1) (2023-09-01)
+
+
+### Bug Fixes
+
+* **fr:** confusing context translations ([#244](https://github.com/graasp/graasp-translations/issues/244)) ([7f1b08d](https://github.com/graasp/graasp-translations/commit/7f1b08d36e7aeb5fc7524e5d57a8c4f4730e7607))
+
 ## [1.19.0](https://github.com/graasp/graasp-translations/compare/v1.18.3...v1.19.0) (2023-08-28)
 
 
