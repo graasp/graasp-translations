@@ -5,6 +5,5 @@ export * from './player';
 export * from './categories';
 export * from './common';
 export * from './chatbox';
-export * from './library';
 export * from './mail';
 export * from './messages';

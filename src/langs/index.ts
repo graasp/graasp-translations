@@ -13,11 +13,6 @@ import authFR from './fr/auth.json';
 import authDE from './de/auth.json';
 import authIT from './it/auth.json';
 import authAR from './ar/auth.json';
-import libraryEN from './en/library.json';
-import libraryFR from './fr/library.json';
-import libraryDE from './de/library.json';
-import libraryIT from './it/library.json';
-import libraryAR from './ar/library.json';
 import categoriesEN from './en/categories.json';
 import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
@@ -110,7 +105,6 @@ const en = {
     ...flagEN,
     ...maxWidthEN,
   },
-  [namespaces.library]: libraryEN,
   [namespaces.mail]: mailEN,
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
@@ -131,7 +125,6 @@ const fr = {
     ...flagFR,
     ...maxWidthFR,
   },
-  [namespaces.library]: libraryFR,
   [namespaces.mail]: mailFR,
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
@@ -152,7 +145,6 @@ const de = {
     ...flagDE,
     ...maxWidthDE,
   },
-  [namespaces.library]: libraryDE,
   [namespaces.mail]: mailDE,
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
@@ -173,7 +165,6 @@ const it = {
     ...flagIT,
     ...maxWidthIT,
   },
-  [namespaces.library]: libraryIT,
   [namespaces.mail]: mailIT,
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
@@ -194,7 +185,6 @@ const ar = {
     ...flagAR,
     ...maxWidthAR,
   },
-  [namespaces.library]: libraryAR,
   [namespaces.mail]: mailAR,
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
