@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.2](https://github.com/graasp/graasp-translations/compare/v1.19.1...v1.19.2) (2023-09-22)
+
+
+### Bug Fixes
+
+* fix categories translations + remove library translations ([#252](https://github.com/graasp/graasp-translations/issues/252)) ([e1b9b3d](https://github.com/graasp/graasp-translations/commit/e1b9b3d8bfa1c78cd2397127049123bede9a5875))
+
 ## [1.19.1](https://github.com/graasp/graasp-translations/compare/v1.19.0...v1.19.1) (2023-09-01)
 
 
