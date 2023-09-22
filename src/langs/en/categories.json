@@ -9,13 +9,13 @@
   "social-science": "Social Science",
   "natural-science": "Natural Science",
   "arts": "Arts",
-  "informatics": "informatics",
+  "informatics": "Informatics",
   "physical-education": "Physical Education",
 
   "kindergarten": "Kindergarten",
   "primary-school": "Primary School",
-  "lower-secondary-school": "Lower Secondary School",
-  "upper-secondaryschool": "Upper Secondary School",
+  "lower-secondary-education": "Lower Secondary Education",
+  "upper-secondary-education": "Upper Secondary Education",
   "vocation-training": "Vocational Training",
   "higher-education": "Higher Education",
 
