@@ -8,11 +8,6 @@ import chatboxFR from './fr/chatbox.json';
 import chatboxDE from './de/chatbox.json';
 import chatboxIT from './it/chatbox.json';
 import chatboxAR from './ar/chatbox.json';
-import authEN from './en/auth.json';
-import authFR from './fr/auth.json';
-import authDE from './de/auth.json';
-import authIT from './it/auth.json';
-import authAR from './ar/auth.json';
 import categoriesEN from './en/categories.json';
 import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
@@ -77,14 +72,12 @@ import maxWidthAR from './ar/maxWidth.json';
 // define namespaces
 export const namespaces = {
   account: 'account',
-  auth: 'auth',
   association: 'association',
   player: 'player',
   categories: 'categories',
   chatbox: 'chatbox',
   common: 'common',
   enums: 'enums',
-  library: 'library',
   mail: 'mail',
   messages: 'messages',
   uppy: 'uppy',
@@ -92,7 +85,6 @@ export const namespaces = {
 
 const en = {
   [namespaces.account]: accountEN,
-  [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
   [namespaces.player]: playerEN,
   [namespaces.categories]: categoriesEN,
@@ -112,7 +104,6 @@ const en = {
 
 const fr = {
   [namespaces.account]: accountFR,
-  [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
   [namespaces.player]: playerFR,
   [namespaces.categories]: categoriesFR,
@@ -133,7 +124,6 @@ const fr = {
 const de = {
   [namespaces.account]: accountDE,
   [namespaces.association]: associationDE,
-  [namespaces.auth]: authDE,
   [namespaces.player]: playerDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
@@ -153,7 +143,6 @@ const de = {
 const it = {
   [namespaces.account]: accountIT,
   [namespaces.association]: associationIT,
-  [namespaces.auth]: authIT,
   [namespaces.player]: playerIT,
   [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
@@ -173,7 +162,6 @@ const it = {
 const ar = {
   [namespaces.account]: accountAR,
   [namespaces.association]: associationAR,
-  [namespaces.auth]: authAR,
   [namespaces.player]: playerAR,
   [namespaces.categories]: categoriesAR,
   [namespaces.chatbox]: chatboxAR,
