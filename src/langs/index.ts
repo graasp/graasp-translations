@@ -71,7 +71,6 @@ import maxWidthAR from './ar/maxWidth.json';
 
 // define namespaces
 export const namespaces = {
-  account: 'account',
   auth: 'auth',
   association: 'association',
   player: 'player',
