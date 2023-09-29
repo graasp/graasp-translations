@@ -1,4 +1,3 @@
-export * from './account';
 export * from './association';
 export * from './auth';
 export * from './player';

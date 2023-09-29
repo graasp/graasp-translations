@@ -28,11 +28,6 @@ import commonFR from './fr/common.json';
 import commonDE from './de/common.json';
 import commonIT from './it/common.json';
 import commonAR from './ar/common.json';
-import accountEN from './en/account.json';
-import accountFR from './fr/account.json';
-import accountDE from './de/account.json';
-import accountIT from './it/account.json';
-import accountAR from './ar/account.json';
 import permissionLevelEN from './en/permissionLevel.json';
 import permissionLevelFR from './fr/permissionLevel.json';
 import permissionLevelDE from './de/permissionLevel.json';
@@ -76,7 +71,6 @@ import maxWidthAR from './ar/maxWidth.json';
 
 // define namespaces
 export const namespaces = {
-  account: 'account',
   auth: 'auth',
   association: 'association',
   player: 'player',
@@ -91,7 +85,6 @@ export const namespaces = {
 };
 
 const en = {
-  [namespaces.account]: accountEN,
   [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
   [namespaces.player]: playerEN,
@@ -111,7 +104,6 @@ const en = {
 };
 
 const fr = {
-  [namespaces.account]: accountFR,
   [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
   [namespaces.player]: playerFR,
@@ -131,7 +123,6 @@ const fr = {
 };
 
 const de = {
-  [namespaces.account]: accountDE,
   [namespaces.association]: associationDE,
   [namespaces.auth]: authDE,
   [namespaces.player]: playerDE,
@@ -151,7 +142,6 @@ const de = {
 };
 
 const it = {
-  [namespaces.account]: accountIT,
   [namespaces.association]: associationIT,
   [namespaces.auth]: authIT,
   [namespaces.player]: playerIT,
@@ -171,7 +161,6 @@ const it = {
 };
 
 const ar = {
-  [namespaces.account]: accountAR,
   [namespaces.association]: associationAR,
   [namespaces.auth]: authAR,
   [namespaces.player]: playerAR,
