@@ -18,11 +18,6 @@ import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
 import categoriesIT from './it/categories.json';
 import categoriesAR from './ar/categories.json';
-import playerEN from './en/player.json';
-import playerFR from './fr/player.json';
-import playerDE from './de/player.json';
-import playerIT from './it/player.json';
-import playerAR from './ar/player.json';
 import commonEN from './en/common.json';
 import commonFR from './fr/common.json';
 import commonDE from './de/common.json';
@@ -73,7 +68,6 @@ import maxWidthAR from './ar/maxWidth.json';
 export const namespaces = {
   auth: 'auth',
   association: 'association',
-  player: 'player',
   categories: 'categories',
   chatbox: 'chatbox',
   common: 'common',
@@ -87,7 +81,6 @@ export const namespaces = {
 const en = {
   [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
-  [namespaces.player]: playerEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.common]: commonEN,
@@ -106,7 +99,6 @@ const en = {
 const fr = {
   [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
-  [namespaces.player]: playerFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.common]: commonFR,
@@ -125,7 +117,6 @@ const fr = {
 const de = {
   [namespaces.association]: associationDE,
   [namespaces.auth]: authDE,
-  [namespaces.player]: playerDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
@@ -144,7 +135,6 @@ const de = {
 const it = {
   [namespaces.association]: associationIT,
   [namespaces.auth]: authIT,
-  [namespaces.player]: playerIT,
   [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
   [namespaces.common]: commonIT,
@@ -163,7 +153,6 @@ const it = {
 const ar = {
   [namespaces.association]: associationAR,
   [namespaces.auth]: authAR,
-  [namespaces.player]: playerAR,
   [namespaces.categories]: categoriesAR,
   [namespaces.chatbox]: chatboxAR,
   [namespaces.common]: commonAR,
