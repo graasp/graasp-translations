@@ -85,7 +85,7 @@ export const FAILURE_MESSAGES = {
     'Please make sure "New Password" matches "Confirm password"',
 
   // short links
-  SHORT_LINK_ALREADY_EXIST: 'SHORT_LINK_ALREADY_EXIST',
+  SHORT_LINK_ALREADY_EXISTS: 'SHORT_LINK_ALREADY_EXISTS',
   SHORT_LINK_NOT_FOUND: 'SHORT_LINK_NOT_FOUND',
   INVALID_CONTEXT: 'INVALID_CONTEXT',
 };
