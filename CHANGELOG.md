@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.20.0](https://github.com/graasp/graasp-translations/compare/v1.19.4...v1.20.0) (2023-11-13)
+
+
+### Features
+
+* add short links translation messages (graasp/graasp[#664](https://github.com/graasp/graasp-translations/issues/664)) ([#280](https://github.com/graasp/graasp-translations/issues/280)) ([a694eec](https://github.com/graasp/graasp-translations/commit/a694eec0fb27fa37d90d9ea06d94793cbc2d9b65))
+
+
+### Bug Fixes
+
+* **deps:** update dependency i18next to v23.7.6 ([#279](https://github.com/graasp/graasp-translations/issues/279)) ([d11af0b](https://github.com/graasp/graasp-translations/commit/d11af0b771064c29778e4c77a4f8351034629e7c))
+
 ## [1.19.4](https://github.com/graasp/graasp-translations/compare/v1.19.3...v1.19.4) (2023-10-25)
 
 
