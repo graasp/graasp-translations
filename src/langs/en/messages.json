@@ -112,5 +112,12 @@
 
   "REQUEST_MESSAGES_IMPORT_ZIP": "The ZIP file is being processed. Please wait a moment.",
   "REQUEST_MESSAGES_IMPORT_H5P": "The H5P file is being processed. Please wait a moment.",
-  "REQUEST_MESSAGES_UPLOAD_FILES": "The file(s) are in queue for uploading. Please wait a moment."
+  "REQUEST_MESSAGES_UPLOAD_FILES": "The file(s) are in queue for uploading. Please wait a moment.",
+
+  "CREATE_SHORT_LINK": "The short link was successfully created.",
+  "EDIT_SHORT_LINK": "The short link was successfully updated.",
+  "DELETE_SHORT_LINK": "The short link was successfully deleted.",
+  "SHORT_LINK_ALREADY_EXISTS": "The short link's alias already exists.",
+  "SHORT_LINK_NOT_FOUND": "The short link was not found.",
+  "INVALID_CONTEXT": "The given context is not valid."
 }

@@ -83,6 +83,11 @@ export const FAILURE_MESSAGES = {
     'Please enter a new password different from your current one',
   PASSWORD_CONFIRM_ERROR:
     'Please make sure "New Password" matches "Confirm password"',
+
+  // short links
+  SHORT_LINK_ALREADY_EXISTS: 'SHORT_LINK_ALREADY_EXISTS',
+  SHORT_LINK_NOT_FOUND: 'SHORT_LINK_NOT_FOUND',
+  INVALID_CONTEXT: 'INVALID_CONTEXT',
 };
 
 export const DEFAULT_FAILURE_MESSAGE = FAILURE_MESSAGES.UNEXPECTED_ERROR;
@@ -130,6 +135,11 @@ export const SUCCESS_MESSAGES = {
 
   // sharing item
   COPY_LINK_TO_CLIPBOARD: 'COPY_LINK_TO_CLIPBOARD',
+
+  // short links
+  CREATE_SHORT_LINK: 'CREATE_SHORT_LINK',
+  EDIT_SHORT_LINK: 'EDIT_SHORT_LINK',
+  DELETE_SHORT_LINK: 'DELETE_SHORT_LINK',
 };
 
 export const REQUEST_MESSAGES = {
