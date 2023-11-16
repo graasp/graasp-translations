@@ -103,5 +103,11 @@
   "EMPTY_CURRENT_PASSWORD": "Le mot de passe actuel n'a pas été rempli. Réessayez",
   "REQUEST_MESSAGES_IMPORT_ZIP": "Le fichier ZIP est en cours de traitement. Une pause café s'impose, vous ne pensez pas ?",
   "REQUEST_MESSAGES_IMPORT_H5P": "Le dossier H5P est en cours de traitement. Patientez s'il-vous-plait.",
-  "REQUEST_MESSAGES_UPLOAD_FILES": "Le ou les fichiers sont en file d'attente pour le téléversement. Patientez s'il-vous-plait."
+  "REQUEST_MESSAGES_UPLOAD_FILES": "Le ou les fichiers sont en file d'attente pour le téléversement. Patientez s'il-vous-plait.",
+  "CREATE_SHORT_LINK": "Le lien court a été créé avec succès.",
+  "EDIT_SHORT_LINK": "Le lien court a été mis à jour avec succès.",
+  "DELETE_SHORT_LINK": "Le lien court a été supprimé avec succès.",
+  "SHORT_LINK_ALREADY_EXISTS": "L'alias du lien court existe déjà.",
+  "SHORT_LINK_NOT_FOUND": "Le lien court n'a pas été trouvé.",
+  "INVALID_CONTEXT": "La plateforme indiquée n'est pas valide."
 }
