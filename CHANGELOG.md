@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.1](https://github.com/graasp/graasp-translations/compare/v1.20.0...v1.20.1) (2023-11-16)
+
+
+### Bug Fixes
+
+* **de:** auth translations ([#286](https://github.com/graasp/graasp-translations/issues/286)) ([bdc811e](https://github.com/graasp/graasp-translations/commit/bdc811ea4d7b4892066c1d624cc7796aeb7506af))
+
 ## [1.20.0](https://github.com/graasp/graasp-translations/compare/v1.19.4...v1.20.0) (2023-11-13)
 
 
