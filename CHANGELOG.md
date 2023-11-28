@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.0](https://github.com/graasp/graasp-translations/compare/v1.20.1...v1.21.0) (2023-11-28)
+
+
+### Features
+
+* add missing french translations and short link limit exceed ([#292](https://github.com/graasp/graasp-translations/issues/292)) ([d32e56c](https://github.com/graasp/graasp-translations/commit/d32e56cdc0ba3719277a58c7254f3d25c5b1d91a))
+
 ## [1.20.1](https://github.com/graasp/graasp-translations/compare/v1.20.0...v1.20.1) (2023-11-16)
 
 
