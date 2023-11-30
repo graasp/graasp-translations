@@ -122,6 +122,6 @@
   "INVALID_CONTEXT": "The given context is not valid.",
   "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service.",
 
-  "POST_PROFILE": "Your Data Saved Successfully",
-  "PATCH_PROFILE": "Your Data Saved Successfully"
+  "POST_PROFILE": "Your profile has been saved successfully",
+  "PATCH_PROFILE": "Your profile has been saved successfully"
 }
