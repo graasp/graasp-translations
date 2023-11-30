@@ -120,5 +120,8 @@
   "SHORT_LINK_ALREADY_EXISTS": "The short link's alias already exists.",
   "SHORT_LINK_NOT_FOUND": "The short link was not found.",
   "INVALID_CONTEXT": "The given context is not valid.",
-  "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service."
+  "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service.",
+
+  "POST_PROFILE": "Your Data Saved Successfully",
+  "PATCH_PROFILE": "Your Data Saved Successfully"
 }
