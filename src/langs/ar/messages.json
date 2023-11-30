@@ -88,5 +88,7 @@
   "CANNOT_GET_RECYCLED_ITEM": "لا يمكن قراءة عنصر محذوف ",
   "INVALID_ITEM_STATUS": "العنصر لا يلبي المتطلبات",
   "COPY_LINK_TO_CLIPBOARD_ERROR": "لا يمكن نسخ الرابط إلى الحافظة",
-  "COPY_LINK_TO_CLIPBOARD": "تم نسخ الرابط إلى الحافظة"
+  "COPY_LINK_TO_CLIPBOARD": "تم نسخ الرابط إلى الحافظة",
+  "POST_PROFILE": "تم حفظ البيانات بنجاح",
+  "PATCH_PROFILE": "تم حفظ البيانات بنجاح"
 }
