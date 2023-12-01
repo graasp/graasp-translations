@@ -119,5 +119,9 @@
   "DELETE_SHORT_LINK": "The short link was successfully deleted.",
   "SHORT_LINK_ALREADY_EXISTS": "The short link's alias already exists.",
   "SHORT_LINK_NOT_FOUND": "The short link was not found.",
-  "INVALID_CONTEXT": "The given context is not valid."
+  "INVALID_CONTEXT": "The given context is not valid.",
+  "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service.",
+
+  "POST_PROFILE": "Your profile has been saved successfully",
+  "PATCH_PROFILE": "Your profile has been saved successfully"
 }

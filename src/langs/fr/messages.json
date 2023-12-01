@@ -109,5 +109,6 @@
   "DELETE_SHORT_LINK": "Le lien court a été supprimé avec succès.",
   "SHORT_LINK_ALREADY_EXISTS": "L'alias du lien court existe déjà.",
   "SHORT_LINK_NOT_FOUND": "Le lien court n'a pas été trouvé.",
-  "INVALID_CONTEXT": "La plateforme indiquée n'est pas valide."
+  "INVALID_CONTEXT": "Le contexte donné n'est pas valide.",
+  "SHORT_LINK_LIMIT_EXCEED": "Vous ne pouvez avoir qu'un seul lien court par service."
 }
