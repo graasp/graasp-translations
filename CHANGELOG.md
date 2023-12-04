@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.21.1](https://github.com/graasp/graasp-translations/compare/v1.21.0...v1.21.1) (2023-12-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency i18next to v23.7.7 ([#294](https://github.com/graasp/graasp-translations/issues/294)) ([27528b2](https://github.com/graasp/graasp-translations/commit/27528b25174dff06a5214cdefe4399b8d457ba74))
+* remove minor and major tagging ([727130a](https://github.com/graasp/graasp-translations/commit/727130a2e6d3b0beb8466bb3bdfea66513da4cac))
+* update release-please workflow ([20d27ba](https://github.com/graasp/graasp-translations/commit/20d27ba9d236a03bc6159520a931ba63f92965b3))
+
 ## [1.21.0](https://github.com/graasp/graasp-translations/compare/v1.20.1...v1.21.0) (2023-11-28)
 
 
