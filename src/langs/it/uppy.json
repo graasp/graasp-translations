@@ -1,1 +1,64 @@
-{}
+{
+  "closeModal": "Chiudi modale",
+  "addMoreFiles": "Aggiungi più file",
+  "addingMoreFiles": "Aggiunta di più file",
+  "importFrom": "Importa da %{name}",
+  "dashboardWindowTitle": "Finestra della dashboard di Uppy (premi Esc per chiudere)",
+  "dashboardTitle": "Pannello di controllo di Uppy",
+  "copyLinkToClipboardSuccess": "Link copiato negli appunti.",
+  "copyLinkToClipboardFallback": "Copia l'URL qui sotto",
+  "copyLink": "Copia link",
+  "back": "Indietro",
+  "removeFile": "Rimuovi il file",
+  "editFile": "Modifica file",
+  "editing": "Modifica %{file}",
+  "finishEditingFile": "Termina la modifica del file",
+  "saveChanges": "Salvare le modifiche",
+  "myDevice": "Il mio dispositivo",
+  "dropHint": "Rilascia i tuoi file qui",
+  "uploadComplete": "Caricamento completato",
+  "uploadPaused": "Caricamento in pausa",
+  "resumeUpload": "Riprendi il caricamento",
+  "pauseUpload": "Metti in pausa il caricamento",
+  "retryUpload": "Riprova il caricamento",
+  "cancelUpload": "Annulla caricamento",
+  "xFilesSelected": {
+    "0": "%{smart_count} file selezionato",
+    "1": "%{smart_count} file selezionati"
+  },
+  "uploadingXFiles": {
+    "0": "Caricamento del file %{smart_count}",
+    "1": "Caricamento di %{smart_count} file"
+  },
+  "processingXFiles": {
+    "0": "Elaborazione del file %{smart_count}",
+    "1": "Elaborazione di %{smart_count} file"
+  },
+  "poweredBy": "Fornito da %{uppy}",
+  "addMore": "Aggiungere",
+  "editFileWithFilename": "Modifica file %{file}",
+  "save": "Salva",
+  "cancel": "Annulla",
+  "dropPasteFiles": "Trascina i file qui o %{browseFiles}",
+  "dropPasteFolders": "Rilascia i file qui o %{browseFolders}",
+  "dropPasteBoth": "Rilascia i file qui, %{browseFiles} o %{browseFolders}",
+  "dropPasteImportFiles": "Trascina i file qui, %{browseFiles} o importali da:",
+  "dropPasteImportFolders": "Trascina i file qui, %{browseFolders} o importali da:",
+  "dropPasteImportBoth": "Trascina i file qui, %{browseFiles}, %{browseFolders} o importali da:",
+  "importFiles": "Importa file da:",
+  "browseFiles": "sfogliare i file",
+  "browseFolders": "sfogliare le cartelle",
+  "recoveredXFiles": {
+    "0": "Non è stato possibile recuperare completamente 1 file. Selezionalo nuovamente e riprendi il caricamento.",
+    "1": "Non è stato possibile recuperare completamente %{smart_count} file. Selezionali nuovamente e riprendi il caricamento."
+  },
+  "recoveredAllFiles": "Abbiamo ripristinato tutti i file. Ora puoi riprendere il caricamento.",
+  "sessionRestored": "Sessione ripristinata",
+  "reSelect": "Riselezionare",
+  "missingRequiredMetaFields": {
+    "0": "Meta campo obbligatorio mancante: %{fields}.",
+    "1": "Meta campi obbligatori mancanti: %{fields}."
+  },
+  "takePictureBtn": "Fare una foto",
+  "recordVideoBtn": "Registra video"
+}
