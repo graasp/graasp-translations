@@ -1,1 +1,19 @@
-{}
+{
+  "COOKIE_BANNER_TEXT": "Utilizziamo cookie e altre tecnologie di tracciamento per migliorare la tua esperienza di navigazione sul nostro sito web, per analizzare il traffico del nostro sito web e per capire da dove provengono i nostri visitatori. Navigando sul nostro sito web, acconsenti al nostro utilizzo dei cookie e di altre tecnologie di tracciamento.",
+  "COOKIE_BANNER_ACCEPT_BUTTON": "Accettare tutti",
+  "COOKIE_BANNER_DECLINE_BUTTON": "Rifiutare ciò che non è essenziale",
+  "SAVE_BUTTON": "Salva",
+  "SAVED_BUTTON": "Salvato",
+  "CANCEL_BUTTON": "Annulla",
+  "CLOSE_BUTTON": "Vicino",
+  "BACK_BUTTON": "Indietro",
+  "AVATAR_DEFAULT_ALT": "avatar",
+  "MEMBER_DEFAULT_NAME": "Sconosciuto",
+  "UNKNOWN_DATE": "Sconosciuto",
+  "USER_OWN_ITEMS": "Il mio Graasp",
+  "USER_SHARED_WITH_ITEMS": "Condiviso con me",
+  "USER_NOT_SIGNED_IN": "Non sei registrato.",
+  "USER_CAN_NOT_ACCESS_ITEM": "Non puoi accedere a questo elemento.",
+  "CHAT_TOOLTIP": "Chiacchierata",
+  "LANGUAGE": "Lingua"
+}
