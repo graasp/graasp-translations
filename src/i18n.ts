@@ -38,7 +38,7 @@ const langs = {
   de: 'Deutsch',
   // el: "Ελληνικά",
   en: 'English',
-  // es: "Español",
+  es: 'Español',
   // et: "Eesti",
   // fi: "Suomi",
   fr: 'Français',
