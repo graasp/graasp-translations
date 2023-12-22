@@ -1,1 +1,64 @@
-{}
+{
+  "closeModal": "Cerrar modal",
+  "addMoreFiles": "Agrega mas archivos",
+  "addingMoreFiles": "Agregar más archivos",
+  "importFrom": "Importar desde %{name}",
+  "dashboardWindowTitle": "Ventana del panel de Uppy (presione Escape para cerrar)",
+  "dashboardTitle": "Panel de control uppy",
+  "copyLinkToClipboardSuccess": "Enlace copiado al portapapeles.",
+  "copyLinkToClipboardFallback": "Copia la URL a continuación",
+  "copyLink": "Copiar link",
+  "back": "Atrás",
+  "removeFile": "Remover archivo",
+  "editFile": "Editar archivo",
+  "editing": "Editando %{archivo}",
+  "finishEditingFile": "Terminar de editar el archivo",
+  "saveChanges": "Guardar cambios",
+  "myDevice": "Mi dispositivo",
+  "dropHint": "Deja tus archivos aquí",
+  "uploadComplete": "Carga completa",
+  "uploadPaused": "Subida pausada",
+  "resumeUpload": "Continuar con la carga",
+  "pauseUpload": "Pausar carga",
+  "retryUpload": "Reintentar subir",
+  "cancelUpload": "Cancelar carga",
+  "xFilesSelected": {
+    "0": "%{smart_count} archivo seleccionado",
+    "1": "%{smart_count} archivos seleccionados"
+  },
+  "uploadingXFiles": {
+    "0": "Subiendo el archivo %{smart_count}",
+    "1": "Subiendo %{smart_count} archivos"
+  },
+  "processingXFiles": {
+    "0": "Procesando el archivo %{smart_count}",
+    "1": "Procesando %{smart_count} archivos"
+  },
+  "poweredBy": "Desarrollado por %{uppy}",
+  "addMore": "Agregar",
+  "editFileWithFilename": "Editar archivo %{archivo}",
+  "save": "Ahorrar",
+  "cancel": "Cancelar",
+  "dropPasteFiles": "Suelte archivos aquí o %{browseFiles}",
+  "dropPasteFolders": "Suelte archivos aquí o %{browseFolders}",
+  "dropPasteBoth": "Suelte los archivos aquí, %{browseFiles} o %{browseFolders}",
+  "dropPasteImportFiles": "Suelte los archivos aquí, %{browseFiles} o impórtelos desde:",
+  "dropPasteImportFolders": "Suelte los archivos aquí, %{browseFolders} o impórtelos desde:",
+  "dropPasteImportBoth": "Suelte los archivos aquí, %{browseFiles}, %{browseFolders} o impórtelos desde:",
+  "importFiles": "Importar archivos desde:",
+  "browseFiles": "búsqueda de archivos",
+  "browseFolders": "explorar carpetas",
+  "recoveredXFiles": {
+    "0": "No pudimos recuperar completamente 1 archivo. Vuelva a seleccionarlo y reanude la carga.",
+    "1": "No pudimos recuperar completamente los archivos %{smart_count}. Vuelva a seleccionarlos y reanude la carga."
+  },
+  "recoveredAllFiles": "Restauramos todos los archivos. Ahora puedes reanudar la carga.",
+  "sessionRestored": "Sesión restaurada",
+  "reSelect": "Vuelva a seleccionar",
+  "missingRequiredMetaFields": {
+    "0": "Falta el metacampo obligatorio: %{fields}.",
+    "1": "Faltan metacampos obligatorios: %{fields}."
+  },
+  "takePictureBtn": "Tomar la foto",
+  "recordVideoBtn": "Grabar video"
+}
