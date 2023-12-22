@@ -1,1 +1,10 @@
-{}
+{
+  "app": "app",
+  "document": "documento",
+  "embeddedLink": "collegamento",
+  "file": "file",
+  "folder": "cartella",
+  "h5p": "h5p",
+  "s3File": "file",
+  "shortcut": "scorciatoia"
+}
