@@ -1,4 +1,5 @@
 {
+  "DEFAULT_FAILURE": "Ocurrió un error inesperado",
   "DEFAULT_SUCCESS": "La operación fue exitosa",
   "ITEM_NOT_FOUND": "No se encontró un artículo",
   "TOO_MANY_DESCENDANTS": "Un elemento tiene demasiados descendientes para que continúe la operación.",
