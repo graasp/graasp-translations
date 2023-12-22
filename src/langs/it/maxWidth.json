@@ -1,1 +1,6 @@
-{}
+{
+  "sm": "Piccolo",
+  "md": "medio",
+  "lg": "Grande",
+  "xl": "Extra grande"
+}
