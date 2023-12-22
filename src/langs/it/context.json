@@ -1,1 +1,6 @@
-{}
+{
+  "builder": "costruttore",
+  "player": "giocatore",
+  "analytics": "analitica",
+  "library": "biblioteca"
+}
