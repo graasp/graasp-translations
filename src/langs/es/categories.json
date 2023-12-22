@@ -1,1 +1,27 @@
-{}
+{
+  "discipline": "Disciplina",
+  "level": "Nivel de Educación",
+  "language": "Idioma",
+  "resource-type": "Tipo de recurso",
+  "mathematics": "Matemáticas",
+  "literature": "Literatura",
+  "social-science": "Ciencias Sociales",
+  "natural-science": "Ciencias Naturales",
+  "arts": "Letras",
+  "informatics": "informatica",
+  "physical-education": "Educación Física",
+  "kindergarten": "Jardín de infancia",
+  "primary-school": "Escuela primaria",
+  "lower-secondary-education": "Educación secundaria inferior",
+  "upper-secondary-education": "Educación Secundaria Superior",
+  "vocation-training": "Entrenamiento vocacional",
+  "higher-education": "Educación más alta",
+  "english": "Inglés",
+  "french": "Francés",
+  "german": "Alemán",
+  "arabic": "Arábica",
+  "italian": "italiano",
+  "app": "Solicitud",
+  "template": "Plantilla",
+  "collection": "Recopilación"
+}
