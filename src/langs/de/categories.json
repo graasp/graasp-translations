@@ -2,21 +2,26 @@
   "discipline": "Disziplin",
   "level": "Bildungsniveau",
   "language": "Sprache",
-
+  "resource-type": "Ressourcentyp",
   "mathematics": "Mathematik",
   "literature": "Literatur",
   "social-science": "Sozialwissenschaft",
   "natural-science": "Naturwissenschaft",
   "arts": "Kunst",
-
+  "informatics": "Informatik",
+  "physical-education": "Sportunterricht",
   "kindergarten": "Kindergarten",
   "primary-school": "Grundschule",
   "lower-secondary-education": "Mittelschule",
   "upper-secondary-education": "Sekundaroberstufe",
   "vocation-training": "Berufsausbildung",
   "higher-education": "Hochschulbildung",
-
   "english": "Englisch",
   "french": "Französisch",
-  "german": "Deutsch"
+  "german": "Deutsch",
+  "arabic": "Arabisch",
+  "italian": "Italienisch",
+  "app": "Anwendung",
+  "template": "Vorlage",
+  "collection": "Sammlung"
 }

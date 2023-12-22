@@ -1,1 +1,8 @@
-{}
+{
+  "inappropriate-content": "Unpassender Inhalt",
+  "hate-speech": "Hassrede",
+  "fraud-plagiarism": "Betrug / Plagiat",
+  "spam": "Spam",
+  "targeted-harassment": "Gezielte Belästigung",
+  "false-information": "Falsche Information"
+}
