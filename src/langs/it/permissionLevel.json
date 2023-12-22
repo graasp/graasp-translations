@@ -1,3 +1,5 @@
 {
-  "read": "leggere"
+  "read": "leggere",
+  "write": "scrivere",
+  "admin": "amministratore"
 }
