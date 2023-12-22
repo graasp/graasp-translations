@@ -6,12 +6,14 @@
   "SAVED_BUTTON": "Gespeichert",
   "CANCEL_BUTTON": "Abbrechen",
   "CLOSE_BUTTON": "Schliessen",
+  "BACK_BUTTON": "Zurück",
   "AVATAR_DEFAULT_ALT": "Benutzerbild",
   "MEMBER_DEFAULT_NAME": "Unbekannt",
   "UNKNOWN_DATE": "Unbekannt",
   "USER_OWN_ITEMS": "Mein Graasp",
   "USER_SHARED_WITH_ITEMS": "Mit mir geteilt",
+  "USER_NOT_SIGNED_IN": "Sie sind nicht angemeldet.",
+  "USER_CAN_NOT_ACCESS_ITEM": "Sie können nicht auf dieses Element zugreifen.",
   "CHAT_TOOLTIP": "Chat",
-
-  "BACK_BUTTON": "Zurück"
+  "LANGUAGE": "Sprache"
 }
