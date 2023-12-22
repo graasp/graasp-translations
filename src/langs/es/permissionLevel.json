@@ -1,1 +1,5 @@
-{}
+{
+  "read": "leer",
+  "write": "escribir",
+  "admin": "administración"
+}
