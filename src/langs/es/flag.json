@@ -1,1 +1,8 @@
-{}
+{
+  "inappropriate-content": "Contenido inapropiado",
+  "hate-speech": "El discurso del odio",
+  "fraud-plagiarism": "Fraude / Plagio",
+  "spam": "Correo basura",
+  "targeted-harassment": "Acoso dirigido",
+  "false-information": "Información falsa"
+}
