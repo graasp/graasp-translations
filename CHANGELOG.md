@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.22.0](https://github.com/graasp/graasp-translations/compare/v1.21.1...v1.22.0) (2024-01-08)
+
+
+### Features
+
+* add german translations ([#312](https://github.com/graasp/graasp-translations/issues/312)) ([36f0f05](https://github.com/graasp/graasp-translations/commit/36f0f0525169e6051a25c9516ac2db5ed9fc85ce))
+* add italian translations ([#314](https://github.com/graasp/graasp-translations/issues/314)) ([c3cafd6](https://github.com/graasp/graasp-translations/commit/c3cafd635a98b850e9eec8d752b1df1ea53d3cd7))
+* add spanish ([#309](https://github.com/graasp/graasp-translations/issues/309)) ([7f52ed8](https://github.com/graasp/graasp-translations/commit/7f52ed89d9b4da69d3d6254857e56a9891e0fd1a))
+* add spanish translations ([#313](https://github.com/graasp/graasp-translations/issues/313)) ([c85004c](https://github.com/graasp/graasp-translations/commit/c85004c0cc8690d2fae17d25ccec8b70a9411851))
+* remove auth ([#310](https://github.com/graasp/graasp-translations/issues/310)) ([246c30b](https://github.com/graasp/graasp-translations/commit/246c30b72e0a88c81eba69a1f4d52f9bdf4e3460))
+* update italian translations ([#311](https://github.com/graasp/graasp-translations/issues/311)) ([4f88c9a](https://github.com/graasp/graasp-translations/commit/4f88c9ac2e6a566e29e9e77fa993188a733d6792))
+
+
+### Bug Fixes
+
+* **deps:** update dependency i18next to v23.7.11 ([be8ba4b](https://github.com/graasp/graasp-translations/commit/be8ba4bc6042c87c16881fd301f4b2b6f47d9591))
+* **de:** update sport translation ([#319](https://github.com/graasp/graasp-translations/issues/319)) ([b35b12e](https://github.com/graasp/graasp-translations/commit/b35b12e8aeed45e71330182e994e847b43d97862))
+* **fr:** update translations ([#305](https://github.com/graasp/graasp-translations/issues/305)) ([8609684](https://github.com/graasp/graasp-translations/commit/8609684cc739beb1cc6bacd4a0255a5fdcea2d86))
+* udpate release-please condition ([360ba61](https://github.com/graasp/graasp-translations/commit/360ba6108f0f92759d220bd2ed2cf863ada8f3f8))
+
 ## [1.21.1](https://github.com/graasp/graasp-translations/compare/v1.21.0...v1.21.1) (2023-12-04)
 
 
