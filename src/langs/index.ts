@@ -10,12 +10,6 @@ import chatboxDE from './de/chatbox.json';
 import chatboxIT from './it/chatbox.json';
 import chatboxAR from './ar/chatbox.json';
 import chatboxES from './es/chatbox.json';
-import authEN from './en/auth.json';
-import authFR from './fr/auth.json';
-import authDE from './de/auth.json';
-import authIT from './it/auth.json';
-import authAR from './ar/auth.json';
-import authES from './es/auth.json';
 import categoriesEN from './en/categories.json';
 import categoriesFR from './fr/categories.json';
 import categoriesDE from './de/categories.json';
@@ -92,7 +86,6 @@ export const namespaces = {
 };
 
 const en = {
-  [namespaces.auth]: authEN,
   [namespaces.association]: associationEN,
   [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
@@ -110,7 +103,6 @@ const en = {
 };
 
 const fr = {
-  [namespaces.auth]: authFR,
   [namespaces.association]: associationFR,
   [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
@@ -129,7 +121,6 @@ const fr = {
 
 const de = {
   [namespaces.association]: associationDE,
-  [namespaces.auth]: authDE,
   [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
@@ -147,7 +138,6 @@ const de = {
 
 const it = {
   [namespaces.association]: associationIT,
-  [namespaces.auth]: authIT,
   [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
   [namespaces.common]: commonIT,
@@ -165,7 +155,6 @@ const it = {
 
 const ar = {
   [namespaces.association]: associationAR,
-  [namespaces.auth]: authAR,
   [namespaces.categories]: categoriesAR,
   [namespaces.chatbox]: chatboxAR,
   [namespaces.common]: commonAR,
@@ -183,7 +172,6 @@ const ar = {
 
 const es = {
   [namespaces.association]: associationES,
-  [namespaces.auth]: authES,
   [namespaces.categories]: categoriesES,
   [namespaces.chatbox]: chatboxES,
   [namespaces.common]: commonES,
