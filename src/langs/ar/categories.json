@@ -2,16 +2,26 @@
   "discipline": "الفرع",
   "level": "مستوى التعليم",
   "language": "اللغة",
-
+  "resource-type": "نوع المورد",
   "mathematics": "رياضيات",
   "literature": "الأدب",
   "social-science": "علوم اجتماعية",
   "natural-science": "العلوم الطبيعية",
   "arts": "الفنون",
+  "informatics": "المعلوماتية",
+  "physical-education": "التعليم الجسدي",
   "kindergarten": "روضة الأطفال",
   "primary-school": "المدرسة الإبتدائية",
   "lower-secondary-education": "المدرسة الإعدادية",
   "upper-secondary-education": "المدرسه الثانويه العليا",
   "vocation-training": "التّدريب المهني",
-  "higher-education": "التعليم العالي"
+  "higher-education": "التعليم العالي",
+  "english": "إنجليزي",
+  "french": "فرنسي",
+  "german": "ألمانية",
+  "arabic": "عربي",
+  "italian": "ايطالي",
+  "app": "طلب",
+  "template": "نموذج",
+  "collection": "مجموعة"
 }
