@@ -23,5 +23,7 @@
   "COL_STATUS": "حالة",
   "COL_MESSAGE": "رسالة",
   "COL_BY": "بواسطة",
-  "COL_ACTIONS": "إجراءات"
+  "COL_ACTIONS": "إجراءات",
+  "NOTIFICATIONS_DIALOG_TITLE": "إشعارات",
+  "EMPTY_NOTIFICATIONS": "لا إشعارات"
 }
