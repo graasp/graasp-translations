@@ -1,1 +1,8 @@
-{}
+{
+  "inappropriate-content": "محتوى غير لائق",
+  "hate-speech": "خطاب الكراهية",
+  "fraud-plagiarism": "الاحتيال / الانتحال",
+  "spam": "رسائل إلكترونية مزعجة",
+  "targeted-harassment": "التحرش المستهدف",
+  "false-information": "معلومات خاطئة"
+}
