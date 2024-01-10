@@ -6,6 +6,7 @@
   "SAVED_BUTTON": "تمّ الحِفْظ",
   "CANCEL_BUTTON": "إلغاء",
   "CLOSE_BUTTON": "إغلاق",
+  "BACK_BUTTON": "خلف",
   "AVATAR_DEFAULT_ALT": "الصورة الرمزية",
   "MEMBER_DEFAULT_NAME": "غير معروف",
   "UNKNOWN_DATE": "غير معروف",
@@ -13,5 +14,6 @@
   "USER_SHARED_WITH_ITEMS": "تمّ مشاركتي",
   "USER_NOT_SIGNED_IN": "أنت غير مسجل الدخول.",
   "USER_CAN_NOT_ACCESS_ITEM": "لا يمكنك الوصول إلى هذا العنصر.",
-  "CHAT_TOOLTIP": "دردشة"
+  "CHAT_TOOLTIP": "دردشة",
+  "LANGUAGE": "لغة"
 }
