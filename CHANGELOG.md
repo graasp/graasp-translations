@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.22.1](https://github.com/graasp/graasp-translations/compare/v1.22.0...v1.22.1) (2024-01-10)
+
+
+### Bug Fixes
+
+* **ar:** association ([#322](https://github.com/graasp/graasp-translations/issues/322)) ([d3e92b9](https://github.com/graasp/graasp-translations/commit/d3e92b9bcc2341597b091ea07aaf1256963a99fe))
+* **ar:** categories ([#323](https://github.com/graasp/graasp-translations/issues/323)) ([236700a](https://github.com/graasp/graasp-translations/commit/236700a4fa2e72def1105862844c2547a631fad6))
+* **ar:** chatbox ([#324](https://github.com/graasp/graasp-translations/issues/324)) ([4dddbde](https://github.com/graasp/graasp-translations/commit/4dddbde70606cdae726b3524f4b79c05db765856))
+* **ar:** common ([#325](https://github.com/graasp/graasp-translations/issues/325)) ([fab21a0](https://github.com/graasp/graasp-translations/commit/fab21a027930faf612629e776c7b775706ff7267))
+* **ar:** flag ([#326](https://github.com/graasp/graasp-translations/issues/326)) ([4f8d326](https://github.com/graasp/graasp-translations/commit/4f8d326e38dd3cdaf0e02490b4f5a8009a35890a))
+* **ar:** mail ([#327](https://github.com/graasp/graasp-translations/issues/327)) ([19ed42a](https://github.com/graasp/graasp-translations/commit/19ed42a14fb7c94cc18f1a180c7b607b02862ca6))
+* **deps:** update dependency i18next to v23.7.16 ([9280ad6](https://github.com/graasp/graasp-translations/commit/9280ad6facc840368c80d4ff91ed35472cfaf7fb))
+* **es:** association ([#330](https://github.com/graasp/graasp-translations/issues/330)) ([72523cf](https://github.com/graasp/graasp-translations/commit/72523cff70543c333e29964ec9c4dac340222143))
+* **it:** association ([#329](https://github.com/graasp/graasp-translations/issues/329)) ([83d12ea](https://github.com/graasp/graasp-translations/commit/83d12ea17abcc13d463cfff06a1766e2b13334f3))
+
 ## [1.22.0](https://github.com/graasp/graasp-translations/compare/v1.21.1...v1.22.0) (2024-01-08)
 
 
