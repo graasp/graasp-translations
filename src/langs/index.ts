@@ -52,12 +52,6 @@ import associationDE from './de/association.json';
 import associationIT from './it/association.json';
 import associationAR from './ar/association.json';
 import associationES from './es/association.json';
-import mailEN from './en/mail.json';
-import mailFR from './fr/mail.json';
-import mailDE from './de/mail.json';
-import mailIT from './it/mail.json';
-import mailAR from './ar/mail.json';
-import mailES from './es/mail.json';
 import flagEN from './en/flag.json';
 import flagFR from './fr/flag.json';
 import flagDE from './de/flag.json';
@@ -97,7 +91,6 @@ const en = {
     ...flagEN,
     ...maxWidthEN,
   },
-  [namespaces.mail]: mailEN,
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
 };
@@ -114,7 +107,6 @@ const fr = {
     ...flagFR,
     ...maxWidthFR,
   },
-  [namespaces.mail]: mailFR,
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
 };
@@ -131,7 +123,6 @@ const de = {
     ...flagDE,
     ...maxWidthDE,
   },
-  [namespaces.mail]: mailDE,
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
 };
@@ -148,7 +139,6 @@ const it = {
     ...flagIT,
     ...maxWidthIT,
   },
-  [namespaces.mail]: mailIT,
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
 };
@@ -165,7 +155,6 @@ const ar = {
     ...flagAR,
     ...maxWidthAR,
   },
-  [namespaces.mail]: mailAR,
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
 };
@@ -182,7 +171,6 @@ const es = {
     ...flagES,
     ...maxWidthES,
   },
-  [namespaces.mail]: mailES,
   [namespaces.messages]: messagesES,
   [namespaces.uppy]: uppyES,
 };
