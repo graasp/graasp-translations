@@ -123,5 +123,8 @@
   "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service.",
 
   "POST_PROFILE": "Your profile has been saved successfully",
-  "PATCH_PROFILE": "Your profile has been saved successfully"
+  "PATCH_PROFILE": "Your profile has been saved successfully",
+
+  "PUT_ITEM_GEOLOCATION": "The geolocation has been saved successfully",
+  "DELETE_ITEM_GEOLOCATION": "The geolocation has been deleted successfully"
 }

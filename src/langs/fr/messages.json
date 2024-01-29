@@ -112,5 +112,8 @@
   "INVALID_CONTEXT": "Le contexte donné n'est pas valide.",
   "SHORT_LINK_LIMIT_EXCEED": "Vous ne pouvez avoir qu'un seul lien court par service.",
   "POST_PROFILE": "Votre profil a été crée avec succès",
-  "PATCH_PROFILE": "Votre profil a été enregistré avec succès"
+  "PATCH_PROFILE": "Votre profil a été enregistré avec succès",
+
+  "PUT_ITEM_GEOLOCATION": "La géolocalisation a été enregistrée avec succès",
+  "DELETE_ITEM_GEOLOCATION": "La géolocalisation a été supprimée avec succès"
 }
