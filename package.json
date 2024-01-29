@@ -24,7 +24,7 @@
     "Jérémy La Scala"
   ],
   "dependencies": {
-    "i18next": "23.7.16"
+    "i18next": "23.7.20"
   },
   "scripts": {
     "prepack": "yarn build",
