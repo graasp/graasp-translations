@@ -691,7 +691,7 @@ __metadata:
     eslint-config-prettier: "npm:9.1.0"
     eslint-plugin-import: "npm:2.29.1"
     husky: "npm:9.0.6"
-    i18next: "npm:23.7.16"
+    i18next: "npm:23.8.1"
     jest: "npm:29.7.0"
     prettier: "npm:3.2.4"
     ts-jest: "npm:29.1.1"
@@ -3400,12 +3400,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18next@npm:23.7.16":
-  version: 23.7.16
-  resolution: "i18next@npm:23.7.16"
+"i18next@npm:23.8.1":
+  version: 23.8.1
+  resolution: "i18next@npm:23.8.1"
   dependencies:
     "@babel/runtime": "npm:^7.23.2"
-  checksum: 8e18d56970a468e0c3f38cf105d2eb22c2b275b596ecd3ac7193fe6e73a57705f3415b510ea761b702163278b975bcab6c15187f254d350fb0501baf66927168
+  checksum: f74ca2ead03e71bc8ca353c89e842b75042a52b52dcc5dfc14092469dcbc5d61f220fef536dfa95520de42baad0caa86c7a8abc1313a057ece9ba08ad8598bbf
   languageName: node
   linkType: hard
 
