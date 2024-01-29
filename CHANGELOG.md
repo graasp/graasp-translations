@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.23.0](https://github.com/graasp/graasp-translations/compare/v1.22.1...v1.23.0) (2024-01-29)
+
+
+### Features
+
+* add geolocation message translations ([#343](https://github.com/graasp/graasp-translations/issues/343)) ([7f12dd5](https://github.com/graasp/graasp-translations/commit/7f12dd5851def5199728a23184101ef4c54033af))
+
 ## [1.22.1](https://github.com/graasp/graasp-translations/compare/v1.22.0...v1.22.1) (2024-01-10)
 
 
