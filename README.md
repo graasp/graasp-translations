@@ -1,5 +1,7 @@
 # Graasp Translations
 
+[![gitlocalized ](https://gitlocalize.com/repo/7732/whole_project/badge.svg)](https://gitlocalize.com/repo/7732?utm_source=badge)
+
 Repo containing translations for graasp.
 
 ## Using translations in your app
