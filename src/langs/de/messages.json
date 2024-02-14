@@ -112,5 +112,7 @@
   "INVALID_CONTEXT": "Der angegebene Kontext ist ungültig.",
   "SHORT_LINK_LIMIT_EXCEED": "Sie können nicht mehr als einen Kurzlink pro Dienst haben.",
   "POST_PROFILE": "Ihr Profil wurde erfolgreich gespeichert",
-  "PATCH_PROFILE": "Ihr Profil wurde erfolgreich gespeichert"
+  "PATCH_PROFILE": "Ihr Profil wurde erfolgreich gespeichert",
+  "PUT_ITEM_GEOLOCATION": "Die Geolokalisierung wurde erfolgreich gespeichert",
+  "DELETE_ITEM_GEOLOCATION": "Die Geolokalisierung wurde erfolgreich gelöscht"
 }
