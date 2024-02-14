@@ -112,5 +112,7 @@
   "INVALID_CONTEXT": "Il contesto fornito non è valido.",
   "SHORT_LINK_LIMIT_EXCEED": "Non puoi avere più di un collegamento breve per servizio.",
   "POST_PROFILE": "Il tuo profilo è stato salvato con successo",
-  "PATCH_PROFILE": "Il tuo profilo è stato salvato con successo"
+  "PATCH_PROFILE": "Il tuo profilo è stato salvato con successo",
+  "PUT_ITEM_GEOLOCATION": "La geolocalizzazione è stata salvata con successo",
+  "DELETE_ITEM_GEOLOCATION": "La geolocalizzazione è stata eliminata con successo"
 }
