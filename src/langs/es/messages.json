@@ -21,12 +21,12 @@
   "MEMBER_NOT_SIGNED_UP": "No se encontró ninguna cuenta para este correo electrónico",
   "MEMBER_WITHOUT_PASSWORD": "Esta cuenta no tiene contraseña configurada",
   "INCORRECT_PASSWORD": "La contraseña enviada es incorrecta para esta cuenta.",
-  "TOKEN_EXPIRED": "Su sesión ha caducado",
+  "TOKEN_EXPIRED": "Tu sesión ha caducado",
   "INVALID_TOKEN": "Tu sesión no es válida",
-  "INVALID_SESSION": "Su sesión ha caducado",
-  "ORPHAN_SESSION": "Su sesión ha caducado",
+  "INVALID_SESSION": "Tu sesión ha caducado",
+  "ORPHAN_SESSION": "Tu sesión ha caducado",
   "DATABASE_ERROR": "Se produjo un error inesperado a nivel de base de datos.",
-  "UNEXPECTED_ERROR": "ocurrió un error inesperado",
+  "UNEXPECTED_ERROR": "Ocurrió un error inesperado",
   "STORAGE_EXCEEDED": "Excediste tu almacenamiento de archivos permitido",
   "FILE_SIZE_NOT_FOUND": "No se pudo calcular el tamaño del archivo",
   "FILE_IS_NOT_IMAGE": "El archivo no es una imagen.",
@@ -112,5 +112,7 @@
   "INVALID_CONTEXT": "El contexto dado no es válido.",
   "SHORT_LINK_LIMIT_EXCEED": "No puedes tener más de un enlace corto por servicio.",
   "POST_PROFILE": "Tu perfil ha sido guardado exitosamente",
-  "PATCH_PROFILE": "Tu perfil ha sido guardado exitosamente"
+  "PATCH_PROFILE": "Tu perfil ha sido guardado exitosamente",
+  "PUT_ITEM_GEOLOCATION": "La geolocalización se ha guardado correctamente.",
+  "DELETE_ITEM_GEOLOCATION": "La geolocalización se ha eliminado con éxito."
 }
