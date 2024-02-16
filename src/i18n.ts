@@ -1,6 +1,6 @@
 import i18n from 'i18next';
 
-import { ar, de, en, fr, it, namespaces } from './langs';
+import { ar, de, en, fr, it, namespaces } from './langs/index.js';
 
 export const DEFAULT_LANG = 'en';
 
