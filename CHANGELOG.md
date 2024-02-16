@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.24.0](https://github.com/graasp/graasp-translations/compare/v1.23.0...v1.24.0) (2024-02-16)
+
+
+### Features
+
+* add spanish translations ([#359](https://github.com/graasp/graasp-translations/issues/359)) ([69958d8](https://github.com/graasp/graasp-translations/commit/69958d812c7a3f0ae2ae596800263a07a79f8fe8))
+
+
+### Bug Fixes
+
+* **ar:** update maxWidth arabic trans ([#355](https://github.com/graasp/graasp-translations/issues/355)) ([06be93a](https://github.com/graasp/graasp-translations/commit/06be93aa2f8662df3714e64e339feed5aad13779))
+* **ar:** update message translations ([#356](https://github.com/graasp/graasp-translations/issues/356)) ([3015de1](https://github.com/graasp/graasp-translations/commit/3015de1b1e313fdcfd9c4cda92010d01a6abf3fd))
+* **deps:** update dependency i18next to v23.8.2 ([#348](https://github.com/graasp/graasp-translations/issues/348)) ([f7dabbe](https://github.com/graasp/graasp-translations/commit/f7dabbed03505b110ead427b333ad2cad12b8d11))
+* **de:** update geolocation message ([#353](https://github.com/graasp/graasp-translations/issues/353)) ([dacfa5e](https://github.com/graasp/graasp-translations/commit/dacfa5ef76dd51341f1ea5a9e5a78c229fead558))
+* **it:** update geolocation messages ([#354](https://github.com/graasp/graasp-translations/issues/354)) ([1bb8d18](https://github.com/graasp/graasp-translations/commit/1bb8d18462e166dfbf990484b0641d3ac61a5c1d))
+* test esm package ([#358](https://github.com/graasp/graasp-translations/issues/358)) ([5917795](https://github.com/graasp/graasp-translations/commit/5917795e7f423f8c3c0b251297419f50e379f7db))
+* update deps ([203c92c](https://github.com/graasp/graasp-translations/commit/203c92c72425cf55a40ba5e01284728fa199b706))
+* update package.json ([096d441](https://github.com/graasp/graasp-translations/commit/096d441832028879328bd3cefeb754061485a7a7))
+
 ## [1.23.0](https://github.com/graasp/graasp-translations/compare/v1.22.1...v1.23.0) (2024-01-29)
 
 
