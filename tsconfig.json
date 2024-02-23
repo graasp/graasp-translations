@@ -4,12 +4,11 @@
     "module": "NodeNext",
     "strict": true,
     "outDir": "dist",
-    "esModuleInterop": true,
     "skipLibCheck": true,
     "declaration": true,
     "moduleResolution": "NodeNext",
-    "resolveJsonModule": true,
+    "resolveJsonModule": true
   },
   "include": ["src/**/*"],
-  "exclude": ["test", "src/**/*.test.ts"],
+  "exclude": ["test", "src/**/*.test.ts"]
 }
