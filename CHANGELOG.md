@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.25.1](https://github.com/graasp/graasp-translations/compare/v1.25.0...v1.25.1) (2024-02-23)
+
+
+### Bug Fixes
+
+* **association:** add VP Product ([#367](https://github.com/graasp/graasp-translations/issues/367)) ([1703742](https://github.com/graasp/graasp-translations/commit/17037428e0b33eb0c9300727c6fd7e4edd4edf6a))
+
 ## [1.25.0](https://github.com/graasp/graasp-translations/compare/v1.24.0...v1.25.0) (2024-02-23)
 
 
