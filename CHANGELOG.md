@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.25.0](https://github.com/graasp/graasp-translations/compare/v1.24.0...v1.25.0) (2024-02-23)
+
+
+### Features
+
+* **association:** update titles ([#365](https://github.com/graasp/graasp-translations/issues/365)) ([e480e09](https://github.com/graasp/graasp-translations/commit/e480e09e7d8891e3094a37e0055f29e15b8c528e))
+
+
+### Bug Fixes
+
+* add import assertion for json modules ([#363](https://github.com/graasp/graasp-translations/issues/363)) ([54e5be3](https://github.com/graasp/graasp-translations/commit/54e5be3e32199748c1e9297c9650656359e9297d))
+* tsconfig ([#366](https://github.com/graasp/graasp-translations/issues/366)) ([af6b115](https://github.com/graasp/graasp-translations/commit/af6b115fee210814f944637f4768dc47c1b969bb))
+
 ## [1.24.0](https://github.com/graasp/graasp-translations/compare/v1.23.0...v1.24.0) (2024-02-16)
 
 
