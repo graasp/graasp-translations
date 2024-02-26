@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.25.2](https://github.com/graasp/graasp-translations/compare/v1.25.1...v1.25.2) (2024-02-26)
+
+
+### Bug Fixes
+
+* **italian:** add some missing translations ([#369](https://github.com/graasp/graasp-translations/issues/369)) ([8a59d31](https://github.com/graasp/graasp-translations/commit/8a59d3103294583f80d0a621aaa0a2a7f4a252b1))
+
 ## [1.25.1](https://github.com/graasp/graasp-translations/compare/v1.25.0...v1.25.1) (2024-02-23)
 
 
