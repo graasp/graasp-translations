@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.25.3](https://github.com/graasp/graasp-translations/compare/v1.25.2...v1.25.3) (2024-03-14)
+
+
+### Bug Fixes
+
+* **german:** update association translations ([#384](https://github.com/graasp/graasp-translations/issues/384)) ([cfbd47f](https://github.com/graasp/graasp-translations/commit/cfbd47fe41368b1d29a57ea5ba8cbecf86505e50))
+* **spanish:** update association translations ([#382](https://github.com/graasp/graasp-translations/issues/382)) ([a435caf](https://github.com/graasp/graasp-translations/commit/a435caf51d8d07fa38d96cf21c0b7c47ec393638))
+
 ## [1.25.2](https://github.com/graasp/graasp-translations/compare/v1.25.1...v1.25.2) (2024-02-26)
 
 
