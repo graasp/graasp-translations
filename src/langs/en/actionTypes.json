@@ -1,0 +1,19 @@
+{
+  "collection-view": "collection view",
+  "chat_clear": "clear chat",
+  "chat_delete": "delete chat",
+  "chat_update": "update chat",
+  "chat_create": "create chat",
+  "delete": "item delete",
+  "update": "item update",
+  "copy": "item copy",
+  "create": "create item",
+  "move": "move item",
+  "item-search": "item search",
+  "item-embed": "embed item",
+  "item-unlike": "unlike item",
+  "item-like": "like item",
+  "item-download": "download item",
+  "link-open": "open link",
+  "item-view": "view item"
+}

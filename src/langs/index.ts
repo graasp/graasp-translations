@@ -64,6 +64,12 @@ import maxWidthDE from './de/maxWidth.json' with { type: 'json' };
 import maxWidthIT from './it/maxWidth.json' with { type: 'json' };
 import maxWidthAR from './ar/maxWidth.json' with { type: 'json' };
 import maxWidthES from './es/maxWidth.json' with { type: 'json' };
+import actionTypesEN from './en/actionTypes.json' with { type: 'json' };
+import actionTypesFR from './fr/actionTypes.json' with { type: 'json' };
+import actionTypesDE from './de/actionTypes.json' with { type: 'json' };
+import actionTypesIT from './it/actionTypes.json' with { type: 'json' };
+import actionTypesAR from './ar/actionTypes.json' with { type: 'json' };
+import actionTypesES from './es/actionTypes.json' with { type: 'json' };
 
 // define namespaces
 export const namespaces = {
@@ -77,6 +83,7 @@ export const namespaces = {
   mail: 'mail',
   messages: 'messages',
   uppy: 'uppy',
+  actionTypes: 'actionTypes',
 };
 
 const en = {
@@ -93,6 +100,7 @@ const en = {
   },
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
+  [namespaces.actionTypes]: actionTypesEN,
 };
 
 const fr = {
@@ -109,6 +117,7 @@ const fr = {
   },
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
+  [namespaces.actionTypes]: actionTypesFR,
 };
 
 const de = {
@@ -125,6 +134,7 @@ const de = {
   },
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
+  [namespaces.actionTypes]: actionTypesDE,
 };
 
 const it = {
@@ -141,6 +151,7 @@ const it = {
   },
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
+  [namespaces.actionTypes]: actionTypesIT,
 };
 
 const ar = {
@@ -157,6 +168,7 @@ const ar = {
   },
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
+  [namespaces.actionTypes]: actionTypesAR,
 };
 
 const es = {
@@ -173,6 +185,7 @@ const es = {
   },
   [namespaces.messages]: messagesES,
   [namespaces.uppy]: uppyES,
+  [namespaces.actionTypes]: actionTypesES,
 };
 
 // other supported languages here
