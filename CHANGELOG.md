@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.0](https://github.com/graasp/graasp-translations/compare/v1.25.3...v1.26.0) (2024-04-11)
+
+
+### Features
+
+* add action types translation ([#393](https://github.com/graasp/graasp-translations/issues/393)) ([361b857](https://github.com/graasp/graasp-translations/commit/361b85780610fb5b9c5782a0309b1c6a246e3577))
+
 ## [1.25.3](https://github.com/graasp/graasp-translations/compare/v1.25.2...v1.25.3) (2024-03-14)
 
 
