@@ -1,1 +1,19 @@
-{}
+{
+  "collection-view": "voir la collection",
+  "chat_clear": "suppression de tous les messages de la discussion",
+  "chat_delete": "suppression d'un message dans la discussion",
+  "chat_update": "modification d'un message dans la discussion",
+  "chat_create": "envoyer un message dans la discussion",
+  "delete": "suppression",
+  "update": "modification",
+  "copy": "copie",
+  "create": "création",
+  "move": "déplacement",
+  "item-search": "recherche d'un élément",
+  "item-embed": "copie du code d'intégration d'un élément",
+  "item-unlike": "retirer un j'aime d'un élément",
+  "item-like": "aimer un élément",
+  "item-download": "téléchargement d'un élément",
+  "link-open": "ouverture du lien",
+  "item-view": "voir l'élément"
+}
