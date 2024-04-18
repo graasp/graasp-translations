@@ -126,5 +126,7 @@
   "PATCH_PROFILE": "Your profile has been saved successfully",
 
   "PUT_ITEM_GEOLOCATION": "The geolocation has been saved successfully",
-  "DELETE_ITEM_GEOLOCATION": "The geolocation has been deleted successfully"
+  "DELETE_ITEM_GEOLOCATION": "The geolocation has been deleted successfully",
+
+  "DELETE_ITEM_THUMBNAIL": "The thumbnail was successfully deleted"
 }
