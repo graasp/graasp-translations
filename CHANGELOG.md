@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.27.0](https://github.com/graasp/graasp-translations/compare/v1.26.0...v1.27.0) (2024-04-18)
+
+
+### Features
+
+* add delete thumbnail success msg ([#404](https://github.com/graasp/graasp-translations/issues/404)) ([b23898d](https://github.com/graasp/graasp-translations/commit/b23898d32ba45aca7e663f8efaf652d455da9567))
+
 ## [1.26.0](https://github.com/graasp/graasp-translations/compare/v1.25.3...v1.26.0) (2024-04-11)
 
 
