@@ -1,1 +1,19 @@
-{}
+{
+  "collection-view": "عرض المجموعة",
+  "chat_clear": "تنظيف الدردشة",
+  "chat_delete": "حذف الدردشة",
+  "chat_update": "تحديث الدردشة",
+  "chat_create": "إنشاء دردشة",
+  "delete": "حذف العنصر",
+  "update": "تحديث",
+  "copy": "نسخ",
+  "create": "إنشاء",
+  "move": "نقل",
+  "item-search": "بحث عن العنصر",
+  "item-embed": "تضمين العنصر",
+  "item-unlike": "إلغاء إعجاب العنصر",
+  "item-like": "إعجاب العنصر",
+  "item-download": "تنزيل العنصر",
+  "link-open": "فتح الرابط",
+  "item-view": "عرض العنصر"
+}
