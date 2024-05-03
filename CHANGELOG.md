@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.28.0](https://github.com/graasp/graasp-translations/compare/v1.27.0...v1.28.0) (2024-05-03)
+
+
+### Features
+
+* add arabic translations ([#401](https://github.com/graasp/graasp-translations/issues/401)) ([33c2297](https://github.com/graasp/graasp-translations/commit/33c229755bf9d4743fa7820f5b4b223062a605a2))
+
+
+### Bug Fixes
+
+* add confirm button constant ([#411](https://github.com/graasp/graasp-translations/issues/411)) ([4d10fff](https://github.com/graasp/graasp-translations/commit/4d10fff137b58d077873c1810b85e2e921145171))
+
 ## [1.27.0](https://github.com/graasp/graasp-translations/compare/v1.26.0...v1.27.0) (2024-04-18)
 
 
