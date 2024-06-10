@@ -1,5 +1,5 @@
 {
-  "discipline": "Disziplin",
+  "discipline": "Fachbereich",
   "level": "Bildungsniveau",
   "language": "Sprache",
   "resource-type": "Ressourcentyp",
@@ -7,7 +7,7 @@
   "literature": "Literatur",
   "social-science": "Sozialwissenschaft",
   "natural-science": "Naturwissenschaft",
-  "arts": "Kunst",
+  "arts": "Kunst und Gestalten",
   "informatics": "Informatik",
   "physical-education": "Sport",
   "kindergarten": "Kindergarten",
