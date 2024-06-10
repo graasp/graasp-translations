@@ -1,1 +1,19 @@
-{}
+{
+  "collection-view": "Kollektion wurde angesehen",
+  "chat_clear": "Chat löschen",
+  "chat_delete": "Chat löschen",
+  "chat_update": "Chat aktualisieren",
+  "chat_create": "Chat erstellen",
+  "delete": "Element löschen",
+  "update": "Artikel aktualisieren",
+  "copy": "Artikel kopieren",
+  "create": "Artikel erstellen",
+  "move": "Artikel verschieben",
+  "item-search": "Suchbegriff",
+  "item-embed": "Element einbetten",
+  "item-unlike": "Artikel unliken",
+  "item-like": "Artikel liken",
+  "item-download": "Artikel herunterladen",
+  "link-open": "Verbindung öffnen",
+  "item-view": "Artikel ansehen"
+}
