@@ -114,5 +114,6 @@
   "POST_PROFILE": "Ihr Profil wurde erfolgreich gespeichert",
   "PATCH_PROFILE": "Ihr Profil wurde erfolgreich gespeichert",
   "PUT_ITEM_GEOLOCATION": "Die Geolokalisierung wurde erfolgreich gespeichert",
-  "DELETE_ITEM_GEOLOCATION": "Die Geolokalisierung wurde erfolgreich gelöscht"
+  "DELETE_ITEM_GEOLOCATION": "Die Geolokalisierung wurde erfolgreich gelöscht",
+  "DELETE_ITEM_THUMBNAIL": "Das Miniaturbild wurde erfolgreich gelöscht"
 }
