@@ -5,9 +5,22 @@
   "engines": {
     "node": ">=20.0.0"
   },
-  "main": "./dist/index.js",
+  "main": "./cjs/index.cjs",
+  "module": "./esm/index.js",
   "types": "./dist/index.d.ts",
   "source": "./src/index.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./esm/index.d.ts",
+        "default": "./esm/index.js"
+      },
+      "require": {
+        "types": "./cjs/index.d.ts",
+        "default": "./cjs/index.cjs"
+      }
+    }
+  },
   "description": "Graasp Translations",
   "repository": {
     "type": "git",
@@ -27,6 +40,9 @@
   "scripts": {
     "prepack": "yarn build",
     "prepare": "yarn build && yarn hooks:install",
+    "build": "yarn build:esm && yarn build:cjs",
+    "build:cjs": "vite build && echo '{\"type\": \"commonjs\"}' > cjs/package.json",
+    "build:esm": "tsc -p tsconfig.esm.json && tsc-alias -p tsconfig.esm.json && echo '{\"type\": \"module\"}' > esm/package.json",
     "prettier:check": "prettier --check {src,test}/**/*.{js,ts,tsx,json}",
     "prettier:write": "prettier --write {src,test}/**/*.{js,ts,tsx,json}",
     "hooks:uninstall": "husky uninstall",
@@ -37,8 +53,7 @@
     "type-check": "yarn tsc --noEmit",
     "check": "yarn prettier:check && yarn lint && yarn type-check",
     "pre-commit": "yarn check",
-    "post-commit": "git status",
-    "build": "tsc"
+    "post-commit": "git status"
   },
   "peerDependencies": {
     "i18next": "^23.8.1"
@@ -59,7 +74,12 @@
     "prettier": "3.3.2",
     "ts-jest": "29.1.4",
     "ts-node": "10.9.2",
-    "typescript": "5.4.5"
+    "tsc-alias": "1.8.10",
+    "typescript": "5.4.5",
+    "vite": "5.3.1"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.0",
+  "dependencies": {
+    "vite-plugin-dts": "3.9.1"
+  }
 }

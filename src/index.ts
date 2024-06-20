@@ -1,5 +1,5 @@
 export { namespaces } from './langs/index.js';
-export { default, langs, DEFAULT_LANG } from './i18n.js';
+export { buildI18n, langs, DEFAULT_LANG } from './i18n.js';
 
 export * from './constants/association.js';
 export * from './constants/categories.js';
