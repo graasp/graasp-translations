@@ -5,9 +5,6 @@
   "engines": {
     "node": ">=20.0.0"
   },
-  "main": "./cjs/index.cjs",
-  "module": "./esm/index.js",
-  "types": "./dist/index.d.ts",
   "source": "./src/index.ts",
   "exports": {
     ".": {
@@ -85,6 +82,7 @@
     "vite-plugin-dts": "3.9.1"
   },
   "unbuild": {
-    "outDir": "cjs"
+    "outDir": "cjs",
+    "failOnWarn": false
   }
 }
