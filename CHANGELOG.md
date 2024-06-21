@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.28.2](https://github.com/graasp/graasp-translations/compare/v1.28.1...v1.28.2) (2024-06-21)
+
+
+### Bug Fixes
+
+* **build:** create a commonJs bundle ([#427](https://github.com/graasp/graasp-translations/issues/427)) ([4056d62](https://github.com/graasp/graasp-translations/commit/4056d624a5e65e54b97a3120c38ce623c2aab622))
+
 ## [1.28.1](https://github.com/graasp/graasp-translations/compare/v1.28.0...v1.28.1) (2024-06-12)
 
 
