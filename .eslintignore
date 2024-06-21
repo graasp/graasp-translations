@@ -3,3 +3,6 @@ public
 coverage
 src/serviceWorker.js
 cypress/integration/examples
+dist
+cjs
+esm

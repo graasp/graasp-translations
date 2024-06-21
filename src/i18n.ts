@@ -4,7 +4,10 @@ import { ar, de, en, fr, it, namespaces } from './langs/index.js';
 
 export const DEFAULT_LANG = 'en';
 
-const buildI18n = (defaultNamespace = namespaces.messages, debug?: boolean) => {
+export const buildI18n = (
+  defaultNamespace = namespaces.messages,
+  debug?: boolean,
+) => {
   i18n.init({
     resources: {
       en,
@@ -31,7 +34,7 @@ const buildI18n = (defaultNamespace = namespaces.messages, debug?: boolean) => {
   return i18n;
 };
 
-const langs = {
+export const langs = {
   // bg: "български",
   // ca: "Català",
   // cs: "čeština",
@@ -63,7 +66,3 @@ const langs = {
   // zh_tw: "繁體中文",
   ar: 'العربية',
 };
-
-export { langs };
-
-export default buildI18n;
