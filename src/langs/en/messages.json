@@ -34,6 +34,8 @@
 
   "INVALID_UPLOAD_PARAMETERS": "One or many upload parameters are invalid",
   "UPLOAD_EMPTY_FILE": "Cannot upload an empty file",
+  "UPLOAD_TOO_MANY_FILES": "Cannot upload too many files",
+  "UPLOAD_BIG_FILES": "Cannot upload big files",
   "INVALID_FILE_PATH_FOR_COPY": "The submitted file path is invalid for copy",
   "INVALID_FILE_PATH_FOR_DELETE": "The submitted file path is invalid for delete",
   "INVALID_FOLDER_PATH_FOR_DELETE": "The submitted folder path is invalid for delete",
