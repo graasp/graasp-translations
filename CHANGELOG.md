@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.0](https://github.com/graasp/graasp-translations/compare/v1.28.2...v1.29.0) (2024-06-24)
+
+
+### Features
+
+* add upload failure messages ([#432](https://github.com/graasp/graasp-translations/issues/432)) ([7992323](https://github.com/graasp/graasp-translations/commit/7992323e96abd25c6c3b1a82f68898d7afcc65c0))
+
 ## [1.28.2](https://github.com/graasp/graasp-translations/compare/v1.28.1...v1.28.2) (2024-06-21)
 
 
