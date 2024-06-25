@@ -27,6 +27,7 @@
   "ORPHAN_SESSION": "Your session has expired",
   "DATABASE_ERROR": "An unexpected error occurred at the database level",
   "UNEXPECTED_ERROR": "An unexpected error occurred",
+  "EMAIL_ALREADY_TAKEN": "This email is already taken",
 
   "STORAGE_EXCEEDED": "You exceeded your allowed file storage",
   "FILE_SIZE_NOT_FOUND": "The file size could not be calculated",
