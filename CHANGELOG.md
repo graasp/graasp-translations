@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.30.0](https://github.com/graasp/graasp-translations/compare/v1.29.0...v1.30.0) (2024-06-25)
+
+
+### Features
+
+* email already taken failure message ([#436](https://github.com/graasp/graasp-translations/issues/436)) ([8000c9d](https://github.com/graasp/graasp-translations/commit/8000c9d568567d6ed8188a595fe2d4c635a968d2))
+
+
+### Bug Fixes
+
+* update releas-please ([#431](https://github.com/graasp/graasp-translations/issues/431)) ([6497d77](https://github.com/graasp/graasp-translations/commit/6497d771519dbb5546d3de8686b9519eece5bf64))
+
 ## [1.29.0](https://github.com/graasp/graasp-translations/compare/v1.28.2...v1.29.0) (2024-06-24)
 
 
