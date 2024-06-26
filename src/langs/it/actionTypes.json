@@ -1,1 +1,19 @@
-{}
+{
+  "collection-view": "visualizzare la raccolta",
+  "chat_clear": "chiacchierata chiara",
+  "chat_delete": "eliminare la chat",
+  "chat_update": "aggiornare la chat",
+  "chat_create": "creare chat",
+  "delete": "cancella oggetto",
+  "update": "elemento di aggiornamento",
+  "copy": "copiare l'elemento",
+  "create": "creare elemento",
+  "move": "spostare l'elemento",
+  "item-search": "elemento di ricerca",
+  "item-embed": "incorporare l'elemento",
+  "item-unlike": "a differenza dell'oggetto",
+  "item-like": "come oggetto",
+  "item-download": "scaricare l'elemento",
+  "link-open": "link aperto",
+  "item-view": "visualizzare l'elemento"
+}
