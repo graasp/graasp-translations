@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.2](https://github.com/graasp/graasp-translations/compare/v1.30.1...v1.30.2) (2024-06-26)
+
+
+### Bug Fixes
+
+* add extra small translation ([69ef966](https://github.com/graasp/graasp-translations/commit/69ef966e3828acd302009b2456f834894d1846f9))
+
 ## [1.30.1](https://github.com/graasp/graasp-translations/compare/v1.30.0...v1.30.1) (2024-06-26)
 
 
