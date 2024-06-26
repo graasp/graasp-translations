@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.30.1](https://github.com/graasp/graasp-translations/compare/v1.30.0...v1.30.1) (2024-06-26)
+
+
+### Bug Fixes
+
+* **french:** messages translation ([#442](https://github.com/graasp/graasp-translations/issues/442)) ([1cf87b9](https://github.com/graasp/graasp-translations/commit/1cf87b9e4c5a1d8b7504671b5287ae2d595f8dd6))
+* **german:** messages translation ([#446](https://github.com/graasp/graasp-translations/issues/446)) ([71e76a4](https://github.com/graasp/graasp-translations/commit/71e76a459070ad990738a5fe2c9c92cb53ddd652))
+* **italian:** action type translation ([#443](https://github.com/graasp/graasp-translations/issues/443)) ([d805e1f](https://github.com/graasp/graasp-translations/commit/d805e1fe38f930080d570e5b8104e42bbf15a721))
+* **italian:** common translation ([#444](https://github.com/graasp/graasp-translations/issues/444)) ([8246853](https://github.com/graasp/graasp-translations/commit/8246853eafa37f36c410d8c4c63aec568fa810b4))
+* **italian:** messages translation ([#445](https://github.com/graasp/graasp-translations/issues/445)) ([46b3821](https://github.com/graasp/graasp-translations/commit/46b3821083d852479a9b64ff90aa4cd2eff332cd))
+* **spanish:** action type translations ([#439](https://github.com/graasp/graasp-translations/issues/439)) ([ced29db](https://github.com/graasp/graasp-translations/commit/ced29db467566feae6aea3cd18aafa4cd4d4e01f))
+* **spanish:** common messages translations ([#440](https://github.com/graasp/graasp-translations/issues/440)) ([3dbabb9](https://github.com/graasp/graasp-translations/commit/3dbabb919e021382f23e8f3a5c1403bda787055b))
+* **spanish:** messages translations ([#441](https://github.com/graasp/graasp-translations/issues/441)) ([ff7590e](https://github.com/graasp/graasp-translations/commit/ff7590e044617a49fb1612f726b2e1ced8bb5268))
+
 ## [1.30.0](https://github.com/graasp/graasp-translations/compare/v1.29.0...v1.30.0) (2024-06-25)
 
 
