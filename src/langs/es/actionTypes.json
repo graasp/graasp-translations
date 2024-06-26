@@ -1,1 +1,19 @@
-{}
+{
+  "collection-view": "ver colección",
+  "chat_clear": "Vacie la conversacion",
+  "chat_delete": "eliminar chat",
+  "chat_update": "actualizar chat",
+  "chat_create": "crear chat",
+  "delete": "Eliminar elemento",
+  "update": "actualizar elemento",
+  "copy": "copiar elemento",
+  "create": "crear elemento",
+  "move": "mover elemento",
+  "item-search": "elemento de búsqueda",
+  "item-embed": "insertar elemento",
+  "item-unlike": "a diferencia del artículo",
+  "item-like": "Me gusta el artículo",
+  "item-download": "descargar elemento",
+  "link-open": "enlace abierto",
+  "item-view": "ver ítem"
+}
