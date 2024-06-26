@@ -27,11 +27,14 @@
   "ORPHAN_SESSION": "la tua sessione è scaduta",
   "DATABASE_ERROR": "Si è verificato un errore imprevisto a livello di database",
   "UNEXPECTED_ERROR": "Si è verificato un errore imprevisto",
+  "EMAIL_ALREADY_TAKEN": "Questo indirizzo email è già utilizzato",
   "STORAGE_EXCEEDED": "Hai superato lo spazio di archiviazione file consentito",
   "FILE_SIZE_NOT_FOUND": "Impossibile calcolare la dimensione del file",
   "FILE_IS_NOT_IMAGE": "Il file non è un'immagine",
   "INVALID_UPLOAD_PARAMETERS": "Uno o più parametri di caricamento non sono validi",
   "UPLOAD_EMPTY_FILE": "Impossibile caricare un file vuoto",
+  "UPLOAD_TOO_MANY_FILES": "Impossibile caricare troppi file",
+  "UPLOAD_BIG_FILES": "Impossibile caricare file di grandi dimensioni",
   "INVALID_FILE_PATH_FOR_COPY": "Il percorso del file inviato non è valido per la copia",
   "INVALID_FILE_PATH_FOR_DELETE": "Il percorso del file inviato non è valido per l'eliminazione",
   "INVALID_FOLDER_PATH_FOR_DELETE": "Il percorso della cartella inviata non è valido per l'eliminazione",
@@ -114,5 +117,6 @@
   "POST_PROFILE": "Il tuo profilo è stato salvato con successo",
   "PATCH_PROFILE": "Il tuo profilo è stato salvato con successo",
   "PUT_ITEM_GEOLOCATION": "La geolocalizzazione è stata salvata con successo",
-  "DELETE_ITEM_GEOLOCATION": "La geolocalizzazione è stata eliminata con successo"
+  "DELETE_ITEM_GEOLOCATION": "La geolocalizzazione è stata eliminata con successo",
+  "DELETE_ITEM_THUMBNAIL": "La miniatura è stata eliminata con successo"
 }
