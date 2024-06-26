@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.3](https://github.com/graasp/graasp-translations/compare/v1.30.2...v1.30.3) (2024-06-26)
+
+
+### Bug Fixes
+
+* allow default export to be used ([#449](https://github.com/graasp/graasp-translations/issues/449)) ([8dcf862](https://github.com/graasp/graasp-translations/commit/8dcf862c210d8c17a9f79104363f886fd27d468d))
+
 ## [1.30.2](https://github.com/graasp/graasp-translations/compare/v1.30.1...v1.30.2) (2024-06-26)
 
 
