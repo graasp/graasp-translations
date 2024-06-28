@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.0](https://github.com/graasp/graasp-translations/compare/v1.30.3...v1.31.0) (2024-06-28)
+
+
+### Features
+
+* add reorder message ([#451](https://github.com/graasp/graasp-translations/issues/451)) ([4ffb9dc](https://github.com/graasp/graasp-translations/commit/4ffb9dc79128c0f9dfaf88b2e0f9fb69f6881ac7))
+
 ## [1.30.3](https://github.com/graasp/graasp-translations/compare/v1.30.2...v1.30.3) (2024-06-26)
 
 
