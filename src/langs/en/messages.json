@@ -28,11 +28,9 @@
   "DATABASE_ERROR": "An unexpected error occurred at the database level",
   "UNEXPECTED_ERROR": "An unexpected error occurred",
   "EMAIL_ALREADY_TAKEN": "This email is already taken",
-
   "STORAGE_EXCEEDED": "You exceeded your allowed file storage",
   "FILE_SIZE_NOT_FOUND": "The file size could not be calculated",
   "FILE_IS_NOT_IMAGE": "The file is not an image",
-
   "INVALID_UPLOAD_PARAMETERS": "One or many upload parameters are invalid",
   "UPLOAD_EMPTY_FILE": "Cannot upload an empty file",
   "UPLOAD_TOO_MANY_FILES": "Cannot upload too many files",
@@ -45,7 +43,6 @@
   "S3_FILE_NOT_FOUND": "The S3 file is not found",
   "UPLOAD_FILE_UNEXPECTED_ERROR": "An unexpected error happened while uploading a file",
   "DOWNLOAD_FILE_UNEXPECTED_ERROR": "An unexpected error happened while downloading a file",
-
   "RESTORE_ITEMS": "You successfully restored the item(s)",
   "CREATE_ITEM": "The item was successfully created",
   "DELETE_ITEM": "The item was successfully deleted",
@@ -75,13 +72,13 @@
   "IMPORT_H5P": "The H5P package was successfully imported",
   "DELETE_MEMBER": "The account was successfully deleted",
   "UPDATE_PASSWORD": "The password was updated successfully",
+  "UPDATE_EMAIL": "A validation request has been sent to the new email",
+  "VALIDATE_EMAIL": "The new email has been validated and can now be used",
   "DELETE_ITEM_LOGIN_SCHEMA": "The item login schema was deleted successfully",
   "PUT_ITEM_LOGIN_SCHEMA": "The item login schema was updated successfully",
-
   "INVALID_ARCHIVE_FILE": "The submitted file is not a zip archive",
   "INVALID_FILE_ITEM": "The file's properties are invalid",
   "UNEXPECTED_EXPORT_ERROR": "An error occurred while exporting the zip file",
-
   "NOT_APP_ITEM": "The targeted item is not an application item",
   "INVALID_APP_ORIGIN": "The application does not match its registered origin",
   "TOKEN_ITEM_ID_MISMATCH": "The auth token does not match the targeted item",
@@ -92,31 +89,26 @@
   "PREVENT_APP_DATA_FILE_UPDATE": "File app data cannot be updated",
   "PREVENT_APP_SETTING_FILE_UPDATE": "File app setting cannot be updated",
   "FILE_SERVICE_NOT_DEFINED": "The file service or type is not defined",
-
   "CANNOT_COPY_RECYCLED_ITEM": "A trashed item cannot be copied",
   "CANNOT_MOVE_RECYCLED_ITEM": "A trashed item cannot be moved",
   "CANNOT_DELETE_RECYCLED_ITEM": "A trashed item cannot be deleted",
   "CANNOT_GET_RECYCLED_ITEM": "A trashed item cannot be read",
   "INVALID_ITEM_STATUS": "The item does not satisfy the requirements",
-
   "COPY_LINK_TO_CLIPBOARD_ERROR": "Unable to copy the link to the clipboard",
   "COPY_LINK_TO_CLIPBOARD": "Link copied to clipboard",
   "REQUEST_MESSAGES_RECYCLE_ITEMS": "The selected item(s) will be put in the trash. It can take several minutes to take effect.",
   "REQUEST_MESSAGES_MOVE_ITEMS": "The selected item(s) will be moved. It can take several minutes to take effect.",
   "REQUEST_MESSAGES_RESTORE_ITEMS": "The selected item(s) will be restored. It can take several minutes to take effect.",
   "REQUEST_MESSAGES_DELETE_ITEMS": "The selected item(s) will be deleted. It can take several minutes to take effect.",
-
   "PASSWORD_EMPTY_ERROR": "Please enter a valid password",
   "PASSWORD_WEAK_ERROR": "The new password is not strong enough",
   "PASSWORD_EQUAL_ERROR": "Please enter a new password different from your current one",
   "PASSWORD_CONFIRM_ERROR": "Please make sure the new password matches the confirmation",
   "INVALID_PASSWORD": "Current password is invalid. Please try again",
   "EMPTY_CURRENT_PASSWORD": "You forgot to input your current password. Please try again",
-
   "REQUEST_MESSAGES_IMPORT_ZIP": "The ZIP file is being processed. Please wait a moment.",
   "REQUEST_MESSAGES_IMPORT_H5P": "The H5P file is being processed. Please wait a moment.",
   "REQUEST_MESSAGES_UPLOAD_FILES": "The file(s) are in queue for uploading. Please wait a moment.",
-
   "CREATE_SHORT_LINK": "The short link was successfully created.",
   "EDIT_SHORT_LINK": "The short link was successfully updated.",
   "DELETE_SHORT_LINK": "The short link was successfully deleted.",
@@ -124,13 +116,10 @@
   "SHORT_LINK_NOT_FOUND": "The short link was not found.",
   "INVALID_CONTEXT": "The given context is not valid.",
   "SHORT_LINK_LIMIT_EXCEED": "You can't have more than one short link per service.",
-
   "POST_PROFILE": "Your profile has been saved successfully",
   "PATCH_PROFILE": "Your profile has been saved successfully",
-
   "PUT_ITEM_GEOLOCATION": "The geolocation has been saved successfully",
   "DELETE_ITEM_GEOLOCATION": "The geolocation has been deleted successfully",
-
   "DELETE_ITEM_THUMBNAIL": "The thumbnail was successfully deleted",
   "REORDER_ITEM": "The item was successfully reordered"
 }
