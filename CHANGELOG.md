@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.1](https://github.com/graasp/graasp-translations/compare/v1.31.0...v1.31.1) (2024-07-04)
+
+
+### Bug Fixes
+
+* update messages for email update ([#452](https://github.com/graasp/graasp-translations/issues/452)) ([f7bf428](https://github.com/graasp/graasp-translations/commit/f7bf4289ec8dd112ffd88248bbba7bc8118d19e6))
+
 ## [1.31.0](https://github.com/graasp/graasp-translations/compare/v1.30.3...v1.31.0) (2024-06-28)
 
 

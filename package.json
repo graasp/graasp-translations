@@ -1,6 +1,6 @@
 {
   "name": "@graasp/translations",
-  "version": "1.31.0",
+  "version": "1.31.1",
   "type": "module",
   "engines": {
     "node": ">=20.0.0"
@@ -68,7 +68,7 @@
     "i18next": "23.11.5",
     "prettier": "3.3.2",
     "tsc-alias": "1.8.10",
-    "typescript": "5.5.3",
+    "typescript": "5.5.2",
     "unbuild": "2.0.0"
   },
   "packageManager": "yarn@4.3.1",
