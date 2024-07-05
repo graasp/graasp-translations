@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.2](https://github.com/graasp/graasp-translations/compare/v1.31.1...v1.31.2) (2024-07-05)
+
+
+### Bug Fixes
+
+* add member profile translation ([#458](https://github.com/graasp/graasp-translations/issues/458)) ([ba63ed9](https://github.com/graasp/graasp-translations/commit/ba63ed97d4c5537ffb8a88ca4b6cc50960e4806a))
+
 ## [1.31.1](https://github.com/graasp/graasp-translations/compare/v1.31.0...v1.31.1) (2024-07-04)
 
 
