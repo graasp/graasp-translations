@@ -121,5 +121,6 @@
   "PUT_ITEM_GEOLOCATION": "The geolocation has been saved successfully",
   "DELETE_ITEM_GEOLOCATION": "The geolocation has been deleted successfully",
   "DELETE_ITEM_THUMBNAIL": "The thumbnail was successfully deleted",
-  "REORDER_ITEM": "The item was successfully reordered"
+  "REORDER_ITEM": "The item was successfully reordered",
+  "MEMBER_PROFILE_NOT_FOUND": "Member profile not found"
 }
