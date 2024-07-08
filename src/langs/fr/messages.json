@@ -72,6 +72,8 @@
   "IMPORT_H5P": "La librairie H5P a été importé avec succès",
   "DELETE_MEMBER": "Le compte a été supprimé avec succès",
   "UPDATE_PASSWORD": "Le mot de passe a été mis à jour avec succès",
+  "UPDATE_EMAIL": "Une demande de validation a été envoyée à la nouvelle adresse email",
+  "VALIDATE_EMAIL": "La nouvelle adresse email a été validée. Vous pouvez désormais l'utiliser pour vous connecter et recevoir des notifications.",
   "DELETE_ITEM_LOGIN_SCHEMA": "Le schéma de connexion de l'élément a été supprimé avec succès",
   "PUT_ITEM_LOGIN_SCHEMA": "Le schéma de connexion de l'élément a été mis à jour avec succès",
   "INVALID_ARCHIVE_FILE": "Le fichier soumis n'est pas une archive zip",
