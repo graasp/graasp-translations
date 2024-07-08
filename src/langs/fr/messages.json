@@ -118,5 +118,7 @@
   "PATCH_PROFILE": "Votre profil a été enregistré avec succès",
   "PUT_ITEM_GEOLOCATION": "La géolocalisation a été enregistrée avec succès",
   "DELETE_ITEM_GEOLOCATION": "La géolocalisation a été supprimée avec succès",
-  "DELETE_ITEM_THUMBNAIL": "La vignette a été supprimée avec succès"
+  "DELETE_ITEM_THUMBNAIL": "La vignette a été supprimée avec succès",
+  "REORDER_ITEM": "L'article a été ré-ordonné avec succès",
+  "MEMBER_PROFILE_NOT_FOUND": "Profil de membre introuvable"
 }
