@@ -72,6 +72,8 @@
   "IMPORT_H5P": "Il pacchetto H5P è stato importato con successo",
   "DELETE_MEMBER": "L'account è stato eliminato con successo",
   "UPDATE_PASSWORD": "La password è stata aggiornata con successo",
+  "UPDATE_EMAIL": "Una richiesta di convalida è stata inviata al nuovo indirizzo email",
+  "VALIDATE_EMAIL": "Il nuovo indirizzo email è stato convalidato. Ora puoi usarlo per accedere e ricevere notifiche.",
   "DELETE_ITEM_LOGIN_SCHEMA": "Lo schema di accesso dell'elemento è stato eliminato correttamente",
   "PUT_ITEM_LOGIN_SCHEMA": "Lo schema di accesso dell'elemento è stato aggiornato correttamente",
   "INVALID_ARCHIVE_FILE": "Il file inviato non è un archivio zip",
@@ -118,5 +120,7 @@
   "PATCH_PROFILE": "Il tuo profilo è stato salvato con successo",
   "PUT_ITEM_GEOLOCATION": "La geolocalizzazione è stata salvata con successo",
   "DELETE_ITEM_GEOLOCATION": "La geolocalizzazione è stata eliminata con successo",
-  "DELETE_ITEM_THUMBNAIL": "La miniatura è stata eliminata con successo"
+  "DELETE_ITEM_THUMBNAIL": "La miniatura è stata eliminata con successo",
+  "REORDER_ITEM": "L'articolo è stato riordinato con successo",
+  "MEMBER_PROFILE_NOT_FOUND": "Profilo membro non trovato"
 }
