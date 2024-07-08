@@ -27,11 +27,14 @@
   "ORPHAN_SESSION": "انتهت صلاحية جلسة العمل الخاصة بك",
   "DATABASE_ERROR": "حدث خطأ غير متوقع على مستوى قاعدة البيانات",
   "UNEXPECTED_ERROR": "حدث خطأ غير متوقع",
+  "EMAIL_ALREADY_TAKEN": "الايميل أخذ مسبقا",
   "STORAGE_EXCEEDED": "لقد تجاوزت مساحة تخزين الملفات \n المسموح بها لك",
   "FILE_SIZE_NOT_FOUND": "لا يمكن حساب حجم الملف",
   "FILE_IS_NOT_IMAGE": "الملف ليس صورة",
   "INVALID_UPLOAD_PARAMETERS": "واحد أو أكثر من معلمات التحميل غير صالحة",
   "UPLOAD_EMPTY_FILE": "لا يمكن تحميل ملف فارغ",
+  "UPLOAD_TOO_MANY_FILES": "لا يمكن تحميل عدد كبير جدًا من الملفات",
+  "UPLOAD_BIG_FILES": "لا يمكن تحميل الملفات الكبيرة",
   "INVALID_FILE_PATH_FOR_COPY": "مسار الملف المقدم غير صالح للنسخ",
   "INVALID_FILE_PATH_FOR_DELETE": "مسار الملف المقدم غير صالح للحذف",
   "INVALID_FOLDER_PATH_FOR_DELETE": "مسار المجلد المقدم غير صالح للحذف",
@@ -69,6 +72,8 @@
   "IMPORT_H5P": "تم استيراد حزمة H5P بنجاح",
   "DELETE_MEMBER": "تم حذف الحساب بنجاح",
   "UPDATE_PASSWORD": "تم تحديث كلمة المرور بنجاح",
+  "UPDATE_EMAIL": "تم إرسال طلب التحقق إلى عنوان البريد الإلكتروني الجديد",
+  "VALIDATE_EMAIL": "لقد تم التحقق من صحة عنوان البريد الإلكتروني الجديد. يمكنك الآن استخدامه لتسجيل الدخول وتلقي الإخطارات.",
   "DELETE_ITEM_LOGIN_SCHEMA": "تم حذف مخطط تسجيل دخول العنصر بنجاح",
   "PUT_ITEM_LOGIN_SCHEMA": "تم تحديث مخطط تسجيل دخول العنصر بنجاح",
   "INVALID_ARCHIVE_FILE": "الملف المقدم ليس أرشيف ZIP",
@@ -114,5 +119,8 @@
   "POST_PROFILE": "تم حفظ البيانات بنجاح",
   "PATCH_PROFILE": "تم حفظ البيانات بنجاح",
   "PUT_ITEM_GEOLOCATION": "تم حفظ الموقع الجغرافي بنجاح",
-  "DELETE_ITEM_GEOLOCATION": "تم حذف الموقع الجغرافي بنجاح"
+  "DELETE_ITEM_GEOLOCATION": "تم حذف الموقع الجغرافي بنجاح",
+  "DELETE_ITEM_THUMBNAIL": "تم حذف الصورة المصغرة بنجاح",
+  "REORDER_ITEM": "تم إعادة ترتيب العنصر بنجاح",
+  "MEMBER_PROFILE_NOT_FOUND": "لم يتم العثور على ملف تعريف العضو"
 }
