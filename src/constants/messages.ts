@@ -79,6 +79,10 @@ export const FAILURE_MESSAGES = {
   // sharing item
   COPY_LINK_TO_CLIPBOARD_ERROR: 'COPY_LINK_TO_CLIPBOARD_ERROR',
 
+  // auth
+  INSUFFICIENT_PERMISSION: 'INSUFFICIENT_PERMISSION',
+  NOT_VALIDATED_MEMBER: 'NOT_VALIDATED_MEMBER',
+
   // password
   PASSWORD_EMPTY_ERROR: 'Please enter a valid password',
   PASSWORD_WEAK_ERROR: '"New Password" not strong enough',
