@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.0](https://github.com/graasp/graasp-translations/compare/v1.31.3...v1.32.0) (2024-07-11)
+
+
+### Features
+
+* add failure message key for not validated members ([#469](https://github.com/graasp/graasp-translations/issues/469)) ([98eb83e](https://github.com/graasp/graasp-translations/commit/98eb83e93008e9ffd3b04dc7f8ffc461775ac974))
+
 ## [1.31.3](https://github.com/graasp/graasp-translations/compare/v1.31.2...v1.31.3) (2024-07-08)
 
 
