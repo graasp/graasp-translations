@@ -104,6 +104,8 @@
   "PASSWORD_WEAK_ERROR": "The new password is not strong enough",
   "PASSWORD_EQUAL_ERROR": "Please enter a new password different from your current one",
   "PASSWORD_CONFIRM_ERROR": "Please make sure the new password matches the confirmation",
+  "PASSWORD_NOT_DEFINED_ERROR": "Password is not defined",
+  "PASSWORD_CONFLICT_ERROR": "A password already exists, please update the password instead of creating a new one.",
   "INVALID_PASSWORD": "Current password is invalid. Please try again",
   "EMPTY_CURRENT_PASSWORD": "You forgot to input your current password. Please try again",
   "REQUEST_MESSAGES_IMPORT_ZIP": "The ZIP file is being processed. Please wait a moment.",
