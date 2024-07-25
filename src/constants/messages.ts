@@ -90,6 +90,8 @@ export const FAILURE_MESSAGES = {
     'Please enter a new password different from your current one',
   PASSWORD_CONFIRM_ERROR:
     'Please make sure "New Password" matches "Confirm password"',
+  PASSWORD_NOT_DEFINED_ERROR: 'PASSWORD_NOT_DEFINED_ERROR',
+  PASSWORD_CONFLICT_ERROR: 'PASSWORD_CONFLICT_ERROR',
 
   // short links
   SHORT_LINK_ALREADY_EXISTS: 'SHORT_LINK_ALREADY_EXISTS',
