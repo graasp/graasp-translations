@@ -78,6 +78,7 @@
   "PUT_ITEM_LOGIN_SCHEMA": "Le schéma de connexion de l'élément a été mis à jour avec succès",
   "INVALID_ARCHIVE_FILE": "Le fichier soumis n'est pas une archive zip",
   "INVALID_FILE_ITEM": "Les propriétés du fichier sont invalides",
+  "INVALID_ITEM_TYPE_FOR_DOWNLOAD": "Impossible de télécharger les données pour le type de cet élément",
   "UNEXPECTED_EXPORT_ERROR": "Une erreur est survenue durant l'exportation de l'archive zip",
   "NOT_APP_ITEM": "L'élément cible n'est pas une application",
   "INVALID_APP_ORIGIN": "L'application ne correspond pas à l'origine enregistrée",

@@ -78,6 +78,7 @@
   "PUT_ITEM_LOGIN_SCHEMA": "The item login schema was updated successfully",
   "INVALID_ARCHIVE_FILE": "The submitted file is not a zip archive",
   "INVALID_FILE_ITEM": "The file's properties are invalid",
+  "INVALID_ITEM_TYPE_FOR_DOWNLOAD": "Cannot fetch data for this item's type",
   "UNEXPECTED_EXPORT_ERROR": "An error occurred while exporting the zip file",
   "NOT_APP_ITEM": "The targeted item is not an application item",
   "INVALID_APP_ORIGIN": "The application does not match its registered origin",
