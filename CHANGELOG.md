@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.1](https://github.com/graasp/graasp-translations/compare/v1.32.0...v1.32.1) (2024-07-29)
+
+
+### Bug Fixes
+
+* update password messages ([#482](https://github.com/graasp/graasp-translations/issues/482)) ([a6e75e9](https://github.com/graasp/graasp-translations/commit/a6e75e90841eab9e838d6f4ae42e4bdce6d6fd8e))
+
 ## [1.32.0](https://github.com/graasp/graasp-translations/compare/v1.31.3...v1.32.0) (2024-07-11)
 
 
