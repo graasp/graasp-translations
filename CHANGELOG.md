@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.33.0](https://github.com/graasp/graasp-translations/compare/v1.32.1...v1.33.0) (2024-07-29)
+
+
+### Features
+
+* add export zip error message ([#485](https://github.com/graasp/graasp-translations/issues/485)) ([3068a56](https://github.com/graasp/graasp-translations/commit/3068a56241e487f733bcdeed7fcc8aa83933908f))
+
 ## [1.32.1](https://github.com/graasp/graasp-translations/compare/v1.32.0...v1.32.1) (2024-07-29)
 
 
