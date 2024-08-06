@@ -127,5 +127,6 @@
   "REORDER_ITEM": "The item was successfully reordered",
   "MEMBER_PROFILE_NOT_FOUND": "Member profile not found",
   "INSUFFICIENT_PERMISSION": "Account has insufficient permission to perform this action",
-  "NOT_VALIDATED_MEMBER": "Member has not validated their account email"
+  "NOT_VALIDATED_MEMBER": "Member has not validated their account email",
+  "NO_INVITATION_RECEIVED": "No invitation received"
 }
