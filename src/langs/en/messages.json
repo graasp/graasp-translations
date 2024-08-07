@@ -127,5 +127,15 @@
   "REORDER_ITEM": "The item was successfully reordered",
   "MEMBER_PROFILE_NOT_FOUND": "Member profile not found",
   "INSUFFICIENT_PERMISSION": "Account has insufficient permission to perform this action",
-  "NOT_VALIDATED_MEMBER": "Member has not validated their account email"
+  "NOT_VALIDATED_MEMBER": "Member has not validated their account email",
+  "NO_INVITATION_RECEIVED": "No invitation received",
+  "INVITATION_NOT_FOUND": "Invitation not found",
+  "INVITATION_CSV_MISSING_EMAIL_COLUMN": "The required column 'email' was not provided",
+  "INVITATION_CSV_MISSING_GROUP_COLUMN": "The required column 'group_name' was not provided",
+  "INVITATION_CSV_MISSING_EMAIL_IN_ROW": "A row is missing the required 'email' value",
+  "INVITATION_CSV_MISSING_GROUP_IN_ROW": "A row is missing the required 'group_name' value",
+  "INVITATION_CSV_NO_FILE_PROVIDED": "No file was provided. Please provide a file for creating bulk invitations",
+  "INVITATION_CSV_NO_DATA_IN_FILE": "No data was found in the file. Please send a file with valid data.",
+  "INVITATION_CSV_TEMPLATE_ITEM_DOES_NOT_EXIST": "The template item does not exist.",
+  "INVITATION_CANNOT_CREATE_STRUCTURE_IN_NON_FOLDER_ITEM": "Provided item is not a folder. A structure cannot be created inside an item that is not a folder."
 }
