@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.0](https://github.com/graasp/graasp-translations/compare/v1.33.0...v1.34.0) (2024-08-07)
+
+
+### Features
+
+* add invitation error messages ([#491](https://github.com/graasp/graasp-translations/issues/491)) ([5248c2a](https://github.com/graasp/graasp-translations/commit/5248c2ae0a095f339695943eb3aa0641f5a94b08))
+
 ## [1.33.0](https://github.com/graasp/graasp-translations/compare/v1.32.1...v1.33.0) (2024-07-29)
 
 
