@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.35.0](https://github.com/graasp/graasp-translations/compare/v1.34.0...v1.35.0) (2024-08-12)
+
+
+### Features
+
+* **membership request:** add failure messages ([#495](https://github.com/graasp/graasp-translations/issues/495)) ([ce6cf6d](https://github.com/graasp/graasp-translations/commit/ce6cf6d8f95d1d20e5716ed15e56ea1b189c3556))
+
 ## [1.34.0](https://github.com/graasp/graasp-translations/compare/v1.33.0...v1.34.0) (2024-08-07)
 
 
