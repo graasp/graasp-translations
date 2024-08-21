@@ -142,5 +142,6 @@
   "MEMBERSHIP_REQUEST_ALREADY_EXISTS": "This account has already requested a membership to the provided item.",
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Provided Membership Request not found.",
   "NOT_A_MEMBER": "Your account is not registered as a valid member",
-  "NOT_A_GUEST": "Your account is not registered as a valid pseudonimized user"
+  "NOT_A_GUEST": "Your account is not registered as a valid pseudonimized user",
+  "ACCOUNT_NOT_FOUND": "An account was not found"
 }
