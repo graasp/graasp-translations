@@ -139,5 +139,6 @@
   "INVITATION_CSV_TEMPLATE_ITEM_DOES_NOT_EXIST": "L'élément de modèle n'existe pas.",
   "INVITATION_CANNOT_CREATE_STRUCTURE_IN_NON_FOLDER_ITEM": "L'élément fourni n'est pas un dossier. Une structure ne peut pas être créée à l'intérieur d'un élément qui n'est pas un dossier.",
   "MEMBERSHIP_ALREADY_EXISTS": "Ce compte a déjà accès à cet élément.",
+  "MEMBERSHIP_REQUEST_ALREADY_EXISTS": "Ce compte a déjà demandé une adhésion à l'élément.",
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Demande d'adhésion fournie non trouvée."
 }
