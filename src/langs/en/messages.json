@@ -140,5 +140,8 @@
   "INVITATION_CANNOT_CREATE_STRUCTURE_IN_NON_FOLDER_ITEM": "Provided item is not a folder. A structure cannot be created inside an item that is not a folder.",
   "MEMBERSHIP_ALREADY_EXISTS": "This account already has access to this item.",
   "MEMBERSHIP_REQUEST_ALREADY_EXISTS": "This account has already requested a membership to the provided item.",
-  "MEMBERSHIP_REQUEST_NOT_FOUND": "Provided Membership Request not found."
+  "MEMBERSHIP_REQUEST_NOT_FOUND": "Provided Membership Request not found.",
+  "NOT_A_MEMBER": "Your account is not registered as a valid member",
+  "NOT_A_GUEST": "Your account is not registered as a valid pseudonimized user",
+  "ACCOUNT_NOT_FOUND": "An account was not found"
 }
