@@ -140,5 +140,8 @@
   "INVITATION_CANNOT_CREATE_STRUCTURE_IN_NON_FOLDER_ITEM": "Das angegebene Element ist kein Ordner. Innerhalb eines Elements, das kein Ordner ist, kann keine Struktur erstellt werden.",
   "MEMBERSHIP_ALREADY_EXISTS": "Dieses Konto hat bereits Zugriff auf diesen Artikel.",
   "MEMBERSHIP_REQUEST_ALREADY_EXISTS": "Dieses Konto hat bereits eine Mitgliedschaft für den bereitgestellten Artikel angefordert.",
-  "MEMBERSHIP_REQUEST_NOT_FOUND": "Die angegebene Mitgliedschaftsanfrage wurde nicht gefunden."
+  "MEMBERSHIP_REQUEST_NOT_FOUND": "Die angegebene Mitgliedschaftsanfrage wurde nicht gefunden.",
+  "NOT_A_MEMBER": "Ihr Konto ist nicht als gültiges Mitglied registriert",
+  "NOT_A_GUEST": "Ihr Konto ist nicht als gültiger pseudonymisierter Benutzer registriert",
+  "ACCOUNT_NOT_FOUND": "Es wurde kein Konto gefunden"
 }
