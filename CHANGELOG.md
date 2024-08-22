@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.35.1](https://github.com/graasp/graasp-translations/compare/v1.35.0...v1.35.1) (2024-08-22)
+
+
+### Bug Fixes
+
+* add more failure messages for item login refactoring ([#501](https://github.com/graasp/graasp-translations/issues/501)) ([ba80afc](https://github.com/graasp/graasp-translations/commit/ba80afcde5c8d1888489099b2ed76af268b20ad7))
+* **arabic:** update translations ([#506](https://github.com/graasp/graasp-translations/issues/506)) ([8a2e212](https://github.com/graasp/graasp-translations/commit/8a2e212e10d9ee6760cdf90a8f4fe45feaddaa4c))
+* **french:** update translations ([#498](https://github.com/graasp/graasp-translations/issues/498)) ([40a3ee1](https://github.com/graasp/graasp-translations/commit/40a3ee1117511937c4539d7f900f1df09fcafedb))
+* **french:** update translations ([#502](https://github.com/graasp/graasp-translations/issues/502)) ([1572274](https://github.com/graasp/graasp-translations/commit/1572274ebd330497a7187c6d503377b1d039fc3d))
+* **german:** update translations ([#499](https://github.com/graasp/graasp-translations/issues/499)) ([de14313](https://github.com/graasp/graasp-translations/commit/de143134505c36fd5d92412c9f46e41564aded21))
+* **german:** update translations ([#505](https://github.com/graasp/graasp-translations/issues/505)) ([42807d4](https://github.com/graasp/graasp-translations/commit/42807d4a48a372a5e5dcee5925936575407f954a))
+* **italian:** update translations ([#503](https://github.com/graasp/graasp-translations/issues/503)) ([1054185](https://github.com/graasp/graasp-translations/commit/105418538954d5a7538f7b02f4a111702b7c0d65))
+* **italian:** update translations ([#504](https://github.com/graasp/graasp-translations/issues/504)) ([2b02139](https://github.com/graasp/graasp-translations/commit/2b0213910c7d96a3c2698c922f5540f9b2ae67bf))
+
 ## [1.35.0](https://github.com/graasp/graasp-translations/compare/v1.34.0...v1.35.0) (2024-08-12)
 
 
