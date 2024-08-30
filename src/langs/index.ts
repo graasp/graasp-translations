@@ -70,6 +70,12 @@ import actionTypesDE from './de/actionTypes.json' with { type: 'json' };
 import actionTypesIT from './it/actionTypes.json' with { type: 'json' };
 import actionTypesAR from './ar/actionTypes.json' with { type: 'json' };
 import actionTypesES from './es/actionTypes.json' with { type: 'json' };
+import accountTypesEN from './en/accountTypes.json' with { type: 'json' };
+import accountTypesFR from './fr/accountTypes.json' with { type: 'json' };
+import accountTypesDE from './de/accountTypes.json' with { type: 'json' };
+import accountTypesIT from './it/accountTypes.json' with { type: 'json' };
+import accountTypesAR from './ar/accountTypes.json' with { type: 'json' };
+import accountTypesES from './es/accountTypes.json' with { type: 'json' };
 
 // define namespaces
 export const namespaces = {
@@ -97,6 +103,7 @@ const en = {
     ...contextEN,
     ...flagEN,
     ...maxWidthEN,
+    ...accountTypesEN,
   },
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
@@ -114,6 +121,7 @@ const fr = {
     ...contextFR,
     ...flagFR,
     ...maxWidthFR,
+    ...accountTypesFR,
   },
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
@@ -131,6 +139,7 @@ const de = {
     ...contextDE,
     ...flagDE,
     ...maxWidthDE,
+    ...accountTypesDE,
   },
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
@@ -148,6 +157,7 @@ const it = {
     ...contextIT,
     ...flagIT,
     ...maxWidthIT,
+    ...accountTypesIT,
   },
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
@@ -165,6 +175,7 @@ const ar = {
     ...contextAR,
     ...flagAR,
     ...maxWidthAR,
+    ...accountTypesAR,
   },
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
@@ -182,6 +193,7 @@ const es = {
     ...contextES,
     ...flagES,
     ...maxWidthES,
+    ...accountTypesES,
   },
   [namespaces.messages]: messagesES,
   [namespaces.uppy]: uppyES,
