@@ -865,10 +865,10 @@ __metadata:
     eslint-plugin-import: "npm:2.29.1"
     globals: "npm:15.9.0"
     husky: "npm:9.1.5"
-    i18next: "npm:23.14.0"
+    i18next: "npm:23.15.1"
     prettier: "npm:3.3.3"
     tsc-alias: "npm:1.8.10"
-    typescript: "npm:5.5.4"
+    typescript: "npm:5.6.2"
     unbuild: "npm:2.0.0"
   peerDependencies:
     i18next: ^23.8.1
@@ -3311,12 +3311,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18next@npm:23.14.0":
-  version: 23.14.0
-  resolution: "i18next@npm:23.14.0"
+"i18next@npm:23.15.1":
+  version: 23.15.1
+  resolution: "i18next@npm:23.15.1"
   dependencies:
     "@babel/runtime": "npm:^7.23.2"
-  checksum: 10c0/c26638a816e6213e515c158b17894ca3c54693911e1dc637cd279e11d53f8ded2494c3dcc6e2e94c639987ef63718193a1e2b4f3d5873fbcf89f266582140cd5
+  checksum: 10c0/06bf6c45c70ebe8cc1181ce5f367f6a60acc798abb1926329e67e092a25762cabbfed64ac149745d515f724d2a6fef3bf809bd4fd8f505a7966e9e4dd2e3fd69
   languageName: node
   linkType: hard
 
@@ -5634,23 +5634,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:5.5.4":
-  version: 5.5.4
-  resolution: "typescript@npm:5.5.4"
+"typescript@npm:5.6.2":
+  version: 5.6.2
+  resolution: "typescript@npm:5.6.2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/422be60f89e661eab29ac488c974b6cc0a660fb2228003b297c3d10c32c90f3bcffc1009b43876a082515a3c376b1eefcce823d6e78982e6878408b9a923199c
+  checksum: 10c0/3ed8297a8c7c56b7fec282532503d1ac795239d06e7c4966b42d4330c6cf433a170b53bcf93a130a7f14ccc5235de5560df4f1045eb7f3550b46ebed16d3c5e5
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A5.5.4#optional!builtin<compat/typescript>":
-  version: 5.5.4
-  resolution: "typescript@patch:typescript@npm%3A5.5.4#optional!builtin<compat/typescript>::version=5.5.4&hash=379a07"
+"typescript@patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>":
+  version: 5.6.2
+  resolution: "typescript@patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/73409d7b9196a5a1217b3aaad929bf76294d3ce7d6e9766dd880ece296ee91cf7d7db6b16c6c6c630ee5096eccde726c0ef17c7dfa52b01a243e57ae1f09ef07
+  checksum: 10c0/94eb47e130d3edd964b76da85975601dcb3604b0c848a36f63ac448d0104e93819d94c8bdf6b07c00120f2ce9c05256b8b6092d23cf5cf1c6fa911159e4d572f
   languageName: node
   linkType: hard
 
