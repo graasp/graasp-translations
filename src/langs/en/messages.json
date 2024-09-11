@@ -145,5 +145,6 @@
   "NOT_A_GUEST": "Your account is not registered as a valid pseudonimized user",
   "ACCOUNT_NOT_FOUND": "An account was not found",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "You cannot request a membership because the targeted ressource allows pseudonimized users",
-  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Cannot modify the permission of targeted account because it is a pseudonimized user"
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Cannot modify the permission of targeted account because it is a pseudonymized user",
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Cannot enroll in the targeted item because it doesn't allow pseudonymized users"
 }
