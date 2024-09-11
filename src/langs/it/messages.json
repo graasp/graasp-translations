@@ -143,5 +143,7 @@
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Richiesta di iscrizione fornita non trovata.",
   "NOT_A_MEMBER": "Il tuo account non è registrato come membro valido",
   "NOT_A_GUEST": "Il tuo account non è registrato come utente pseudonimizzato valido",
-  "ACCOUNT_NOT_FOUND": "Non è stato trovato un account"
+  "ACCOUNT_NOT_FOUND": "Non è stato trovato un account",
+  "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "Non puoi richiedere un'iscrizione perché la risorsa mirata consente utenti pseudonimizzati",
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Impossibile modificare l'autorizzazione dell'account di destinazione perché è un utente pseudonimizzato"
 }
