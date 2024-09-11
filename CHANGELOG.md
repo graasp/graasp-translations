@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.36.0](https://github.com/graasp/graasp-translations/compare/v1.35.1...v1.36.0) (2024-09-11)
+
+
+### Features
+
+* failure message when updating the item membership of a guest ([#518](https://github.com/graasp/graasp-translations/issues/518)) ([90836a8](https://github.com/graasp/graasp-translations/commit/90836a8de86c56d29ef500a526bdcf8808a2df7c))
+* item login exist error message ([#516](https://github.com/graasp/graasp-translations/issues/516)) ([31154a7](https://github.com/graasp/graasp-translations/commit/31154a775e8f8de10a1018802eb5014fe2f42f82))
+
+
+### Bug Fixes
+
+* update eslint for flat config ([#507](https://github.com/graasp/graasp-translations/issues/507)) ([cba6cd4](https://github.com/graasp/graasp-translations/commit/cba6cd4a131bc1cbe112f771eca4e48f1d11eabd))
+
 ## [1.35.1](https://github.com/graasp/graasp-translations/compare/v1.35.0...v1.35.1) (2024-08-22)
 
 
