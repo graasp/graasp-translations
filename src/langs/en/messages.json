@@ -143,5 +143,6 @@
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Provided Membership Request not found.",
   "NOT_A_MEMBER": "Your account is not registered as a valid member",
   "NOT_A_GUEST": "Your account is not registered as a valid pseudonimized user",
-  "ACCOUNT_NOT_FOUND": "An account was not found"
+  "ACCOUNT_NOT_FOUND": "An account was not found",
+  "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "You cannot request a membership because the targeted ressource allows pseudonimized users"
 }
