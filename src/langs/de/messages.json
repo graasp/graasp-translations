@@ -143,5 +143,7 @@
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Die angegebene Mitgliedschaftsanfrage wurde nicht gefunden.",
   "NOT_A_MEMBER": "Ihr Konto ist nicht als gültiges Mitglied registriert",
   "NOT_A_GUEST": "Ihr Konto ist nicht als gültiger pseudonymisierter Benutzer registriert",
-  "ACCOUNT_NOT_FOUND": "Es wurde kein Konto gefunden"
+  "ACCOUNT_NOT_FOUND": "Es wurde kein Konto gefunden",
+  "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "Sie können keine Mitgliedschaft beantragen, da die Zielressource pseudonymisierte Benutzer zulässt",
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Die Berechtigung des Zielkontos kann nicht geändert werden, da es sich um einen pseudonymisierten Benutzer handelt"
 }

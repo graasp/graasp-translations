@@ -143,5 +143,7 @@
   "MEMBERSHIP_REQUEST_NOT_FOUND": "لم يتم العثور على طلب العضوية المقدمة.",
   "NOT_A_MEMBER": "حسابك غير مسجل كعضو صالح",
   "NOT_A_GUEST": "لم يتم تسجيل حسابك كمستخدم مزيف صالح",
-  "ACCOUNT_NOT_FOUND": "لم يتم العثور على حساب"
+  "ACCOUNT_NOT_FOUND": "لم يتم العثور على حساب",
+  "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "لا يمكنك طلب العضوية لأن المورد المستهدف يسمح للمستخدمين المزيفين",
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "لا يمكن تعديل أذونات الحساب المستهدف لأنه مستخدم مزيف"
 }

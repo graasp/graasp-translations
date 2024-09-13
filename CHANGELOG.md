@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.36.1](https://github.com/graasp/graasp-translations/compare/v1.36.0...v1.36.1) (2024-09-11)
+
+
+### Bug Fixes
+
+* **arabic:** update translations ([#528](https://github.com/graasp/graasp-translations/issues/528)) ([b5a1cb6](https://github.com/graasp/graasp-translations/commit/b5a1cb6ef16ac877b31215dd3a2c99f38ab06e75))
+* **french:** update translations ([#523](https://github.com/graasp/graasp-translations/issues/523)) ([c335ec7](https://github.com/graasp/graasp-translations/commit/c335ec7311fe241acf25c3b86ef0e8ade8f6eb71))
+* **german:** update translations ([#525](https://github.com/graasp/graasp-translations/issues/525)) ([ca21622](https://github.com/graasp/graasp-translations/commit/ca216229b0efb220b15b657dbff96f0935b96fda))
+* **italian:** update translations ([#527](https://github.com/graasp/graasp-translations/issues/527)) ([6b636b6](https://github.com/graasp/graasp-translations/commit/6b636b6069ddffa830e312bf8eda7a00d747f399))
+* **spanish:** update translations ([#524](https://github.com/graasp/graasp-translations/issues/524)) ([dcb3608](https://github.com/graasp/graasp-translations/commit/dcb3608780249ee469cedf0f05278a64cb0f0734))
+
 ## [1.36.0](https://github.com/graasp/graasp-translations/compare/v1.35.1...v1.36.0) (2024-09-11)
 
 

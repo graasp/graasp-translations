@@ -143,5 +143,7 @@
   "MEMBERSHIP_REQUEST_NOT_FOUND": "Solicitud de membresía proporcionada no encontrada.",
   "NOT_A_MEMBER": "Su cuenta no está registrada como miembro válido",
   "NOT_A_GUEST": "Su cuenta no está registrada como un usuario seudónimo válido",
-  "ACCOUNT_NOT_FOUND": "No se encontró una cuenta"
+  "ACCOUNT_NOT_FOUND": "No se encontró una cuenta",
+  "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "No puedes solicitar una membresía porque el recurso en cuestión permite usuarios seudonimizados",
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "No se puede modificar el permiso de la cuenta de destino porque es un usuario seudonimizado"
 }
