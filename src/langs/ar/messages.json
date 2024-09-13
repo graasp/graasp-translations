@@ -145,5 +145,6 @@
   "NOT_A_GUEST": "لم يتم تسجيل حسابك كمستخدم مزيف صالح",
   "ACCOUNT_NOT_FOUND": "لم يتم العثور على حساب",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "لا يمكنك طلب العضوية لأن المورد المستهدف يسمح للمستخدمين المزيفين",
-  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "لا يمكن تعديل أذونات الحساب المستهدف لأنه مستخدم مزيف"
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "لا يمكن تعديل إذن الحساب المستهدف لأنه مستخدم مستعار",
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "لا يمكن التسجيل في العنصر المستهدف لأنه لا يسمح للمستخدمين المجهولين"
 }
