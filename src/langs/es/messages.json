@@ -145,5 +145,6 @@
   "NOT_A_GUEST": "Su cuenta no está registrada como un usuario seudónimo válido",
   "ACCOUNT_NOT_FOUND": "No se encontró una cuenta",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "No puedes solicitar una membresía porque el recurso en cuestión permite usuarios seudonimizados",
-  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "No se puede modificar el permiso de la cuenta de destino porque es un usuario seudonimizado"
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "No se puede modificar el permiso de la cuenta de destino porque es un usuario seudonimizado",
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "No se puede inscribir en el elemento de destino porque no permite usuarios seudónimos"
 }
