@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.37.0](https://github.com/graasp/graasp-translations/compare/v1.36.1...v1.37.0) (2024-09-13)
+
+
+### Features
+
+* cannot enroll failure message ([#522](https://github.com/graasp/graasp-translations/issues/522)) ([95523fe](https://github.com/graasp/graasp-translations/commit/95523fec7a050eb105da42ce8959e1b8f7527188))
+
+
+### Bug Fixes
+
+* **arabic:** update translations ([#535](https://github.com/graasp/graasp-translations/issues/535)) ([d1b82e5](https://github.com/graasp/graasp-translations/commit/d1b82e536cd9667208cf7843add0c27936fa535a))
+* **french:** update translations ([#531](https://github.com/graasp/graasp-translations/issues/531)) ([d3d951d](https://github.com/graasp/graasp-translations/commit/d3d951d1f78637ee764bcbfd94baf6c7d46fc6b7))
+* **german:** update translations ([#534](https://github.com/graasp/graasp-translations/issues/534)) ([d9a69c7](https://github.com/graasp/graasp-translations/commit/d9a69c72e88cdaec510d21249af24b599854cfe4))
+* **italian:** update translations ([#532](https://github.com/graasp/graasp-translations/issues/532)) ([b0a8f71](https://github.com/graasp/graasp-translations/commit/b0a8f7165a35f3ae2e238f3dd62d3e2f8f7c3d78))
+* **spanish:** update translations ([#533](https://github.com/graasp/graasp-translations/issues/533)) ([13f36c4](https://github.com/graasp/graasp-translations/commit/13f36c48fe1f3826ca5d98e9b5ad0a2e5016bd32))
+
 ## [1.36.1](https://github.com/graasp/graasp-translations/compare/v1.36.0...v1.36.1) (2024-09-11)
 
 
