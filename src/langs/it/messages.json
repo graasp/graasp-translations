@@ -145,5 +145,6 @@
   "NOT_A_GUEST": "Il tuo account non è registrato come utente pseudonimizzato valido",
   "ACCOUNT_NOT_FOUND": "Non è stato trovato un account",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "Non puoi richiedere un'iscrizione perché la risorsa mirata consente utenti pseudonimizzati",
-  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Impossibile modificare l'autorizzazione dell'account di destinazione perché è un utente pseudonimizzato"
+  "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Impossibile modificare l'autorizzazione dell'account di destinazione perché è un utente pseudonimizzato",
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Impossibile registrarsi all'elemento mirato perché non consente utenti pseudonimizzati"
 }
