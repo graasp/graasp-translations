@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.37.1](https://github.com/graasp/graasp-translations/compare/v1.37.0...v1.37.1) (2024-09-19)
+
+
+### Bug Fixes
+
+* add password reset success messages ([#539](https://github.com/graasp/graasp-translations/issues/539)) ([a09de50](https://github.com/graasp/graasp-translations/commit/a09de504c2a739658b7ac28ba5c2cc5da82af7fd))
+* **arabic:** update translations ([#546](https://github.com/graasp/graasp-translations/issues/546)) ([11d1637](https://github.com/graasp/graasp-translations/commit/11d1637c49d8f34b898ce67d2df6dc0330f365fc))
+* **french:** update translations ([#542](https://github.com/graasp/graasp-translations/issues/542)) ([a4a22e4](https://github.com/graasp/graasp-translations/commit/a4a22e4c8e080dcfccc7ffa9535cee2a520ac5a5))
+* **german:** update translations ([#545](https://github.com/graasp/graasp-translations/issues/545)) ([f59886c](https://github.com/graasp/graasp-translations/commit/f59886c9bd83491e2374702676cb6c3697bf2cd4))
+* **italian:** update translations ([#543](https://github.com/graasp/graasp-translations/issues/543)) ([fc38032](https://github.com/graasp/graasp-translations/commit/fc380320c219afaa2e0c4333c676cc48d5f83370))
+* **spanish:** update translations ([#544](https://github.com/graasp/graasp-translations/issues/544)) ([892226b](https://github.com/graasp/graasp-translations/commit/892226bac5f5697295d20e38f182b4fe8d85220f))
+
 ## [1.37.0](https://github.com/graasp/graasp-translations/compare/v1.36.1...v1.37.0) (2024-09-13)
 
 
