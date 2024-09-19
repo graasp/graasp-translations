@@ -58,6 +58,8 @@
   "SIGN_IN": "I tuoi dati sono validi, riceverai una email per effettuare il login",
   "SIGN_IN_WITH_PASSWORD": "Hai effettuato l'accesso con successo",
   "SIGN_UP": "Ti sei registrato con successo, riceverai una email per effettuare il login",
+  "PASSWORD_RESET_REQUEST": "La richiesta di reimpostazione della password è stata inviata correttamente. Controlla la tua posta in arrivo.",
+  "PASSWORD_RESET": "La password è stata aggiornata con successo. Ora puoi effettuare l'accesso con la tua nuova password.",
   "EDIT_MEMBER": "L'utente è stato aggiornato con successo",
   "COPY_MEMBER_ID_TO_CLIPBOARD": "L'ID utente è stato copiato correttamente",
   "EDIT_ITEM_MEMBERSHIP": "L'appartenenza all'elemento è stata modificata correttamente",
