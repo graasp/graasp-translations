@@ -58,6 +58,8 @@
   "SIGN_IN": "Vos informations ont été validées, vous allez recevoir un mail pour vous connecter",
   "SIGN_IN_WITH_PASSWORD": "Vous avez été connecté avec succès",
   "SIGN_UP": "Vous avez été enregistré avec succès, vous allez recevoir un mail pour vous connecter",
+  "PASSWORD_RESET_REQUEST": "La demande de réinitialisation du mot de passe a été envoyée avec succès. Veuillez vérifier votre boîte de réception.",
+  "PASSWORD_RESET": "Le mot de passe a été mis à jour avec succès. Vous pouvez désormais vous connecter avec votre nouveau mot de passe.",
   "EDIT_MEMBER": "L'utilisateur a été modifié avec succès",
   "COPY_MEMBER_ID_TO_CLIPBOARD": "L'ID utilisateur a été copié avec succès",
   "EDIT_ITEM_MEMBERSHIP": "La permission a été modifiée avec succès",
