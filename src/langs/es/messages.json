@@ -58,6 +58,8 @@
   "SIGN_IN": "Tus datos son válidos, recibirás un correo electrónico para iniciar sesión",
   "SIGN_IN_WITH_PASSWORD": "Has iniciado sesión correctamente",
   "SIGN_UP": "Te registraste exitosamente, recibirás un correo electrónico para iniciar sesión",
+  "PASSWORD_RESET_REQUEST": "La solicitud de restablecimiento de contraseña se ha enviado correctamente. Por favor, revise su bandeja de entrada.",
+  "PASSWORD_RESET": "La contraseña se ha actualizado correctamente. Ahora puede iniciar sesión con su nueva contraseña.",
   "EDIT_MEMBER": "El usuario fue actualizado exitosamente",
   "COPY_MEMBER_ID_TO_CLIPBOARD": "La ID de usuario se copió correctamente.",
   "EDIT_ITEM_MEMBERSHIP": "La membresía del elemento se editó correctamente.",
