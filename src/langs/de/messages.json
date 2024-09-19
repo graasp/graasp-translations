@@ -58,6 +58,8 @@
   "SIGN_IN": "Ihre Informationen sind gültig, Sie erhalten eine E-Mail um sich anzumelden",
   "SIGN_IN_WITH_PASSWORD": "Sie haben sich erfolgreich angemeldet",
   "SIGN_UP": "Sie haben sich erfolgreich registriert, Sie erhalten eine E-Mail um sich anzumelden",
+  "PASSWORD_RESET_REQUEST": "Ihre Anfrage zum Zurücksetzen Ihres Passworts wurde erfolgreich versendet. Bitte überprüfen Sie Ihren Posteingang.",
+  "PASSWORD_RESET": "Das Passwort wurde erfolgreich aktualisiert. Sie können sich jetzt mit Ihrem neuen Passwort anmelden.",
   "EDIT_MEMBER": "Der Benutzer wurde erfolgreich aktualisiert",
   "COPY_MEMBER_ID_TO_CLIPBOARD": "Die Benutzer-ID wurde erfolgreich kopiert",
   "EDIT_ITEM_MEMBERSHIP": "Die Elementmitgliedschaft wurde erfolgreich bearbeitet",
