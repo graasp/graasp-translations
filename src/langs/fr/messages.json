@@ -148,5 +148,6 @@
   "ACCOUNT_NOT_FOUND": "Aucun compte n'a été trouvé",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "Vous ne pouvez pas demander une adhésion car la ressource ciblée autorise les utilisateurs pseudonymisés",
   "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Impossible de modifier l'autorisation du compte ciblé car il s'agit d'un utilisateur pseudonymisé",
-  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Impossible de s'inscrire à l'élément ciblé car il n'autorise pas les utilisateurs pseudonymisés"
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Impossible de s'inscrire à l'élément ciblé car il n'autorise pas les utilisateurs pseudonymisés",
+  "ENROLL": "Vous avez rejoint l'élément avec succès."
 }
