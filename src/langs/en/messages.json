@@ -58,6 +58,8 @@
   "SIGN_IN": "Your information are valid, you will receive an email to login",
   "SIGN_IN_WITH_PASSWORD": "You successfully signed in",
   "SIGN_UP": "You successfully signed up, you will receive an email to login",
+  "PASSWORD_RESET_REQUEST": "Password reset request successfully sent. See your inbox.",
+  "PASSWORD_RESET": "Password successfully updated. You can now log in with your new password.",
   "EDIT_MEMBER": "The user was updated successfully",
   "COPY_MEMBER_ID_TO_CLIPBOARD": "The user ID is successfully copied",
   "EDIT_ITEM_MEMBERSHIP": "The item membership was successfully edited",
