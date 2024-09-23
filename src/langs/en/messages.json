@@ -148,5 +148,8 @@
   "ACCOUNT_NOT_FOUND": "An account was not found",
   "CANNOT_CREATE_MEMBERSHIP_CAUSE_ITEM_LOGIN_SCHEMA_EXISTS": "You cannot request a membership because the targeted ressource allows pseudonimized users",
   "CANNOT_MODIFY_GUEST_ITEM_MEMBERSHIP": "Cannot modify the permission of targeted account because it is a pseudonymized user",
-  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Cannot enroll in the targeted item because it doesn't allow pseudonymized users"
+  "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Cannot enroll in this item because it doesn't allow pseudonymized users",
+  "REQUEST_MEMBERSHIP": "Membership requests has been sent successfully!",
+  "DELETE_MEMBERSHIP_REQUEST": "Membership request has been successfully deleted.",
+  "ENROLL": "You successfully enrolled to the item."
 }
