@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.38.0](https://github.com/graasp/graasp-translations/compare/v1.37.1...v1.38.0) (2024-09-23)
+
+
+### Features
+
+* add membership request related translations ([#540](https://github.com/graasp/graasp-translations/issues/540)) ([efd9430](https://github.com/graasp/graasp-translations/commit/efd943026840a29f2c376064e5aa62dfc7b6b3b4))
+
 ## [1.37.1](https://github.com/graasp/graasp-translations/compare/v1.37.0...v1.37.1) (2024-09-19)
 
 
