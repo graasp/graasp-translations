@@ -151,5 +151,7 @@
   "CANNOT_ENROLL_ITEM_WITHOUT_ITEM_LOGIN_SCHEMA": "Cannot enroll in this item because it doesn't allow pseudonymized users",
   "REQUEST_MEMBERSHIP": "Membership requests has been sent successfully!",
   "DELETE_MEMBERSHIP_REQUEST": "Membership request has been successfully deleted.",
-  "ENROLL": "You successfully enrolled to the item."
+  "ENROLL": "You successfully enrolled to the item.",
+  "CANNOT_REGISTER_ON_FROZEN_ITEM_LOGIN_SCHEMA": "Cannot register on the targeted item because the subscription has been frozen by its owner",
+  "CANNOT_ENROLL_FROZEN_ITEM_LOGIN_SCHEMA": "Cannot enroll in the targeted item because the subscription has been frozen by its owner"
 }
