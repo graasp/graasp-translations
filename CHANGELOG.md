@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.39.0](https://github.com/graasp/graasp-translations/compare/v1.38.0...v1.39.0) (2024-09-25)
+
+
+### Features
+
+* failures messages for frozen item login schema ([#551](https://github.com/graasp/graasp-translations/issues/551)) ([0e02dca](https://github.com/graasp/graasp-translations/commit/0e02dcab30d61b4e50a05e02ed18b09890b3e394))
+
 ## [1.38.0](https://github.com/graasp/graasp-translations/compare/v1.37.1...v1.38.0) (2024-09-23)
 
 
