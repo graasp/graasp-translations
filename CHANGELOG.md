@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.40.0](https://github.com/graasp/graasp-translations/compare/v1.39.0...v1.40.0) (2024-10-08)
+
+
+### Features
+
+* not member or guest failure message ([#556](https://github.com/graasp/graasp-translations/issues/556)) ([b827f8b](https://github.com/graasp/graasp-translations/commit/b827f8bc0a4df3420818594c6f061b5698888b17))
+
 ## [1.39.0](https://github.com/graasp/graasp-translations/compare/v1.38.0...v1.39.0) (2024-09-25)
 
 
