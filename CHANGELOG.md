@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.41.0](https://github.com/graasp/graasp-translations/compare/v1.40.0...v1.41.0) (2024-11-06)
+
+
+### Features
+
+* add item validation messages ([#564](https://github.com/graasp/graasp-translations/issues/564)) ([6eeca91](https://github.com/graasp/graasp-translations/commit/6eeca9173a428e5667e073bf5b77f3772ec28cba))
+* rename tag to visibility ([#563](https://github.com/graasp/graasp-translations/issues/563)) ([713537a](https://github.com/graasp/graasp-translations/commit/713537abb431e5fc0f88d8801b06799c5168efaf))
+
 ## [1.40.0](https://github.com/graasp/graasp-translations/compare/v1.39.0...v1.40.0) (2024-10-08)
 
 
