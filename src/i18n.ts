@@ -1,4 +1,4 @@
-import i18n from 'i18next';
+import i18n, { InitOptions } from 'i18next';
 
 import { ar, de, en, fr, it, es, namespaces } from './langs/index.js';
 
@@ -7,6 +7,7 @@ export const DEFAULT_LANG = 'en';
 export const buildI18n = (
   defaultNamespace = namespaces.messages,
   debug?: boolean,
+  options?: Partial<InitOptions>,
 ) => {
   i18n.init({
     resources: {
@@ -30,6 +31,7 @@ export const buildI18n = (
       escapeValue: false,
       formatSeparator: ',',
     },
+    ...options,
   });
 
   return i18n;
