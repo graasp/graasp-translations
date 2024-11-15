@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.42.0](https://github.com/graasp/graasp-translations/compare/v1.41.0...v1.42.0) (2024-11-15)
+
+
+### Features
+
+* add item tag error ([#569](https://github.com/graasp/graasp-translations/issues/569)) ([d5beef2](https://github.com/graasp/graasp-translations/commit/d5beef26026baf3a868a0ec6e269646a5704a126))
+
+
+### Bug Fixes
+
+* add options in build i18n ([#567](https://github.com/graasp/graasp-translations/issues/567)) ([776d0b9](https://github.com/graasp/graasp-translations/commit/776d0b99c8d64f89fccab2f94a5951d516c56e15))
+* add spanish in bundle ([#566](https://github.com/graasp/graasp-translations/issues/566)) ([59e0a95](https://github.com/graasp/graasp-translations/commit/59e0a957735e564f4929c5c657c403db662fb59e))
+
 ## [1.41.0](https://github.com/graasp/graasp-translations/compare/v1.40.0...v1.41.0) (2024-11-06)
 
 
