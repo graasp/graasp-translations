@@ -1,1 +1,8 @@
-{}
+{
+  "discipline_one": "Discipline",
+  "discipline_other": "Disciplines",
+  "level_one": "Niveau",
+  "level_other": "Niveaux",
+  "resource-type_one": "Type de Ressource",
+  "resource-type_other": "Types de Ressource"
+}
