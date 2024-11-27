@@ -81,7 +81,6 @@ import accountTypesES from './es/accountTypes.json' with { type: 'json' };
 export const namespaces = {
   auth: 'auth',
   association: 'association',
-  tagCategories: 'tagCategories',
   chatbox: 'chatbox',
   common: 'common',
   enums: 'enums',
@@ -94,7 +93,6 @@ export const namespaces = {
 
 const en = {
   [namespaces.association]: associationEN,
-  [namespaces.tagCategories]: tagCategoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.common]: commonEN,
   [namespaces.enums]: {
@@ -104,6 +102,7 @@ const en = {
     ...flagEN,
     ...maxWidthEN,
     ...accountTypesEN,
+    ...tagCategoriesEN,
   },
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
@@ -112,7 +111,6 @@ const en = {
 
 const fr = {
   [namespaces.association]: associationFR,
-  [namespaces.tagCategories]: tagCategoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.common]: commonFR,
   [namespaces.enums]: {
@@ -122,6 +120,7 @@ const fr = {
     ...flagFR,
     ...maxWidthFR,
     ...accountTypesFR,
+    ...tagCategoriesFR,
   },
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
@@ -130,7 +129,6 @@ const fr = {
 
 const de = {
   [namespaces.association]: associationDE,
-  [namespaces.tagCategories]: tagCategoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
   [namespaces.enums]: {
@@ -140,6 +138,7 @@ const de = {
     ...flagDE,
     ...maxWidthDE,
     ...accountTypesDE,
+    ...tagCategoriesDE,
   },
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
@@ -148,7 +147,6 @@ const de = {
 
 const it = {
   [namespaces.association]: associationIT,
-  [namespaces.tagCategories]: tagCategoriesIT,
   [namespaces.chatbox]: chatboxIT,
   [namespaces.common]: commonIT,
   [namespaces.enums]: {
@@ -158,6 +156,7 @@ const it = {
     ...flagIT,
     ...maxWidthIT,
     ...accountTypesIT,
+    ...tagCategoriesIT,
   },
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
@@ -166,7 +165,6 @@ const it = {
 
 const ar = {
   [namespaces.association]: associationAR,
-  [namespaces.tagCategories]: tagCategoriesAR,
   [namespaces.chatbox]: chatboxAR,
   [namespaces.common]: commonAR,
   [namespaces.enums]: {
@@ -176,6 +174,7 @@ const ar = {
     ...flagAR,
     ...maxWidthAR,
     ...accountTypesAR,
+    ...tagCategoriesAR,
   },
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
@@ -184,7 +183,6 @@ const ar = {
 
 const es = {
   [namespaces.association]: associationES,
-  [namespaces.tagCategories]: tagCategoriesES,
   [namespaces.chatbox]: chatboxES,
   [namespaces.common]: commonES,
   [namespaces.enums]: {
