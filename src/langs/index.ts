@@ -10,12 +10,12 @@ import chatboxDE from './de/chatbox.json' with { type: 'json' };
 import chatboxIT from './it/chatbox.json' with { type: 'json' };
 import chatboxAR from './ar/chatbox.json' with { type: 'json' };
 import chatboxES from './es/chatbox.json' with { type: 'json' };
-import categoriesEN from './en/categories.json' with { type: 'json' };
-import categoriesFR from './fr/categories.json' with { type: 'json' };
-import categoriesDE from './de/categories.json' with { type: 'json' };
-import categoriesIT from './it/categories.json' with { type: 'json' };
-import categoriesAR from './ar/categories.json' with { type: 'json' };
-import categoriesES from './es/categories.json' with { type: 'json' };
+import tagCategoriesEN from './en/tagCategory.json' with { type: 'json' };
+import tagCategoriesFR from './fr/tagCategory.json' with { type: 'json' };
+import tagCategoriesDE from './de/tagCategory.json' with { type: 'json' };
+import tagCategoriesIT from './it/tagCategory.json' with { type: 'json' };
+import tagCategoriesAR from './ar/tagCategory.json' with { type: 'json' };
+import tagCategoriesES from './es/tagCategory.json' with { type: 'json' };
 import commonEN from './en/common.json' with { type: 'json' };
 import commonFR from './fr/common.json' with { type: 'json' };
 import commonDE from './de/common.json' with { type: 'json' };
@@ -81,7 +81,6 @@ import accountTypesES from './es/accountTypes.json' with { type: 'json' };
 export const namespaces = {
   auth: 'auth',
   association: 'association',
-  categories: 'categories',
   chatbox: 'chatbox',
   common: 'common',
   enums: 'enums',
@@ -94,7 +93,6 @@ export const namespaces = {
 
 const en = {
   [namespaces.association]: associationEN,
-  [namespaces.categories]: categoriesEN,
   [namespaces.chatbox]: chatboxEN,
   [namespaces.common]: commonEN,
   [namespaces.enums]: {
@@ -104,6 +102,7 @@ const en = {
     ...flagEN,
     ...maxWidthEN,
     ...accountTypesEN,
+    ...tagCategoriesEN,
   },
   [namespaces.messages]: messagesEN,
   [namespaces.uppy]: uppyEN,
@@ -112,7 +111,6 @@ const en = {
 
 const fr = {
   [namespaces.association]: associationFR,
-  [namespaces.categories]: categoriesFR,
   [namespaces.chatbox]: chatboxFR,
   [namespaces.common]: commonFR,
   [namespaces.enums]: {
@@ -122,6 +120,7 @@ const fr = {
     ...flagFR,
     ...maxWidthFR,
     ...accountTypesFR,
+    ...tagCategoriesFR,
   },
   [namespaces.messages]: messagesFR,
   [namespaces.uppy]: uppyFR,
@@ -130,7 +129,6 @@ const fr = {
 
 const de = {
   [namespaces.association]: associationDE,
-  [namespaces.categories]: categoriesDE,
   [namespaces.chatbox]: chatboxDE,
   [namespaces.common]: commonDE,
   [namespaces.enums]: {
@@ -140,6 +138,7 @@ const de = {
     ...flagDE,
     ...maxWidthDE,
     ...accountTypesDE,
+    ...tagCategoriesDE,
   },
   [namespaces.messages]: messagesDE,
   [namespaces.uppy]: uppyDE,
@@ -148,7 +147,6 @@ const de = {
 
 const it = {
   [namespaces.association]: associationIT,
-  [namespaces.categories]: categoriesIT,
   [namespaces.chatbox]: chatboxIT,
   [namespaces.common]: commonIT,
   [namespaces.enums]: {
@@ -158,6 +156,7 @@ const it = {
     ...flagIT,
     ...maxWidthIT,
     ...accountTypesIT,
+    ...tagCategoriesIT,
   },
   [namespaces.messages]: messagesIT,
   [namespaces.uppy]: uppyIT,
@@ -166,7 +165,6 @@ const it = {
 
 const ar = {
   [namespaces.association]: associationAR,
-  [namespaces.categories]: categoriesAR,
   [namespaces.chatbox]: chatboxAR,
   [namespaces.common]: commonAR,
   [namespaces.enums]: {
@@ -176,6 +174,7 @@ const ar = {
     ...flagAR,
     ...maxWidthAR,
     ...accountTypesAR,
+    ...tagCategoriesAR,
   },
   [namespaces.messages]: messagesAR,
   [namespaces.uppy]: uppyAR,
@@ -184,7 +183,6 @@ const ar = {
 
 const es = {
   [namespaces.association]: associationES,
-  [namespaces.categories]: categoriesES,
   [namespaces.chatbox]: chatboxES,
   [namespaces.common]: commonES,
   [namespaces.enums]: {
@@ -194,6 +192,7 @@ const es = {
     ...flagES,
     ...maxWidthES,
     ...accountTypesES,
+    ...tagCategoriesES,
   },
   [namespaces.messages]: messagesES,
   [namespaces.uppy]: uppyES,
