@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.43.0](https://github.com/graasp/graasp-translations/compare/v1.42.0...v1.43.0) (2024-12-10)
+
+
+### Features
+
+* add tag categories translations ([#574](https://github.com/graasp/graasp-translations/issues/574)) ([cc0be27](https://github.com/graasp/graasp-translations/commit/cc0be27a80de4e962ec14b199a20d3641ef8399c))
+
 ## [1.42.0](https://github.com/graasp/graasp-translations/compare/v1.41.0...v1.42.0) (2024-11-15)
 
 
