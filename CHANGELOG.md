@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.44.0](https://github.com/graasp/graasp-translations/compare/v1.43.0...v1.44.0) (2025-04-15)
+
+
+### Features
+
+* **graasp-import:** add a graasp file import error message ([#580](https://github.com/graasp/graasp-translations/issues/580)) ([d40d775](https://github.com/graasp/graasp-translations/commit/d40d775de4db4fafd54aa547cd6df69d97665a2b))
+
 ## [1.43.0](https://github.com/graasp/graasp-translations/compare/v1.42.0...v1.43.0) (2024-12-10)
 
 
