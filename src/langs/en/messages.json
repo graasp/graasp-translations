@@ -157,5 +157,6 @@
   "NOT_MEMBER_OR_GUEST": "Your account is not registered as member or pseudonimized user",
   "INVALID_ITEM_NAME_PATTERN_ERROR": "The item's name is not valid. It should start and end with an alphabetical character.",
   "INVALID_ITEM_NAME_MAX_LENGTH_ERROR": "The item's name is too long.",
-  "ITEM_TAG_ALREADY_EXISTS": "This tag is already associated with this item."
+  "ITEM_TAG_ALREADY_EXISTS": "This tag is already associated with this item.",
+  "GRAASP_EXPORT_FILE_ERROR": "An error was encounterd in the provided GRAASP export file."
 }
